@@ -11441,6 +11441,178 @@
    "notes": "",
    "links": {},
    "checked": "2026-10-11"
+  },
+  {
+   "id": "deloitte-tax-glasgow",
+   "emp": "Deloitte",
+   "title": "Tax Consulting Graduate Scheme 2027 – Glasgow",
+   "url": "https://www.gradcracker.com/hub/301/deloitte/graduate-job/84267/graduate-tax-consulting",
+   "src": "Gradcracker / Deloitte careers",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Tax",
+   "cities": [
+    "Glasgow",
+    "Edinburgh"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-10-23",
+   "dlNote": "May close early",
+   "status": "open",
+   "salary": "Competitive",
+   "degreeMin": "2:1",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:1, any degree subject",
+   "qual": "ATT, ACA, ICAS or CTA pathways",
+   "notes": "Deloitte allows one early-careers application a year.",
+   "links": {
+    "Glasgow": "https://www.gradcracker.com/hub/301/deloitte/graduate-job/84267/graduate-tax-consulting",
+    "Edinburgh": "https://www.gradcracker.com/hub/301/deloitte/graduate-job/84266/graduate-tax-consulting"
+   },
+   "checked": "2026-10-11"
+  },
+  {
+   "id": "accenture-bristol-se",
+   "emp": "Accenture",
+   "title": "Bristol Software Engineering Graduate Programme 2027–2028",
+   "url": "https://www.gradcracker.com/hub/269/accenture/graduate-job/85133/bristol-software-engineering-graduate-programme-2027-2028",
+   "src": "Gradcracker",
+   "disciplines": [
+    "computing",
+    "maths-physics",
+    "sciences",
+    "engineering"
+   ],
+   "area": "Technology",
+   "cities": [
+    "Bristol"
+   ],
+   "start": "Sep 2027",
+   "dl": null,
+   "dlNote": "Ongoing – apply early",
+   "status": "open",
+   "salary": "£36,400 + £7,200 signing bonus",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "Computer science, IT or a tech-related degree (maths, science or engineering with strong coding)",
+   "qual": "None",
+   "notes": "At least 3 office days a week. No UK work permit sponsorship.",
+   "links": {},
+   "checked": "2026-10-11"
+  },
+  {
+   "id": "atkinsrealis-digital-tech",
+   "emp": "AtkinsRéalis",
+   "title": "Digital and Technology Graduate Programme 2027",
+   "url": "https://www.gradcracker.com/hub/106/atkinsrealis/graduate-job/83663/digital-and-technology-graduate-programme",
+   "src": "Gradcracker",
+   "disciplines": [
+    "computing"
+   ],
+   "area": "Technology",
+   "cities": [
+    "London",
+    "Bristol"
+   ],
+   "start": "Not stated",
+   "dl": "2026-12-03",
+   "dlNote": "Rolling review – may close early",
+   "status": "open",
+   "salary": "£32,000–£34,500",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "Computer science, data science, IT or software/systems",
+   "qual": "None",
+   "notes": "Security clearance may be needed.",
+   "links": {},
+   "checked": "2026-10-11"
+  },
+  {
+   "id": "lawsons-future-leaders",
+   "emp": "Lawsons",
+   "title": "Graduate Future Leaders Programme – September 2027",
+   "url": "https://www.gradcracker.com/hub/1509/lawsons/graduate-job/84552/lawsons-graduate-future-leaders-programme-september-2027",
+   "src": "Gradcracker",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Retail & commercial",
+   "cities": [
+    "London",
+    "Romford",
+    "Letchworth",
+    "Wokingham",
+    "Crawley",
+    "Havant",
+    "Guildford",
+    "Colney Heath",
+    "Bedford",
+    "Ascot"
+   ],
+   "start": "Sep 2027",
+   "dl": null,
+   "dlNote": "Ongoing – apply early",
+   "status": "open",
+   "salary": "£32,000",
+   "degreeMin": "2:2",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": true,
+   "reqText": "2:2, any degree subject; driving licence",
+   "qual": "None",
+   "notes": "Two-year programme at a builders' merchant; travel between branches.",
+   "links": {},
+   "checked": "2026-10-11"
+  },
+  {
+   "id": "jlr-grads-2027",
+   "emp": "JLR",
+   "title": "Graduate Programmes 2027 (engineering, data analytics, project management, people/HR, creative design)",
+   "url": "https://careers.jlr.com/early-careers/graduates",
+   "src": "JLR careers",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Engineering",
+   "cities": [
+    "West Midlands"
+   ],
+   "start": "Sep 2027",
+   "dl": null,
+   "dlNote": "Applications open in stages across January 2027 and may close early",
+   "status": "soon",
+   "salary": "£32,000 + £2,000 joining bonus (rising to £39,000)",
+   "degreeMin": "2:2",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:2 (or on track), any discipline – STEM preferred for most programmes",
+   "qual": "None",
+   "notes": "Site confirmed at the assessment centre. No visa sponsorship.",
+   "links": {},
+   "checked": "2026-10-11"
   }
  ]
 }
