@@ -2264,6 +2264,8 @@
    "cities": [
     "London",
     "Birmingham",
+    "Manchester",
+    "Leeds",
     "Cambridge",
     "Newcastle",
     "Nottingham",
@@ -11894,16 +11896,22 @@
   {
    "id": "bw-investment-analyst",
    "emp": "Barnett Waddingham",
-   "title": "2027 Graduate – Investment Analyst (Leeds & Liverpool)",
-   "url": "https://jobs.workable.com/view/0c113983-6889-4329-9c5e-6a14cf7995fb",
+   "title": "2027 Graduate – Investment Analyst",
+   "url": "https://jobs.workable.com/view/676dd7cc-84a1-433f-a02e-c78614aaefd5",
    "src": "Barnett Waddingham careers (Workable)",
    "disciplines": [
     "any"
    ],
    "area": "Asset & wealth management",
    "cities": [
+    "Birmingham",
     "Leeds",
-    "Liverpool"
+    "Liverpool",
+    "London",
+    "Bristol",
+    "Cheltenham",
+    "Amersham",
+    "Glasgow"
    ],
    "start": "Sep 2027",
    "dl": "2026-10-31",
@@ -11924,8 +11932,14 @@
    "qual": "None",
    "notes": "Barnett Waddingham is part of Howden. You can apply to only one of its 2027 trainee programmes. Needs unrestricted UK right to work.",
    "links": {
+    "Birmingham": "https://jobs.workable.com/view/676dd7cc-84a1-433f-a02e-c78614aaefd5",
     "Leeds": "https://jobs.workable.com/view/0c113983-6889-4329-9c5e-6a14cf7995fb",
-    "Liverpool": "https://jobs.workable.com/view/221bf08c-da06-4ae5-9136-7886816155cf"
+    "Liverpool": "https://jobs.workable.com/view/221bf08c-da06-4ae5-9136-7886816155cf",
+    "London": "https://jobs.workable.com/view/74eb2afc-b115-4dcc-980d-31c12aa0a4a9",
+    "Bristol": "https://jobs.workable.com/view/8ad1c9ce-6e16-4091-8f06-8edbd1cc62a7",
+    "Cheltenham": "https://jobs.workable.com/view/bd083d67-2395-4540-8441-d1a93f5066d2",
+    "Amersham": "https://jobs.workable.com/view/cb5142ec-4576-4b81-8b77-27cb65d96f26",
+    "Glasgow": "https://jobs.workable.com/view/e37ae36b-04d8-4050-8f6c-a77f650382b9"
    },
    "checked": "2026-10-11"
   },
@@ -14347,6 +14361,312 @@
    "reqText": "Computer science, ecology, environmental science, sustainability, maths or transport planning",
    "qual": "None",
    "notes": "One application per person. Some roles need security clearance.",
+   "links": {},
+   "checked": "2026-10-11"
+  },
+  {
+   "id": "tpp-grad-software-dev",
+   "emp": "TPP",
+   "title": "Graduate Software Developer (Leeds)",
+   "url": "https://www.gradcracker.com/hub/578/tpp/graduate-job/71576/graduate-software-developer",
+   "src": "Gradcracker",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Technology",
+   "cities": [
+    "Leeds"
+   ],
+   "start": "Immediate or after you graduate",
+   "dl": null,
+   "dlNote": "Rolling",
+   "status": "open",
+   "salary": "£60,000+",
+   "degreeMin": "2:1",
+   "ucasMin": null,
+   "alevels": "AAA",
+   "alevelSubject": {
+    "subject": "Maths",
+    "grade": "A"
+   },
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:1 in any subject; AAA at A-level including A in Maths",
+   "qual": "None",
+   "notes": "Healthcare software company. TPP hires graduates all year and keeps applications on file for 12 months. International equivalents accepted.",
+   "links": {},
+   "checked": "2026-10-11"
+  },
+  {
+   "id": "tpp-account-manager",
+   "emp": "TPP",
+   "title": "Account Manager (Graduate, Leeds)",
+   "url": "https://www.gradcracker.com/hub/578/tpp/graduate-job/24885/account-managers",
+   "src": "Gradcracker",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Retail & commercial",
+   "cities": [
+    "Leeds"
+   ],
+   "start": "Immediate or after you graduate",
+   "dl": null,
+   "dlNote": "Rolling",
+   "status": "open",
+   "salary": "£60,000",
+   "degreeMin": "2:1",
+   "ucasMin": null,
+   "alevels": "AAB",
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:1 in any subject; AAB at A-level",
+   "qual": "None",
+   "notes": "Manages large NHS accounts and finds sales opportunities. TPP hires graduates all year and keeps applications on file for 12 months. International equivalents accepted.",
+   "links": {},
+   "checked": "2026-10-11"
+  },
+  {
+   "id": "tpp-business-analyst",
+   "emp": "TPP",
+   "title": "Business Analyst (Graduate, Leeds)",
+   "url": "https://www.gradcracker.com/hub/578/tpp/graduate-job/18466/business-analyst",
+   "src": "Gradcracker",
+   "disciplines": [
+    "computing",
+    "maths-physics",
+    "engineering",
+    "sciences"
+   ],
+   "area": "Technology",
+   "cities": [
+    "Leeds"
+   ],
+   "start": "Immediate or after you graduate",
+   "dl": null,
+   "dlNote": "Rolling",
+   "status": "open",
+   "salary": "£60,000",
+   "degreeMin": "2:1",
+   "ucasMin": null,
+   "alevels": "AAB",
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:1 (predicted) in a STEM subject; AAB at A-level",
+   "qual": "None",
+   "notes": "Designs healthcare software features and runs projects. TPP hires graduates all year and keeps applications on file for 12 months. International equivalents accepted.",
+   "links": {},
+   "checked": "2026-10-11"
+  },
+  {
+   "id": "ey-actuarial-2027",
+   "emp": "EY",
+   "title": "Actuarial Graduate Programme – September 2027 intake",
+   "url": "https://flexa.careers/jobs/ey-actuarial-graduate-programme-september-2027-intake-6abe40325ff9de5a7c6204ba",
+   "src": "Flexa / EY careers",
+   "disciplines": [
+    "maths-physics",
+    "economics",
+    "accounting-finance",
+    "engineering",
+    "computing",
+    "sciences"
+   ],
+   "area": "Insurance & risk",
+   "cities": [
+    "Birmingham",
+    "Leeds",
+    "London",
+    "Bristol",
+    "Edinburgh"
+   ],
+   "start": "Sep 2027",
+   "dl": null,
+   "dlNote": "No closing date shown – apply early",
+   "status": "open",
+   "salary": "Competitive",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "Any degree subject (strong maths expected for actuarial exams)",
+   "qual": "IFoA actuarial exams",
+   "notes": "Two-year programme; 1–2 office days a week.",
+   "links": {},
+   "checked": "2026-10-11"
+  },
+  {
+   "id": "bw-actuarial-insurance-london",
+   "emp": "Barnett Waddingham",
+   "title": "2027 Graduate – Trainee Actuarial Consultant (Actuarial Insurance, London)",
+   "url": "https://jobs.workable.com/view/9847b54c-d595-435f-addc-ce4c92aae52b",
+   "src": "Barnett Waddingham careers (Workable)",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Insurance & risk",
+   "cities": [
+    "London"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-10-13",
+   "dlNote": "",
+   "status": "open",
+   "salary": "£32,000–£34,000",
+   "degreeMin": "2:1",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": {
+    "subject": "Maths",
+    "grade": "A"
+   },
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:1, any subject; A in A-level Maths (or Higher Maths)",
+   "qual": "IFoA actuarial exams",
+   "notes": "One 2027 Barnett Waddingham application only.",
+   "links": {},
+   "checked": "2026-10-11"
+  },
+  {
+   "id": "mott-transport-planner",
+   "emp": "Mott MacDonald",
+   "title": "2027 UK Graduate Transport Planning and Modelling Career Path: Transport Planner",
+   "url": "https://www.gradcracker.com/hub/3/mott-macdonald/graduate-job/84042/2027-uk-graduate-transport-planning-and-modelling-career-path-transport-planner",
+   "src": "Gradcracker",
+   "disciplines": [
+    "built-environment",
+    "engineering",
+    "social-sciences",
+    "maths-physics"
+   ],
+   "area": "Engineering",
+   "cities": [
+    "Liverpool",
+    "Manchester",
+    "Birmingham"
+   ],
+   "start": "Not stated",
+   "dl": null,
+   "dlNote": "Ongoing – apply early",
+   "status": "open",
+   "salary": "Competitive",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "Transport planning, geography, civil engineering, maths or a related degree",
+   "qual": "None",
+   "notes": "One application per person. No Skilled Worker sponsorship.",
+   "links": {},
+   "checked": "2026-10-11"
+  },
+  {
+   "id": "mott-water-quality-modeller",
+   "emp": "Mott MacDonald",
+   "title": "2027 UK Graduate Flood Risk and Water Resources Career Path: Water Quality Modeller",
+   "url": "https://www.gradcracker.com/hub/3/mott-macdonald/graduate-job/84104/2027-uk-graduate-flood-risk-and-water-resources-career-path-water-quality-modeller",
+   "src": "Gradcracker",
+   "disciplines": [
+    "sciences",
+    "engineering",
+    "maths-physics"
+   ],
+   "area": "Science & healthcare",
+   "cities": [
+    "Liverpool",
+    "Manchester"
+   ],
+   "start": "Not stated",
+   "dl": null,
+   "dlNote": "Ongoing – apply early",
+   "status": "open",
+   "salary": "Competitive",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "Environmental science, engineering, maths or a related degree",
+   "qual": "None",
+   "notes": "One application per person. No Skilled Worker sponsorship.",
+   "links": {},
+   "checked": "2026-10-11"
+  },
+  {
+   "id": "arup-bim-water-liverpool",
+   "emp": "Arup",
+   "title": "Graduate BIM Engineer – Water (Liverpool)",
+   "url": "https://www.gradcracker.com/hub/169/arup/graduate-job/84608/graduate-bim-engineer-water",
+   "src": "Gradcracker",
+   "disciplines": [
+    "engineering",
+    "built-environment"
+   ],
+   "area": "Engineering",
+   "cities": [
+    "Liverpool"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-10-16",
+   "dlNote": "",
+   "status": "open",
+   "salary": "Competitive",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "Engineering or related degree",
+   "qual": "None",
+   "notes": "No visa sponsorship.",
+   "links": {},
+   "checked": "2026-10-11"
+  },
+  {
+   "id": "arup-bs-electrical-liverpool",
+   "emp": "Arup",
+   "title": "Graduate Building Services Electrical Engineer (Liverpool)",
+   "url": "https://www.gradcracker.com/hub/169/arup/graduate-job/84669/graduate-building-services-electrical-engineer",
+   "src": "Gradcracker",
+   "disciplines": [
+    "engineering"
+   ],
+   "area": "Engineering",
+   "cities": [
+    "Liverpool"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-10-16",
+   "dlNote": "",
+   "status": "open",
+   "salary": "Competitive",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "Electrical or building services engineering degree",
+   "qual": "None",
+   "notes": "No visa sponsorship.",
    "links": {},
    "checked": "2026-10-11"
   }
