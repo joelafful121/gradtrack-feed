@@ -1,7 +1,7 @@
 {
   "name": "GradTrack 2027",
   "short_name": "GradTrack",
-  "description": "UK 2027 graduate schemes filtered to your degree, grades, sector and location.",
+  "description": "UK 2027 graduate schemes and entry-level jobs filtered to your degree, grades, sector and location – with a plan that fits around your week.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

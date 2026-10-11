@@ -1,6 +1,6 @@
 /* GradTrack offline support: keeps a copy of the app so it opens without signal.
    The daily job list (on raw.githubusercontent.com) is fetched by the page itself and cached in the browser. */
-const CACHE = 'gradtrack-v1';
+const CACHE = 'gradtrack-v2';
 const ASSETS = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './apple-touch-icon.png', './favicon-32.png'];
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(ASSETS)).then(() => self.skipWaiting()));
