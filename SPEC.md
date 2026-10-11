@@ -47,7 +47,8 @@ Write a JSON array to the file path given in your task (pretty-printed, UTF-8). 
 }
 
 DISCIPLINE KEYS (degree subjects):
-"accounting-finance", "business", "economics", "law", "computing", "engineering", "maths-physics", "sciences", "social-sciences", "humanities", "creative", "built-environment"
+"accounting-finance", "business", "economics", "law", "computing", "engineering", "maths-physics", "sciences", "social-sciences", "psychology", "humanities", "creative", "built-environment"
+(Use "psychology" when a posting names psychology; "social-sciences" covers sociology, politics, geography, criminology and similar.)
 (Use ["any"] when the scheme accepts any degree subject. If it lists specific subjects, map them to these keys, e.g. 'numerate degree' -> ["accounting-finance","economics","maths-physics","engineering","computing","sciences"]; 'STEM' -> ["computing","engineering","maths-physics","sciences"].)
 
 AREA labels:
