@@ -7413,6 +7413,7 @@
    "area": "Tax",
    "cities": [
     "Birmingham",
+    "Leeds",
     "Manchester"
    ],
    "start": "Autumn 2027",
@@ -7432,6 +7433,7 @@
    "notes": "Deloitte allows one early-careers application a year. No Skilled Worker sponsorship.",
    "links": {
     "Birmingham": "https://www.brightnetwork.co.uk/graduate-jobs/deloitte/indirect-tax-consulting-graduate-scheme-2027-4",
+    "Leeds": "https://www.gradcracker.com/hub/301/deloitte/graduate-job/85214/graduate-indirect-tax-consulting",
     "Manchester": "https://www.gradcracker.com/hub/301/deloitte/graduate-job/85241/graduate-indirect-tax-consulting"
    },
    "checked": "2026-10-11"
@@ -11655,7 +11657,7 @@
   {
    "id": "barclays-uk-corporate-bham",
    "emp": "Barclays",
-   "title": "UK Corporate Banking Graduate Programme 2027 – Birmingham",
+   "title": "UK Corporate Banking Graduate Programme 2027 – Birmingham & Leeds",
    "url": "https://www.gradcracker.com/hub/180/barclays/graduate-job/83312/uk-corporate-banking-graduate-programme-2027",
    "src": "Gradcracker",
    "disciplines": [
@@ -11663,7 +11665,8 @@
    ],
    "area": "Banking & markets",
    "cities": [
-    "Birmingham"
+    "Birmingham",
+    "Leeds"
    ],
    "start": "Aug 2027",
    "dl": "2026-10-31",
@@ -11680,7 +11683,10 @@
    "reqText": "Any degree subject (listed for all STEM disciplines on Gradcracker)",
    "qual": "None",
    "notes": "Visa sponsorship available if eligible.",
-   "links": {},
+   "links": {
+    "Birmingham": "https://www.gradcracker.com/hub/180/barclays/graduate-job/83312/uk-corporate-banking-graduate-programme-2027",
+    "Leeds": "https://www.gradcracker.com/hub/180/barclays/graduate-job/83327/uk-corporate-banking-graduate-programme-2027"
+   },
    "checked": "2026-10-11"
   },
   {
@@ -12390,7 +12396,7 @@
   {
    "id": "accenture-tech-analyst-bham",
    "emp": "Accenture",
-   "title": "Birmingham Technology Analyst Graduate Programme 2027–2028",
+   "title": "Technology Analyst Graduate Programme 2027–2028 – Birmingham, Leeds & Manchester",
    "url": "https://www.gradcracker.com/hub/269/accenture/graduate-job/85121/birmingham-technology-analyst-graduate-programme-2027-2028",
    "src": "Gradcracker",
    "disciplines": [
@@ -12398,7 +12404,9 @@
    ],
    "area": "Technology",
    "cities": [
-    "Birmingham"
+    "Birmingham",
+    "Leeds",
+    "Manchester"
    ],
    "start": "Sep 2027",
    "dl": null,
@@ -12415,13 +12423,17 @@
    "reqText": "Any degree subject",
    "qual": "None",
    "notes": "Hybrid, at least 3 office days a week. No UK work permit sponsorship.",
-   "links": {},
+   "links": {
+    "Birmingham": "https://www.gradcracker.com/hub/269/accenture/graduate-job/85121/birmingham-technology-analyst-graduate-programme-2027-2028",
+    "Leeds": "https://www.gradcracker.com/hub/269/accenture/graduate-job/85125/leeds-technology-analyst-graduate-programme-2027-2028",
+    "Manchester": "https://www.gradcracker.com/hub/269/accenture/graduate-job/85126/manchester-technology-analyst-graduate-programme-2027-2028"
+   },
    "checked": "2026-10-11"
   },
   {
    "id": "accenture-se-bham",
    "emp": "Accenture",
-   "title": "Birmingham Software Engineering Graduate Programme 2027–2028",
+   "title": "Software Engineering Graduate Programme 2027–2028 – Birmingham & Leeds",
    "url": "https://www.gradcracker.com/hub/269/accenture/graduate-job/85132/birmingham-software-engineering-graduate-programme-2027-2028",
    "src": "Gradcracker",
    "disciplines": [
@@ -12432,7 +12444,8 @@
    ],
    "area": "Technology",
    "cities": [
-    "Birmingham"
+    "Birmingham",
+    "Leeds"
    ],
    "start": "Sep 2027",
    "dl": null,
@@ -12449,7 +12462,10 @@
    "reqText": "Computer science, IT or tech-related degree (maths, science or engineering with strong coding)",
    "qual": "None",
    "notes": "No UK work permit sponsorship.",
-   "links": {},
+   "links": {
+    "Birmingham": "https://www.gradcracker.com/hub/269/accenture/graduate-job/85132/birmingham-software-engineering-graduate-programme-2027-2028",
+    "Leeds": "https://www.gradcracker.com/hub/269/accenture/graduate-job/85138/leeds-software-engineering-graduate-programme-2027-2028"
+   },
    "checked": "2026-10-11"
   },
   {
@@ -13903,6 +13919,434 @@
    "reqText": "2:1 undergraduate degree (any subject) plus a postgraduate degree in science or engineering, or chartered status",
    "qual": "None",
    "notes": "Needs a science or engineering postgraduate degree before you start. Part of the Fast Stream (closes midday 5 Nov 2026; apply to up to 3 schemes). You can't choose your department or city – 2026 postings included London, the North West, West Midlands and Yorkshire.",
+   "links": {},
+   "checked": "2026-10-11"
+  },
+  {
+   "id": "bny-client-coverage-man",
+   "emp": "BNY",
+   "title": "2027 BNY Analyst Program – Client Coverage (Manchester)",
+   "url": "https://www.gradcracker.com/hub/1489/bny/graduate-job/83558/2027-bny-analyst-program-client-coverage",
+   "src": "Gradcracker",
+   "disciplines": [
+    "business",
+    "economics",
+    "computing",
+    "maths-physics",
+    "accounting-finance"
+   ],
+   "area": "Banking & markets",
+   "cities": [
+    "Manchester"
+   ],
+   "start": "2027",
+   "dl": null,
+   "dlNote": "Ongoing – apply early",
+   "status": "open",
+   "salary": "Competitive",
+   "degreeMin": "2:1",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:1; business, economics, IT, maths, statistics or project management preferred",
+   "qual": "None",
+   "notes": "24-month rotational programme. Must graduate Dec 2026 or summer 2027 and not need visa sponsorship now or later.",
+   "links": {},
+   "checked": "2026-10-11"
+  },
+  {
+   "id": "bny-data-science-man",
+   "emp": "BNY",
+   "title": "2027 BNY Analyst Program – Engineering (Data Science) (Manchester)",
+   "url": "https://www.gradcracker.com/hub/1489/bny/graduate-job/83567/2027-bny-analyst-program-engineering-data-science",
+   "src": "Gradcracker",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Data & analytics",
+   "cities": [
+    "Manchester"
+   ],
+   "start": "2027",
+   "dl": null,
+   "dlNote": "Ongoing – apply early",
+   "status": "open",
+   "salary": "Competitive",
+   "degreeMin": "2:1",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:1, any subject (business or technology preferred)",
+   "qual": "None",
+   "notes": "24-month rotational programme. Must graduate Dec 2026 or summer 2027 and not need visa sponsorship now or later.",
+   "links": {},
+   "checked": "2026-10-11"
+  },
+  {
+   "id": "pg-sales-leeds-2027",
+   "emp": "Procter & Gamble",
+   "title": "Sales Graduate Role 2027 – Leeds / Harrogate",
+   "url": "https://www.gradcracker.com/hub/55/procter-and-gamble/graduate-job/84982/sales-graduate-role-2027",
+   "src": "Gradcracker",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Retail & commercial",
+   "cities": [
+    "Leeds",
+    "Harrogate"
+   ],
+   "start": "Jan 2027",
+   "dl": "2026-10-30",
+   "dlNote": "Closes 1pm",
+   "status": "open",
+   "salary": "£45,000",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": true,
+   "reqText": "Any degree; business, economics, marketing or project management listed",
+   "qual": "None",
+   "notes": "There's a separate listing for the Weybridge office. AI use in assessments isn't allowed.",
+   "links": {},
+   "checked": "2026-10-11"
+  },
+  {
+   "id": "tesco-category-manager",
+   "emp": "Tesco",
+   "title": "Graduate Scheme – Category Manager (Manchester)",
+   "url": "https://www.gradcracker.com/hub/848/tesco/graduate-job/83872/graduate-scheme-category-manager",
+   "src": "Gradcracker",
+   "disciplines": [
+    "business",
+    "economics",
+    "maths-physics",
+    "computing",
+    "any"
+   ],
+   "area": "Retail & commercial",
+   "cities": [
+    "Manchester",
+    "Wellingborough"
+   ],
+   "start": "Sep 2027",
+   "dl": null,
+   "dlNote": "Ongoing – apply early",
+   "status": "open",
+   "salary": "£32,000",
+   "degreeMin": "2:2",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:2 (or on track); business, economics, maths, analytics, data, supply chain or project management",
+   "qual": "None",
+   "notes": "Rotations across supply chain, trade planning and buying. Based at Eccles (Greater Manchester) or Wellingborough. Video interview step.",
+   "links": {},
+   "checked": "2026-10-11"
+  },
+  {
+   "id": "tesco-change-manager",
+   "emp": "Tesco",
+   "title": "Graduate Scheme – Change Manager (Manchester)",
+   "url": "https://www.gradcracker.com/hub/848/tesco/graduate-job/83873/graduate-scheme-change-manager",
+   "src": "Gradcracker",
+   "disciplines": [
+    "business",
+    "economics",
+    "maths-physics",
+    "computing",
+    "any"
+   ],
+   "area": "Operations & supply chain",
+   "cities": [
+    "Manchester"
+   ],
+   "start": "Sep 2027",
+   "dl": null,
+   "dlNote": "Ongoing – apply early",
+   "status": "open",
+   "salary": "£32,000",
+   "degreeMin": "2:2",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:2 (or on track); business, economics, maths, analytics, data, supply chain or project management",
+   "qual": "None",
+   "notes": "Based at Oldham (Greater Manchester). Rotational.",
+   "links": {},
+   "checked": "2026-10-11"
+  },
+  {
+   "id": "atkinsrealis-data-intelligence",
+   "emp": "AtkinsRéalis",
+   "title": "Data Intelligence Graduate Scheme 2027",
+   "url": "https://www.gradcracker.com/hub/106/atkinsrealis/graduate-job/83662/data-intelligence-graduate-scheme",
+   "src": "Gradcracker",
+   "disciplines": [
+    "computing",
+    "maths-physics"
+   ],
+   "area": "Data & analytics",
+   "cities": [
+    "Manchester",
+    "London",
+    "Bristol",
+    "Glasgow",
+    "Sheffield",
+    "Whitehaven",
+    "Epsom"
+   ],
+   "start": "Not stated",
+   "dl": "2026-12-03",
+   "dlNote": "Rolling review – may close early",
+   "status": "open",
+   "salary": "£32,000–£34,500",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "Analytics, statistics, computer science, cyber security, data science, IT or software degree",
+   "qual": "None",
+   "notes": "Security clearance may be needed. At least three days a week in the office or on site.",
+   "links": {},
+   "checked": "2026-10-11"
+  },
+  {
+   "id": "cgi-cyber-2027",
+   "emp": "CGI",
+   "title": "Technical Graduate – Cyber Security 2027",
+   "url": "https://www.gradcracker.com/hub/89/cgi/graduate-job/85474/technical-graduate-cyber-security-2027",
+   "src": "Gradcracker",
+   "disciplines": [
+    "computing",
+    "engineering",
+    "maths-physics"
+   ],
+   "area": "Technology",
+   "cities": [
+    "Manchester",
+    "London",
+    "Reading",
+    "Chippenham"
+   ],
+   "start": "2027",
+   "dl": null,
+   "dlNote": "Ongoing – apply early",
+   "status": "open",
+   "salary": "Competitive",
+   "degreeMin": "2:2",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:2 (some roles 2:1) in cyber security, computer science, IT, computer engineering or related STEM",
+   "qual": "None",
+   "notes": "Many roles need higher security vetting. UK travel needed.",
+   "links": {},
+   "checked": "2026-10-11"
+  },
+  {
+   "id": "capgemini-eng-public-sector",
+   "emp": "Capgemini Engineering",
+   "title": "Accelerate Graduate Programme – Public Sector",
+   "url": "https://www.gradcracker.com/hub/368/capgemini-engineering/graduate-job/85406/accelerate-graduate-programme-public-sector",
+   "src": "Gradcracker",
+   "disciplines": [
+    "business",
+    "computing",
+    "maths-physics",
+    "economics"
+   ],
+   "area": "Consulting",
+   "cities": [
+    "Manchester",
+    "London",
+    "Newcastle",
+    "Glasgow"
+   ],
+   "start": "Not stated",
+   "dl": null,
+   "dlNote": "Ongoing – apply early",
+   "status": "open",
+   "salary": "Competitive",
+   "degreeMin": "2:2",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:2 in analytics, statistics, business, data science or IT",
+   "qual": "None",
+   "notes": "About 20 months of public-sector transformation consulting. BPSS and DBS checks.",
+   "links": {},
+   "checked": "2026-10-11"
+  },
+  {
+   "id": "kaizen-ops-consultant",
+   "emp": "Kaizen Institute",
+   "title": "Graduate Operations Consultant",
+   "url": "https://www.gradcracker.com/hub/649/kaizen-institute/graduate-job/81293/graduate-operations-consultants",
+   "src": "Gradcracker",
+   "disciplines": [
+    "engineering",
+    "business"
+   ],
+   "area": "Operations & supply chain",
+   "cities": [
+    "Manchester",
+    "London"
+   ],
+   "start": "Rolling intakes",
+   "dl": "2026-12-31",
+   "dlNote": "",
+   "status": "open",
+   "salary": "Competitive",
+   "degreeMin": "2:1",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:1 master's in chemical/process, manufacturing or mechanical engineering, or supply chain & logistics",
+   "qual": "None",
+   "notes": "Needs a master's. Weekdays away from home are likely. Needs indefinite UK right to work.",
+   "links": {},
+   "checked": "2026-10-11"
+  },
+  {
+   "id": "united-utilities-future-leader",
+   "emp": "United Utilities",
+   "title": "Graduate Future Leader 2027",
+   "url": "https://www.gradcracker.com/hub/77/united-utilities/graduate-job/83734/graduate-future-leader",
+   "src": "Gradcracker",
+   "disciplines": [
+    "business",
+    "engineering",
+    "sciences",
+    "social-sciences",
+    "built-environment"
+   ],
+   "area": "Operations & supply chain",
+   "cities": [
+    "Manchester",
+    "Liverpool",
+    "Warrington"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-10-21",
+   "dlNote": "Deadline may change",
+   "status": "open",
+   "salary": "£32,250 + £2,000 welcome bonus",
+   "degreeMin": "2:1",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": true,
+   "reqText": "2:1 (or 2:2 with a master's) in business, civil/infrastructure, environmental, geography, project management or water",
+   "qual": "None",
+   "notes": "Sites at Lingley Mere (Warrington), Manchester and Fazakerley (Liverpool). In-person stage 17 Nov–11 Dec. No visa sponsorship. One graduate application per year.",
+   "links": {},
+   "checked": "2026-10-11"
+  },
+  {
+   "id": "arup-econ-regeneration",
+   "emp": "Arup",
+   "title": "Graduate Consultant – Economic Development & Regeneration",
+   "url": "https://www.gradcracker.com/hub/169/arup/graduate-job/84683/graduate-consultant-economic-development-and-regeneration",
+   "src": "Gradcracker",
+   "disciplines": [
+    "economics",
+    "social-sciences",
+    "built-environment"
+   ],
+   "area": "Consulting",
+   "cities": [
+    "Leeds",
+    "Manchester"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-10-16",
+   "dlNote": "May close early",
+   "status": "open",
+   "salary": "Competitive",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "Economics, geography, town planning or real estate degree",
+   "qual": "None",
+   "notes": "No visa sponsorship – permanent UK right to work needed.",
+   "links": {},
+   "checked": "2026-10-11"
+  },
+  {
+   "id": "mott-climate-sustainability",
+   "emp": "Mott MacDonald",
+   "title": "2027 UK Graduate Climate and Sustainability Consultancy Career Path",
+   "url": "https://www.gradcracker.com/hub/3/mott-macdonald/graduate-job/84074/2027-uk-graduate-climate-and-sustainability-consultancy-career-path",
+   "src": "Gradcracker",
+   "disciplines": [
+    "sciences",
+    "computing",
+    "maths-physics",
+    "social-sciences"
+   ],
+   "area": "Science & healthcare",
+   "cities": [
+    "Birmingham",
+    "Leeds",
+    "Manchester",
+    "London",
+    "Bristol",
+    "Cambridge",
+    "Cardiff",
+    "Edinburgh",
+    "Glasgow",
+    "Brighton",
+    "Sheffield"
+   ],
+   "start": "Not stated",
+   "dl": null,
+   "dlNote": "Closes once filled – apply early",
+   "status": "open",
+   "salary": "Competitive",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "Computer science, ecology, environmental science, sustainability, maths or transport planning",
+   "qual": "None",
+   "notes": "One application per person. Some roles need security clearance.",
    "links": {},
    "checked": "2026-10-11"
   }
