@@ -513,7 +513,7 @@ footer{margin-top:36px;font-size:12px;color:var(--muted)}
   </section>
 
   <section id="p-mine" hidden>
-    <p class="saveline" id="saveline">Mark schemes on their cards. Your choices are saved.</p>
+    <p class="saveline" id="saveline">Mark roles on their cards. Your choices are saved.</p>
     <div class="mycols" id="mycols"></div>
     <div class="col skiplist" id="skiplist"></div>
   </section>
@@ -525,7 +525,7 @@ footer{margin-top:36px;font-size:12px;color:var(--muted)}
 
   <div class="toast" id="toast" role="status" hidden></div>
 
-  <footer>Graduate schemes without a <b>posted</b> date are checked by hand against each employer's posting. Job ads (marked <b>Entry-level job</b> or <b>posted …</b>) are collected every day from job boards and their entry rules are read automatically from the ad, so open the ad before you rely on them. The list updates daily when you're online (offline, you'll see the last list you downloaded). Deadlines move, rolling schemes close early and entry rules change, so always confirm on the posting before you apply. Salaries are as advertised; "not stated" means the posting gave no figure. GradTrack is independent and not affiliated with any employer listed. Your data stays in this browser on this device – use <b>Back up</b> to keep a copy.</footer>
+  <footer>Graduate schemes without a <b>posted</b> date are checked by hand against each employer's posting. Job ads (marked <b>Entry-level job</b> or <b>posted …</b>) are collected every day from job boards and their entry rules are read automatically from the ad, so open the ad before you rely on them. The list updates daily when you're online (offline, you'll see the last list you downloaded). Deadlines move, rolling schemes and job ads close early and entry rules change, so always confirm on the posting before you apply. Salaries are as advertised; "not stated" means the posting gave no figure. GradTrack is independent and not affiliated with any employer listed. Your data stays in this browser on this device – use <b>Back up</b> to keep a copy.</footer>
 </div>
 <script>
 
@@ -955,7 +955,7 @@ function renderGrid(){
   const L=filtered();
   const q=$("#f-q").value.trim();
   const lim=Math.min(L.length,gridLimit*(compact?3:1)), left=L.length-lim;
-  g.innerHTML=L.slice(0,lim).map(compact?crow:card).join("")+(left>0?`<div class="morewrap"><button type="button" class="reset more" id="g-more">Show ${Math.min(left,compact?180:60)} more <span>(${left.toLocaleString("en-GB")} left)</span></button></div>`:"")||`<p class="empty">${q?"Nothing matches “"+esc(q)+"”"+(secName()||profile.city?" in "+esc([secName(),profile.city].filter(Boolean).join(", "))+" – set Sector to “All sectors” and Location to “All five cities” to search everything.":"."):sh==="skipped"?"You haven't marked any schemes as not interested.":sh==="applied"?"You haven't marked any schemes as applied yet.":sh==="fit"&&hasProfile()?"No "+esc(sectorWord())+"schemes match your details and filters yet – try another sector or location, or check the Not a match tab.":"No schemes match these filters."}</p>`;
+  g.innerHTML=L.slice(0,lim).map(compact?crow:card).join("")+(left>0?`<div class="morewrap"><button type="button" class="reset more" id="g-more">Show ${Math.min(left,compact?180:60)} more <span>(${left.toLocaleString("en-GB")} left)</span></button></div>`:"")||`<p class="empty">${q?"Nothing matches “"+esc(q)+"”"+(secName()||profile.city?" in "+esc([secName(),profile.city].filter(Boolean).join(", "))+" – set Sector to “All sectors” and Location to “All five cities” to search everything.":"."):sh==="skipped"?"You haven't marked any roles as not interested.":sh==="applied"?"You haven't marked any roles as applied yet.":sh==="fit"&&hasProfile()?"No "+esc(sectorWord())+"roles match your details and filters yet – try another sector or location, or check the Not a match tab.":"No roles match these filters."}</p>`;
   const live=ROLES.filter(r=>!isPassed(r)&&inScope(r));
   $("#f-count").textContent=L.length.toLocaleString("en-GB")+" of "+live.length.toLocaleString("en-GB")+(secName()||profile.city?" in "+[secName(),profile.city].filter(Boolean).join(", "):"");
   $("#c-roles").textContent=live.filter(r=>fits(r)&&!isApplied(r)&&!isSkipped(r)).length;
@@ -963,7 +963,7 @@ function renderGrid(){
 function renderStrip(){
   if(!ready()){$("#strip").innerHTML=WAIT();return;}
   const L=ROLES.filter(r=>{const n=daysLeft(r.dl);return n!==null&&n>=0&&!isApplied(r)&&!isSkipped(r)&&fits(r)&&!employerApplied(r.emp)}).sort((a,b)=>daysLeft(a.dl)-daysLeft(b.dl)).slice(0,12);
-  if(!L.length){$("#strip").innerHTML=`<p class="empty">No upcoming deadlines for schemes that fit your details.</p>`;return;}
+  if(!L.length){$("#strip").innerHTML=`<p class="empty">No upcoming deadlines for roles that fit your details.</p>`;return;}
   $("#strip").innerHTML=L.map(r=>{const n=daysLeft(r.dl);const cls=n<=3?"hot":n<=10?"warm":"";
     return `<div class="dl ${cls}"><a class="dla" href="${esc(r.url||"#")}" target="_blank" rel="noopener"><span class="days mono">${n===0?"Today":n+"d"}</span><span class="who">${esc(r.emp)}</span><span class="what">${esc(r.title)}</span><span class="what mono">${fmtDate(r.dl)}</span></a><button type="button" class="dlx" data-skip="${r.id}" aria-pressed="false" aria-label="Not interested in ${esc(r.emp)} – ${esc(r.title)}" title="Not interested">✕</button></div>`}).join("");
 }
@@ -1070,7 +1070,7 @@ function renderApps(){
     <label class="stg"><span class="eyebrow">Stage</span><select id="stage-${a.id}" data-stage="${a.id}">${opts(a)}</select></label>
     ${stageOf(a)!=="Applied"||isDone(a)?`<button type="button" class="donebtn" data-done="${a.id}" aria-pressed="${isDone(a)}">${isDone(a)?"Undo completed":"✓ Mark as completed"}</button>`:""}
     ${isDone(a)?"":`<label class="stg"><span class="eyebrow">Next deadline</span><span class="duerow"><input type="date" id="due-${a.id}" data-due="${a.id}" value="${esc(dueOf(a))}">${dueOf(a)?`<button type="button" class="clr" data-clear-due="${a.id}" aria-label="Clear deadline for ${esc(a.emp)}">Clear</button>`:""}</span></label>`}
-    ${prepBlock(a)}${a.facts?`<span class="facts2 mono">${esc(a.facts)}</span>`:""}${a.note?`<p>${esc(a.note)}</p>`:""}${a.url?`<a class="applink" href="${esc(a.url)}" target="_blank" rel="noopener">Open posting ↗</a>`:""}${a.user?`<button type="button" class="rmv" data-rmv="${esc(a.id)}">Remove</button>`:""}</div>`).join("")||`<p class="empty">No applications yet. Tick <b>I've applied</b> on any scheme below, or use <b>Add an application</b> – then set its stage and deadline here.</p>`;
+    ${prepBlock(a)}${a.facts?`<span class="facts2 mono">${esc(a.facts)}</span>`:""}${a.note?`<p>${esc(a.note)}</p>`:""}${a.url?`<a class="applink" href="${esc(a.url)}" target="_blank" rel="noopener">Open posting ↗</a>`:""}${a.user?`<button type="button" class="rmv" data-rmv="${esc(a.id)}">Remove</button>`:""}</div>`).join("")||`<p class="empty">No applications yet. Tick <b>I've applied</b> on any role below, or use <b>Add an application</b> – then set its stage and deadline here.</p>`;
   $("#apps-out").innerHTML=out.length?`<span class="eyebrow">Unsuccessful</span>`+out.map(a=>`<span class="chip rej">${esc(a.emp)} · ${esc(a.title)} <select aria-label="Stage for ${esc(a.emp)}" data-stage="${a.id}">${opts(a)}</select></span>`).join(""):"";
 }
 document.addEventListener("change",e=>{const id=e.target.dataset&&e.target.dataset.stage;if(!id)return;
@@ -1139,7 +1139,7 @@ $("#addform").addEventListener("submit",e=>{
   e.preventDefault();
   const emp=$("#aa-emp").value.trim(), title=$("#aa-title").value.trim();
   let url=$("#aa-url").value.trim();
-  if(!emp||!title){$("#aa-msg").textContent="Add the employer and the scheme name.";return;}
+  if(!emp||!title){$("#aa-msg").textContent="Add the employer and the role name.";return;}
   if(url&&!/^https?:\/\//i.test(url)) url="https://"+url;
   myApps.push({id:"m-"+Date.now().toString(36),roleId:null,emp,title,url,stage:$("#aa-stage").value,facts:"",note:$("#aa-note").value.trim(),added:new Date().toISOString().slice(0,10)});
   saveMyApps(); renderAll();
@@ -1237,13 +1237,13 @@ function renderTop3(){
     const due=r.dl?("Closes "+fmtDate(r.dl)+(n<=7?" ("+(n===0?"today":n+" day"+(n===1?"":"s")+" left")+")":"")):(r.dlNote||"No fixed deadline – apply early");
     const why=hasProfile()?`<div class="pwhy">${whyBits(r).map(x=>`<span>${esc(x)}</span>`).join("")}</div>`:`<p>${esc([r.reqText,mainCities(r).join(", ")].filter(Boolean).join(" · "))}</p>`;
     return `<div class="pick"><span class="n">APPLY FIRST · ${i+1}</span><h3>${esc(h)}</h3>${why}<div class="time">${esc(due)}<br>Form ~45 min · online tests ~1 hr</div><div class="pickfoot"><a href="${esc(r.url||"#")}" target="_blank" rel="noopener">Open posting ↗</a><span style="display:flex;gap:8px;flex-wrap:wrap">${skipBtn(r.id,"")}${applyBtn(r.id,"pickbtn")}</span></div></div>`}).join("")
-    ||(!ready()?WAIT():`<p class="empty">${hasProfile()?"No open "+esc(sectorWord())+typeWord()+" fit your details right now – try another sector or location. The list updates daily, so check back.":"Add your details above to see your best three schemes to apply to first."}</p>`);
+    ||(!ready()?WAIT():`<p class="empty">${hasProfile()?"No open "+esc(sectorWord())+typeWord()+" fit your details right now – try another sector or location. The list updates daily, so check back.":"Add your details above to see your best three roles to apply to first."}</p>`);
 }
 function renderLedger(){}
 function renderMine(){
   const cols=Object.entries(PICK).map(([k,v])=>{
     const L=ROLES.filter(r=>picks[r.id]===k).sort((a,b)=>(daysLeft(a.dl)??9999)-(daysLeft(b.dl)??9999));
-    return `<div class="col"><h3>${v}<span class="mono">${L.length}</span></h3>${L.length?L.map(r=>`<div class="mini"><b>${esc(r.emp)}</b><span>${esc(r.title)}</span><span class="mono">${esc(dlText(r))}</span></div>`).join(""):`<div class="empty">Nothing here yet. Use the "${v}" button on a scheme card.</div>`}</div>`}).join("");
+    return `<div class="col"><h3>${v}<span class="mono">${L.length}</span></h3>${L.length?L.map(r=>`<div class="mini"><b>${esc(r.emp)}</b><span>${esc(r.title)}</span><span class="mono">${esc(dlText(r))}</span></div>`).join(""):`<div class="empty">Nothing here yet. Use the "${v}" button on a role card.</div>`}</div>`}).join("");
   $("#mycols").innerHTML=cols;
   $("#c-mine").textContent=listCount();
   const S=ROLES.filter(isSkipped).sort((a,b)=>a.emp.localeCompare(b.emp));
@@ -1252,7 +1252,7 @@ function renderMine(){
 function renderRemoved(){
   if(!ready()){$("#removed").innerHTML=`<div class="rm"><span class="why2">${needMsg()}</span></div>`;$("#c-removed").textContent="";return;}
   const L=ROLES.filter(r=>!isPassed(r)&&!isApplied(r)&&inSector(r)&&inType(r)&&!fits(r)).sort((a,b)=>a.emp.localeCompare(b.emp));
-  $("#removed").innerHTML=L.length?L.slice(0,300).map(r=>{const c=check(r);const why=(inArea(r)?[]:["Not in "+profile.city]).concat(c.fail);return `<div class="rm"><b>${esc(r.emp)} – ${esc(r.title)}</b><span class="why2">${esc(why.join(" · "))}</span></div>`}).join("")+(L.length>300?`<div class="rm"><span class="why2">+ ${(L.length-300).toLocaleString("en-GB")} more not shown – pick a sector or location to narrow the list.</span></div>`:""):`<div class="rm"><span class="why2">${hasProfile()?"Nothing on the list rules you out – nice.":"Add your details above and any schemes that ask for more will show here, with the reason."}</span></div>`;
+  $("#removed").innerHTML=L.length?L.slice(0,300).map(r=>{const c=check(r);const why=(inArea(r)?[]:["Not in "+profile.city]).concat(c.fail);return `<div class="rm"><b>${esc(r.emp)} – ${esc(r.title)}</b><span class="why2">${esc(why.join(" · "))}</span></div>`}).join("")+(L.length>300?`<div class="rm"><span class="why2">+ ${(L.length-300).toLocaleString("en-GB")} more not shown – pick a sector or location to narrow the list.</span></div>`:""):`<div class="rm"><span class="why2">${hasProfile()?"Nothing on the list rules you out – nice.":"Add your details above and any roles that ask for more will show here, with the reason."}</span></div>`;
   $("#c-removed").textContent=L.length;
 }
 function renderSummary(){
@@ -1264,7 +1264,7 @@ function renderSummary(){
   if(u!=null) bits.push(u+" UCAS points"+(g.length&&!parseInt(profile.ucas,10)?" ("+g.join("")+")":""));
   if(profile.city) bits.push(profile.city);
   if(!ready()){$("#psum").innerHTML=`<b>Start here:</b> choose your degree subject and the sector you want (or All sectors), then add your grades and location and press Search. Nothing leaves this browser.`;return;}
-  $("#psum").innerHTML=hasProfile()?`${esc(bits.join(" · "))}${bits.length?" – ":""}<b>${fit.toLocaleString("en-GB")} of ${live.length.toLocaleString("en-GB")}</b> ${esc(sectorWord())}${typeWord()} fit your details. Leave anything blank if you're not sure; those schemes show a "Check" tag instead of being hidden.`:"Fill these in and every list below filters to schemes whose stated entry requirements you meet. Nothing leaves this browser.";
+  $("#psum").innerHTML=hasProfile()?`${esc(bits.join(" · "))}${bits.length?" – ":""}<b>${fit.toLocaleString("en-GB")} of ${live.length.toLocaleString("en-GB")}</b> ${esc(sectorWord())}${typeWord()} fit your details. Leave anything blank if you're not sure; those roles show a "Check" tag instead of being hidden.`:"Fill these in and every list below filters to roles whose stated entry requirements you meet. Nothing leaves this browser.";
 }
 function renderAll(){syncScope();renderSummary();renderApps();renderStats();renderStrip();renderGrid();renderMine();renderRemoved();renderTop3();}
 
