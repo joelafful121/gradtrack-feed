@@ -14669,6 +14669,170 @@
    "notes": "No visa sponsorship.",
    "links": {},
    "checked": "2026-10-11"
+  },
+  {
+   "id": "lloyds-occ-psych",
+   "emp": "Lloyds Banking Group",
+   "title": "Occupational Psychology Graduate Scheme 2027",
+   "url": "https://www.brightnetwork.co.uk/graduate-jobs/lloyds-banking-group/occupational-psychology-graduate-scheme-2027",
+   "src": "Bright Network",
+   "disciplines": [
+    "social-sciences",
+    "sciences"
+   ],
+   "area": "HR & people",
+   "cities": [
+    "Leeds",
+    "Bristol",
+    "Edinburgh"
+   ],
+   "start": "Not stated",
+   "dl": "2026-11-08",
+   "dlNote": "Leeds closes 8 Nov; Bristol and Edinburgh close 25 Oct",
+   "status": "open",
+   "salary": "£42,000",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "BPS-accredited master's in occupational psychology (current or completed); no minimum degree grade",
+   "qual": "Stage 2 Chartership (BPS), paid for",
+   "notes": "Needs a master's in occupational psychology. No visa sponsorship. May close early.",
+   "links": {},
+   "checked": "2026-10-11"
+  },
+  {
+   "id": "baringa-capabilities",
+   "emp": "Baringa",
+   "title": "Graduate Analyst Programme – Capabilities 2027",
+   "url": "https://www.brightnetwork.co.uk/graduate-jobs/baringa/graduate-analyst-programme-capabilities",
+   "src": "Bright Network",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Consulting",
+   "cities": [
+    "London"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-10-19",
+   "dlNote": "Closes 12pm",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "Any degree; preferred subjects vary by team (business, psychology, engineering, analytics, computer science, data science)",
+   "qual": "None",
+   "notes": "Teams: Customer; Enterprise Value Creation; Organisation, People & Change; Supply Chain & Procurement; Data, AI & Engineering. Assessment centres in the new year. Needs permanent UK right to work – no sponsorship.",
+   "links": {},
+   "checked": "2026-10-11"
+  },
+  {
+   "id": "baringa-products-services",
+   "emp": "Baringa",
+   "title": "Graduate Analyst Programme – Products & Services 2027",
+   "url": "https://www.brightnetwork.co.uk/graduate-jobs/baringa/graduate-analyst-programme-products-services",
+   "src": "Bright Network",
+   "disciplines": [
+    "business",
+    "accounting-finance",
+    "economics",
+    "engineering"
+   ],
+   "area": "Consulting",
+   "cities": [
+    "London"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-10-19",
+   "dlNote": "",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "Supply chain, business or operations management (consumer & retail); finance, accounting, economics or engineering (industrial manufacturing)",
+   "qual": "None",
+   "notes": "Assessment centres in the new year. Needs permanent UK right to work – no sponsorship.",
+   "links": {},
+   "checked": "2026-10-11"
+  },
+  {
+   "id": "lcp-dc-investment",
+   "emp": "LCP",
+   "title": "DC Investment & Governance Graduate Programme – September 2027",
+   "url": "https://www.brightnetwork.co.uk/graduate-jobs/lane-clark-peacock-llp/dc-investment-governance-graduate-programme-september-2027",
+   "src": "Bright Network",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Asset & wealth management",
+   "cities": [
+    "London"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-10-23",
+   "dlNote": "May close as early as 16 Oct if busy",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": "2:1",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": {
+    "subject": "Maths",
+    "grade": "A"
+   },
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:1 (or on track), any subject; A in A-level Maths or another numerical subject",
+   "qual": "None",
+   "notes": "Advises pension schemes on investments.",
+   "links": {},
+   "checked": "2026-10-11"
+  },
+  {
+   "id": "deloitte-btc-customer-products",
+   "emp": "Deloitte",
+   "title": "Business Transformation Consulting – Customer Products Graduate Scheme 2027",
+   "url": "https://www.brightnetwork.co.uk/graduate-jobs/deloitte/business-transformation-consulting-customer-products-graduate-scheme-2027-3",
+   "src": "Bright Network",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Consulting",
+   "cities": [
+    "London"
+   ],
+   "start": "Autumn 2027",
+   "dl": "2026-10-26",
+   "dlNote": "May close early",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": "2:1",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:1, any degree subject",
+   "qual": "None",
+   "notes": "Deloitte allows one early-careers application a year. No Skilled Worker sponsorship.",
+   "links": {},
+   "checked": "2026-10-11"
   }
  ]
 }
