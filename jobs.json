@@ -3945,7 +3945,7 @@
     "psychology",
     "sciences"
    ],
-   "area": "Science & healthcare",
+   "area": "Psychology & behavioural science",
    "cities": [
     "Bollington"
    ],
@@ -11211,7 +11211,7 @@
     "sciences",
     "engineering"
    ],
-   "area": "Science & healthcare",
+   "area": "Psychology & behavioural science",
    "cities": [
     "Warrington",
     "Bristol"
@@ -14624,7 +14624,7 @@
     "psychology",
     "sciences"
    ],
-   "area": "HR & people",
+   "area": "Psychology & behavioural science",
    "cities": [
     "Leeds",
     "Bristol",
@@ -14655,7 +14655,8 @@
    "url": "https://www.brightnetwork.co.uk/graduate-jobs/baringa/graduate-analyst-programme-capabilities",
    "src": "Bright Network",
    "disciplines": [
-    "any"
+    "any",
+    "psychology"
    ],
    "area": "Consulting",
    "cities": [
@@ -14675,7 +14676,7 @@
    "licence": false,
    "reqText": "Any degree; preferred subjects vary by team (business, psychology, engineering, analytics, computer science, data science)",
    "qual": "None",
-   "notes": "Teams: Customer; Enterprise Value Creation; Organisation, People & Change; Supply Chain & Procurement; Data, AI & Engineering. Assessment centres in the new year. Needs permanent UK right to work – no sponsorship.",
+   "notes": "Teams: Customer; Enterprise Value Creation; Organisation, People & Change (psychology or organisational psychology preferred); Supply Chain & Procurement; Data, AI & Engineering. Assessment centres in the new year. Needs permanent UK right to work – no sponsorship.",
    "links": {},
    "checked": "2026-10-11"
   },
@@ -14775,6 +14776,40 @@
    "reqText": "2:1, any degree subject",
    "qual": "None",
    "notes": "Deloitte allows one early-careers application a year. No Skilled Worker sponsorship.",
+   "links": {},
+   "checked": "2026-10-11"
+  },
+  {
+   "id": "fs-gsr",
+   "emp": "Civil Service Fast Stream",
+   "title": "Government Social Research Fast Stream 2027",
+   "url": "https://www.civil-service-careers.gov.uk/fast-stream/fs-all-schemes/fs-government-social-research",
+   "src": "Civil Service Careers",
+   "disciplines": [
+    "psychology",
+    "social-sciences",
+    "economics",
+    "humanities"
+   ],
+   "area": "Public sector",
+   "cities": [
+    "UK-wide"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-11-05",
+   "dlNote": "",
+   "status": "open",
+   "salary": "Around £31,500+ (about £45k–£55k after the scheme)",
+   "degreeMin": "2:2",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:1 (or a 2:2 plus a postgraduate degree) in a subject with substantial social research methods – about a third of modules, including quantitative methods; psychology, sociology, social policy, politics, criminology and geography degrees often qualify",
+   "qual": "None",
+   "notes": "Check your degree's methods modules against the list on the scheme page. Part of the Fast Stream (closes midday 5 Nov 2026; apply to up to 3 schemes). You can't choose your department – 2026 postings were in London, the West Midlands and Wales.",
    "links": {},
    "checked": "2026-10-11"
   }
