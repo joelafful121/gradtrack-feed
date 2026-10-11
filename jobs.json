@@ -6049,6 +6049,9 @@
    ],
    "area": "Technology",
    "cities": [
+    "Birmingham",
+    "Leeds",
+    "Manchester",
     "Bristol"
    ],
    "start": "Autumn 2027",
@@ -6066,7 +6069,12 @@
    "reqText": "2:1, any degree subject",
    "qual": "CISA or MSc Digital & Business Risk Management",
    "notes": "Deloitte allows one early-careers application a year. No Skilled Worker sponsorship.",
-   "links": {},
+   "links": {
+    "Birmingham": "https://www.gradcracker.com/hub/301/deloitte/graduate-job/85191/graduate-it-audit",
+    "Leeds": "https://www.gradcracker.com/hub/301/deloitte/graduate-job/85215/graduate-it-audit",
+    "Manchester": "https://www.gradcracker.com/hub/301/deloitte/graduate-job/85242/graduate-it-audit",
+    "Bristol": "https://www.brightnetwork.co.uk/graduate-jobs/deloitte/it-audit-technology-graduate-scheme-2027"
+   },
    "checked": "2026-10-11"
   },
   {
@@ -7404,7 +7412,8 @@
    ],
    "area": "Tax",
    "cities": [
-    "Birmingham"
+    "Birmingham",
+    "Manchester"
    ],
    "start": "Autumn 2027",
    "dl": "2026-10-23",
@@ -7421,7 +7430,10 @@
    "reqText": "2:1, any degree subject",
    "qual": "ATT / CTA / tax & customs routes",
    "notes": "Deloitte allows one early-careers application a year. No Skilled Worker sponsorship.",
-   "links": {},
+   "links": {
+    "Birmingham": "https://www.brightnetwork.co.uk/graduate-jobs/deloitte/indirect-tax-consulting-graduate-scheme-2027-4",
+    "Manchester": "https://www.gradcracker.com/hub/301/deloitte/graduate-job/85241/graduate-indirect-tax-consulting"
+   },
    "checked": "2026-10-11"
   },
   {
@@ -12098,7 +12110,7 @@
   {
    "id": "deloitte-tax-bham",
    "emp": "Deloitte",
-   "title": "Tax Consulting Graduate Scheme 2027 – Birmingham",
+   "title": "Tax Consulting Graduate Scheme 2027 – Birmingham, Leeds & Manchester",
    "url": "https://www.gradcracker.com/hub/301/deloitte/graduate-job/85192/graduate-tax-consulting",
    "src": "Gradcracker",
    "disciplines": [
@@ -12106,7 +12118,9 @@
    ],
    "area": "Tax",
    "cities": [
-    "Birmingham"
+    "Birmingham",
+    "Leeds",
+    "Manchester"
    ],
    "start": "Sep 2027",
    "dl": "2026-10-23",
@@ -12123,7 +12137,11 @@
    "reqText": "2:1, any degree subject",
    "qual": "ATT, ACA or CTA pathways",
    "notes": "Deloitte allows one early-careers application a year. No Skilled Worker sponsorship.",
-   "links": {},
+   "links": {
+    "Birmingham": "https://www.gradcracker.com/hub/301/deloitte/graduate-job/85192/graduate-tax-consulting",
+    "Leeds": "https://www.gradcracker.com/hub/301/deloitte/graduate-job/85217/graduate-tax-consulting",
+    "Manchester": "https://www.gradcracker.com/hub/301/deloitte/graduate-job/85244/graduate-tax-consulting"
+   },
    "checked": "2026-10-11"
   },
   {
@@ -12160,7 +12178,7 @@
   {
    "id": "deloitte-tax-tech-eng-bham",
    "emp": "Deloitte",
-   "title": "Tax Technology & Engineering Graduate Scheme 2027 – Birmingham",
+   "title": "Tax Technology & Engineering Graduate Scheme 2027 – Birmingham & Manchester",
    "url": "https://www.gradcracker.com/hub/301/deloitte/graduate-job/85195/graduate-tax-technology-and-engineering",
    "src": "Gradcracker",
    "disciplines": [
@@ -12169,7 +12187,8 @@
    ],
    "area": "Technology",
    "cities": [
-    "Birmingham"
+    "Birmingham",
+    "Manchester"
    ],
    "start": "Sep 2027",
    "dl": null,
@@ -12186,13 +12205,16 @@
    "reqText": "2:1 in computer science, software engineering, computing, information systems, cyber security or engineering & technology",
    "qual": "None",
    "notes": "Deloitte allows one early-careers application a year. No Skilled Worker sponsorship.",
-   "links": {},
+   "links": {
+    "Birmingham": "https://www.gradcracker.com/hub/301/deloitte/graduate-job/85195/graduate-tax-technology-and-engineering",
+    "Manchester": "https://www.gradcracker.com/hub/301/deloitte/graduate-job/85246/graduate-tax-technology-and-engineering"
+   },
    "checked": "2026-10-11"
   },
   {
    "id": "deloitte-tax-transformation-bham",
    "emp": "Deloitte",
-   "title": "Tax Transformation & Technology Graduate Scheme 2027 – Birmingham",
+   "title": "Tax Transformation & Technology Graduate Scheme 2027 – Birmingham & Manchester",
    "url": "https://www.gradcracker.com/hub/301/deloitte/graduate-job/85198/graduate-tax-transformation-and-technology",
    "src": "Gradcracker",
    "disciplines": [
@@ -12200,11 +12222,12 @@
    ],
    "area": "Tax",
    "cities": [
-    "Birmingham"
+    "Birmingham",
+    "Manchester"
    ],
    "start": "Sep 2027",
    "dl": null,
-   "dlNote": "Ongoing – apply early",
+   "dlNote": "Manchester closes 23 Oct 2026; Birmingham open until filled",
    "status": "open",
    "salary": "Competitive",
    "degreeMin": "2:1",
@@ -12217,7 +12240,10 @@
    "reqText": "2:1, any degree subject",
    "qual": "None",
    "notes": "Deloitte allows one early-careers application a year. No Skilled Worker sponsorship.",
-   "links": {},
+   "links": {
+    "Birmingham": "https://www.gradcracker.com/hub/301/deloitte/graduate-job/85198/graduate-tax-transformation-and-technology",
+    "Manchester": "https://www.gradcracker.com/hub/301/deloitte/graduate-job/85249/graduate-tax-transformation-and-technology"
+   },
    "checked": "2026-10-11"
   },
   {
@@ -13589,6 +13615,294 @@
    "reqText": "2:2, any degree (listed for all STEM disciplines)",
    "qual": "None",
    "notes": "Business transformation consulting for clients. You must have finished your degree before you start.",
+   "links": {},
+   "checked": "2026-10-11"
+  },
+  {
+   "id": "deloitte-audit-leeds",
+   "emp": "Deloitte",
+   "title": "Audit Graduate Scheme 2027 – Leeds",
+   "url": "https://www.gradcracker.com/hub/301/deloitte/graduate-job/85212/graduate-audit",
+   "src": "Gradcracker",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Audit & accounting",
+   "cities": [
+    "Leeds"
+   ],
+   "start": "Sep 2027",
+   "dl": null,
+   "dlNote": "Ongoing – apply early",
+   "status": "open",
+   "salary": "Competitive",
+   "degreeMin": "2:1",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:1, any degree subject",
+   "qual": "ACA (tuition funded)",
+   "notes": "Deloitte allows one early-careers application a year. No Skilled Worker sponsorship.",
+   "links": {},
+   "checked": "2026-10-11"
+  },
+  {
+   "id": "kpmg-tax-2027",
+   "emp": "KPMG",
+   "title": "2027 Tax Graduate Programme – Birmingham, Leeds & Manchester",
+   "url": "https://targetjobs.co.uk/jobs/kpmg-2027-tax-graduate-programme-birmingham-243525",
+   "src": "TargetJobs",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Tax",
+   "cities": [
+    "Birmingham",
+    "Leeds",
+    "Manchester"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-10-14",
+   "dlNote": "",
+   "status": "open",
+   "salary": "Competitive",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "Any degree subject – entry requirements are on KPMG's careers portal",
+   "qual": "ACA (or CA in Scotland), fully funded",
+   "notes": "Closes 14 Oct. Hybrid working, study leave.",
+   "links": {
+    "Birmingham": "https://targetjobs.co.uk/jobs/kpmg-2027-tax-graduate-programme-birmingham-243525",
+    "Leeds": "https://targetjobs.co.uk/jobs/kpmg-2027-tax-graduate-programme-leeds-243573",
+    "Manchester": "https://targetjobs.co.uk/jobs/kpmg-2027-tax-graduate-programme-manchester-243577"
+   },
+   "checked": "2026-10-11"
+  },
+  {
+   "id": "barclays-hr-london-2027",
+   "emp": "Barclays",
+   "title": "2027 Human Resources Analyst Graduate Programme – London",
+   "url": "https://targetjobs.co.uk/jobs/2027-human-resources-analyst-graduate-programme-london-245355",
+   "src": "TargetJobs",
+   "disciplines": [
+    "any"
+   ],
+   "area": "HR & people",
+   "cities": [
+    "London"
+   ],
+   "start": "31 Aug 2027",
+   "dl": "2026-10-24",
+   "dlNote": "The listing shows two closing dates (25 Sep and 24 Oct) – apply now",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "Strong degree (or expected before June 2027), any subject",
+   "qual": "None",
+   "notes": "Canary Wharf, in person. No visa sponsorship; you need the right to work full-time from Aug 2027 to Aug 2029.",
+   "links": {},
+   "checked": "2026-10-11"
+  },
+  {
+   "id": "fs-hr",
+   "emp": "Civil Service Fast Stream",
+   "title": "HR Fast Stream 2027",
+   "url": "https://www.civil-service-careers.gov.uk/fast-stream/fs-all-schemes/fs-human-resources-scheme/",
+   "src": "Civil Service Careers",
+   "disciplines": [
+    "any"
+   ],
+   "area": "HR & people",
+   "cities": [
+    "UK-wide"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-11-05",
+   "dlNote": "",
+   "status": "open",
+   "salary": "Around £31,500+ (about £49k–£60k after the scheme)",
+   "degreeMin": "2:2",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:2 or higher in any subject",
+   "qual": "Postgraduate Diploma in HR Management (CIPD Level 7)",
+   "notes": "Part of the Fast Stream (closes midday 5 Nov 2026; apply to up to 3 schemes). You can't choose your department or city – 2026 postings included London, the North West, West Midlands and Yorkshire.",
+   "links": {},
+   "checked": "2026-10-11"
+  },
+  {
+   "id": "fs-finance",
+   "emp": "Civil Service Fast Stream",
+   "title": "Finance Fast Stream 2027",
+   "url": "https://www.civil-service-careers.gov.uk/fast-stream/fs-all-schemes/fs-finance-scheme",
+   "src": "Civil Service Careers",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Corporate finance",
+   "cities": [
+    "UK-wide"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-11-05",
+   "dlNote": "",
+   "status": "open",
+   "salary": "Around £31,500+ (about £45k–£55k after the scheme)",
+   "degreeMin": "2:1",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:1 or higher in any subject",
+   "qual": "Professional accountancy qualification, fully funded",
+   "notes": "Part of the Fast Stream (closes midday 5 Nov 2026; apply to up to 3 schemes). You can't choose your department or city – 2026 postings included London, the North West, West Midlands and Yorkshire.",
+   "links": {},
+   "checked": "2026-10-11"
+  },
+  {
+   "id": "fs-digital",
+   "emp": "Civil Service Fast Stream",
+   "title": "Digital Fast Stream 2027",
+   "url": "https://www.civil-service-careers.gov.uk/fast-stream/fs-all-schemes/fs-digital-scheme",
+   "src": "Civil Service Careers",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Technology",
+   "cities": [
+    "UK-wide"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-11-05",
+   "dlNote": "",
+   "status": "open",
+   "salary": "Around £31,500+ (about £45k–£55k after the scheme)",
+   "degreeMin": "2:2",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:2 or higher in any subject",
+   "qual": "None",
+   "notes": "Technical roles need SC security clearance. Part of the Fast Stream (closes midday 5 Nov 2026; apply to up to 3 schemes). You can't choose your department or city – 2026 postings included London, the North West, West Midlands and Yorkshire.",
+   "links": {},
+   "checked": "2026-10-11"
+  },
+  {
+   "id": "fs-commercial",
+   "emp": "Civil Service Fast Stream",
+   "title": "Commercial Fast Stream 2027",
+   "url": "https://www.civil-service-careers.gov.uk/fast-stream/fs-all-schemes/fs-commercial-scheme/",
+   "src": "Civil Service Careers",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Operations & supply chain",
+   "cities": [
+    "UK-wide"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-11-05",
+   "dlNote": "",
+   "status": "open",
+   "salary": "Around £31,500+",
+   "degreeMin": "2:2",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:2 or higher in any subject",
+   "qual": "CIPS Practitioner and Advanced Practitioner, fully funded",
+   "notes": "Part of the Fast Stream (closes midday 5 Nov 2026; apply to up to 3 schemes). You can't choose your department or city – 2026 postings included London, the North West, West Midlands and Yorkshire.",
+   "links": {},
+   "checked": "2026-10-11"
+  },
+  {
+   "id": "fs-project-delivery",
+   "emp": "Civil Service Fast Stream",
+   "title": "Project Delivery Fast Stream 2027",
+   "url": "https://www.civil-service-careers.gov.uk/fast-stream/fs-all-schemes/fs-project-delivery-scheme/",
+   "src": "Civil Service Careers",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Operations & supply chain",
+   "cities": [
+    "UK-wide"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-11-05",
+   "dlNote": "",
+   "status": "open",
+   "salary": "Around £31,500+ (about £45k–£55k after the scheme)",
+   "degreeMin": "2:2",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:2 or higher in any subject",
+   "qual": "Project qualifications such as APM PMQ and PRINCE2",
+   "notes": "Part of the Fast Stream (closes midday 5 Nov 2026; apply to up to 3 schemes). You can't choose your department or city – 2026 postings included London, the North West, West Midlands and Yorkshire.",
+   "links": {},
+   "checked": "2026-10-11"
+  },
+  {
+   "id": "fs-science-engineering",
+   "emp": "Civil Service Fast Stream",
+   "title": "Science and Engineering Fast Stream 2027",
+   "url": "https://www.civil-service-careers.gov.uk/fast-stream/fs-all-schemes/fs-science-engineering-scheme/",
+   "src": "Civil Service Careers",
+   "disciplines": [
+    "sciences",
+    "engineering",
+    "maths-physics",
+    "computing"
+   ],
+   "area": "Science & healthcare",
+   "cities": [
+    "UK-wide"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-11-05",
+   "dlNote": "",
+   "status": "open",
+   "salary": "Around £31,500+",
+   "degreeMin": "2:1",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:1 undergraduate degree (any subject) plus a postgraduate degree in science or engineering, or chartered status",
+   "qual": "None",
+   "notes": "Needs a science or engineering postgraduate degree before you start. Part of the Fast Stream (closes midday 5 Nov 2026; apply to up to 3 schemes). You can't choose your department or city – 2026 postings included London, the North West, West Midlands and Yorkshire.",
    "links": {},
    "checked": "2026-10-11"
   }
