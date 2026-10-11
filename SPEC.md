@@ -48,11 +48,11 @@ Write a JSON array to the file path given in your task (pretty-printed, UTF-8). 
 
 DISCIPLINE KEYS (degree subjects):
 "accounting-finance", "business", "economics", "law", "computing", "engineering", "maths-physics", "sciences", "social-sciences", "psychology", "humanities", "creative", "built-environment"
-(Use "psychology" when a posting names psychology; "social-sciences" covers sociology, politics, geography, criminology and similar.)
+(Use "psychology" when a posting names psychology – those roles also appear under the "Psychology & behavioural science" sector. Use that area for roles whose work is psychology: occupational psychology, human factors, behavioural science, psychological or social research, mental-health trainee schemes; "social-sciences" covers sociology, politics, geography, criminology and similar.)
 (Use ["any"] when the scheme accepts any degree subject. If it lists specific subjects, map them to these keys, e.g. 'numerate degree' -> ["accounting-finance","economics","maths-physics","engineering","computing","sciences"]; 'STEM' -> ["computing","engineering","maths-physics","sciences"].)
 
 AREA labels:
-"Audit & accounting", "Tax", "Banking & markets", "Asset & wealth management", "Insurance & risk", "Corporate finance", "Consulting", "Law", "Public sector", "Engineering", "Technology", "Data & analytics", "Science & healthcare", "Marketing & media", "Retail & commercial", "HR & people", "Property & construction", "Operations & supply chain", "Teaching & social impact"
+"Audit & accounting", "Tax", "Banking & markets", "Asset & wealth management", "Insurance & risk", "Corporate finance", "Consulting", "Law", "Public sector", "Engineering", "Technology", "Data & analytics", "Science & healthcare", "Marketing & media", "Retail & commercial", "HR & people", "Property & construction", "Operations & supply chain", "Teaching & social impact", "Psychology & behavioural science"
 
 Quality over quantity: every entry must be verified. Aim for the target number in your task but never pad with unverified roles. If a firm has the same programme in several cities, ONE entry with all the cities is fine.
 
