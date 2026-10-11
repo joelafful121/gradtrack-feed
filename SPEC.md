@@ -6,6 +6,8 @@ Goal: find UK graduate schemes / graduate jobs that START AFTER summer 2027 grad
 - Graduate scheme or graduate-level job for 2027 graduates (NOT internships, placements, spring weeks, insight days, apprenticeships, experienced hires).
 - Based in the UK (record the cities where you can be based).
 - Start date is in 2027 after graduation (July–Dec 2027). If the posting says just "2027" or "September 2027", fine. Exclude 2026 or Jan–Jun 2027 starts.
+- Exception – law: solicitor training contracts open now for a 2028 or 2029 start are allowed (law firms recruit two years ahead). Record the real start in "start" and say so in "notes".
+- Location: the tracker only shows roles based in London, Birmingham, Manchester, Leeds or Liverpool (or ["UK-wide"]). Only add roles that can be based in at least one of those five cities; list every city the posting names.
 - Application is open now (deadline in the future or rolling) OR the employer has a confirmed 2027 posting that opens soon (status "soon"; only if there is a real vacancy page or an official programme page saying it opens in the coming weeks).
 - You have checked the actual posting (WebFetch it). The url must be the SPECIFIC vacancy/posting page (with the job title/ID), never a careers homepage. If only a programme page exists for a "soon" role, use it and set status "soon".
 
