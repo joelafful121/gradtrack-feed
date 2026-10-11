@@ -136,6 +136,9 @@ header.top p{margin:6px 0 0;color:var(--muted);max-width:62ch}
 .hiddennote{padding:10px 14px;border-top:1px solid var(--line);font-size:12.5px;color:var(--muted)}
 
 /* Profile + eligibility */
+.empty.wait{border:1.5px dashed var(--line);border-radius:var(--r);padding:16px;text-align:center;color:var(--muted);background:transparent}
+.top3 .empty,.grid .empty{grid-column:1/-1}
+.strip .empty.wait{flex:1 1 100%}
 .phoneline{font-size:13px;color:var(--muted);margin:-4px 0 14px}
 .phoneline a{color:var(--accent);font-weight:600}
 .nojs a{color:var(--accent);font-weight:700}
@@ -337,7 +340,7 @@ footer{margin-top:36px;font-size:12px;color:var(--muted)}
     <div class="prof-head"><h2 id="prof-h" style="font-size:20px">Your details</h2><span class="eyebrow">Filters every list on this page · saved in this browser</span></div>
     <form id="pform" class="pgrid" autocomplete="off" onsubmit="doSearch();return false">
       <label class="wide2">Degree subject<select id="p-subject"><option value="">Choose your degree subject</option><option value="accounting-finance">Accounting &amp; Finance</option><option value="business">Business &amp; Management</option><option value="economics">Economics</option><option value="law">Law</option><option value="computing">Computer Science &amp; IT</option><option value="engineering">Engineering</option><option value="maths-physics">Maths, Physics &amp; Statistics</option><option value="sciences">Life &amp; physical sciences</option><option value="social-sciences">Social sciences &amp; Psychology</option><option value="humanities">Humanities &amp; Languages</option><option value="creative">Creative arts, Media &amp; Design</option><option value="built-environment">Architecture, Surveying &amp; Planning</option></select></label>
-      <label class="wide2">Sector you want<select id="p-sector"><option value="">Any sector</option><option value="Audit &amp; accounting">Audit &amp; accounting (27)</option><option value="Tax">Tax (12)</option><option value="Banking &amp; markets">Banking &amp; markets (24)</option><option value="Asset &amp; wealth management">Asset &amp; wealth management (11)</option><option value="Insurance &amp; risk">Insurance &amp; risk (14)</option><option value="Corporate finance">Corporate finance (19)</option><option value="Consulting">Consulting (29)</option><option value="Law">Law (14)</option><option value="Public sector">Public sector (10)</option><option value="Engineering">Engineering (57)</option><option value="Technology">Technology (29)</option><option value="Data &amp; analytics">Data &amp; analytics (14)</option><option value="Science &amp; healthcare">Science &amp; healthcare (15)</option><option value="Marketing &amp; media">Marketing &amp; media (7)</option><option value="Retail &amp; commercial">Retail &amp; commercial (20)</option><option value="HR &amp; people">HR &amp; people (6)</option><option value="Property &amp; construction">Property &amp; construction (15)</option><option value="Operations &amp; supply chain">Operations &amp; supply chain (15)</option><option value="Teaching &amp; social impact">Teaching &amp; social impact (3)</option></select></label>
+      <label class="wide2">Sector you want<select id="p-sector"><option value="">Choose a sector</option><option value="all">All sectors (341)</option><option value="Audit &amp; accounting">Audit &amp; accounting (27)</option><option value="Tax">Tax (12)</option><option value="Banking &amp; markets">Banking &amp; markets (24)</option><option value="Asset &amp; wealth management">Asset &amp; wealth management (11)</option><option value="Insurance &amp; risk">Insurance &amp; risk (14)</option><option value="Corporate finance">Corporate finance (19)</option><option value="Consulting">Consulting (29)</option><option value="Law">Law (14)</option><option value="Public sector">Public sector (10)</option><option value="Engineering">Engineering (57)</option><option value="Technology">Technology (29)</option><option value="Data &amp; analytics">Data &amp; analytics (14)</option><option value="Science &amp; healthcare">Science &amp; healthcare (15)</option><option value="Marketing &amp; media">Marketing &amp; media (7)</option><option value="Retail &amp; commercial">Retail &amp; commercial (20)</option><option value="HR &amp; people">HR &amp; people (6)</option><option value="Property &amp; construction">Property &amp; construction (15)</option><option value="Operations &amp; supply chain">Operations &amp; supply chain (15)</option><option value="Teaching &amp; social impact">Teaching &amp; social impact (3)</option></select></label>
       <label>Expected degree<select id="p-degree"><option value="">Not sure yet</option><option>First</option><option>2:1</option><option>2:2</option><option>Third</option></select></label>
       <label>A-level grades<input id="p-alevels" maxlength="16" placeholder="e.g. AAB or BCD" inputmode="text" autocapitalize="characters"></label>
       <label>Or UCAS points<input id="p-ucas" type="number" min="0" max="400" step="1" placeholder="e.g. BTEC, Highers"></label>
@@ -394,7 +397,7 @@ footer{margin-top:36px;font-size:12px;color:var(--muted)}
   <section id="p-roles">
     <div class="filters">
       <label class="fq">Search<input id="f-q" type="search" placeholder="Employer or job, e.g. Deloitte" autocomplete="off" enterkeyhint="search"></label>
-      <label>Sector<select id="f-sector"><option value="">Any sector</option><option value="Audit &amp; accounting">Audit &amp; accounting (27)</option><option value="Tax">Tax (12)</option><option value="Banking &amp; markets">Banking &amp; markets (24)</option><option value="Asset &amp; wealth management">Asset &amp; wealth management (11)</option><option value="Insurance &amp; risk">Insurance &amp; risk (14)</option><option value="Corporate finance">Corporate finance (19)</option><option value="Consulting">Consulting (29)</option><option value="Law">Law (14)</option><option value="Public sector">Public sector (10)</option><option value="Engineering">Engineering (57)</option><option value="Technology">Technology (29)</option><option value="Data &amp; analytics">Data &amp; analytics (14)</option><option value="Science &amp; healthcare">Science &amp; healthcare (15)</option><option value="Marketing &amp; media">Marketing &amp; media (7)</option><option value="Retail &amp; commercial">Retail &amp; commercial (20)</option><option value="HR &amp; people">HR &amp; people (6)</option><option value="Property &amp; construction">Property &amp; construction (15)</option><option value="Operations &amp; supply chain">Operations &amp; supply chain (15)</option><option value="Teaching &amp; social impact">Teaching &amp; social impact (3)</option></select></label>
+      <label>Sector<select id="f-sector"><option value="">Choose a sector</option><option value="all">All sectors (341)</option><option value="Audit &amp; accounting">Audit &amp; accounting (27)</option><option value="Tax">Tax (12)</option><option value="Banking &amp; markets">Banking &amp; markets (24)</option><option value="Asset &amp; wealth management">Asset &amp; wealth management (11)</option><option value="Insurance &amp; risk">Insurance &amp; risk (14)</option><option value="Corporate finance">Corporate finance (19)</option><option value="Consulting">Consulting (29)</option><option value="Law">Law (14)</option><option value="Public sector">Public sector (10)</option><option value="Engineering">Engineering (57)</option><option value="Technology">Technology (29)</option><option value="Data &amp; analytics">Data &amp; analytics (14)</option><option value="Science &amp; healthcare">Science &amp; healthcare (15)</option><option value="Marketing &amp; media">Marketing &amp; media (7)</option><option value="Retail &amp; commercial">Retail &amp; commercial (20)</option><option value="HR &amp; people">HR &amp; people (6)</option><option value="Property &amp; construction">Property &amp; construction (15)</option><option value="Operations &amp; supply chain">Operations &amp; supply chain (15)</option><option value="Teaching &amp; social impact">Teaching &amp; social impact (3)</option></select></label>
       <label>Location<select id="f-city"><option value="">Anywhere in the UK</option><option>Aberdeen</option><option>Appleby-in-Westmorland</option><option>Ascot</option><option>Basingstoke</option><option>Bedford</option><option>Belfast</option><option>Belvedere</option><option>Birmingham</option><option>Birstall</option><option>Bo&#x27;ness</option><option>Bollington</option><option>Bolton</option><option>Bridgend</option><option>Brighton</option><option>Bristol</option><option>Brixworth</option><option>Burgess Hill</option><option>Cambridge</option><option>Cambridgeshire</option><option>Cardiff</option><option>Carlisle</option><option>Castle Cary</option><option>Chelmsford</option><option>Cheltenham</option><option>Cirencester</option><option>Colney Heath</option><option>Crawley</option><option>Crewe</option><option>Croydon</option><option>Darlington</option><option>Denham</option><option>Derby</option><option>Derbyshire</option><option>Derry</option><option>Didcot</option><option>Doncaster</option><option>Droitwich</option><option>Dumbarton</option><option>Dunfermline</option><option>Dungannon</option><option>Dunstable</option><option>East Anglia</option><option>East Midlands</option><option>Eastleigh</option><option>Edinburgh</option><option>Ellesmere Port</option><option>Epsom</option><option>Exeter</option><option>Fawley</option><option>Felixstowe</option><option>Folkestone</option><option>Gatwick</option><option>Glasgow</option><option>Gloucester</option><option>Goldthorpe</option><option>Goodwood</option><option>Grangemouth</option><option>Guildford</option><option>HM Naval Base Clyde</option><option>Halifax</option><option>Harrogate</option><option>Harwell</option><option>Hastings</option><option>Havant</option><option>Hereford</option><option>Hillsborough</option><option>Hove</option><option>Inverness</option><option>Kent</option><option>Kirkcaldy</option><option>Kirkham</option><option>Leeds</option><option>Leicester</option><option>Letchworth</option><option>Lincoln</option><option>Lincolnshire</option><option>Liverpool</option><option>London</option><option>Luton</option><option>Mallusk</option><option>Manchester</option><option>Middlesbrough</option><option>Milton Keynes</option><option>Newark</option><option>Newcastle</option><option>Newry</option><option>Newton Aycliffe</option><option>North Yorkshire</option><option>Northampton</option><option>Northfleet</option><option>Nottingham</option><option>Oxford</option><option>Par</option><option>Pembrokeshire</option><option>Perth</option><option>Peterborough</option><option>Plymouth</option><option>Pontefract</option><option>Portishead</option><option>Portsmouth</option><option>Preston</option><option>Reading</option><option>Ringwood</option><option>Rivenhall</option><option>Romford</option><option>Rosyth</option><option>Royston</option><option>Runcorn</option><option>Scotland</option><option>Sellafield</option><option>Sheffield</option><option>Skipton</option><option>Slough</option><option>Solihull</option><option>South West</option><option>Southampton</option><option>Staverton</option><option>Stevenage</option><option>Stockton-on-Tees</option><option>Stratford-upon-Avon</option><option>Suffolk</option><option>Sunderland</option><option>Swansea</option><option>Swindon</option><option>Taunton</option><option>Telford</option><option>Treforest</option><option>Truro</option><option>Tunbridge Wells</option><option>Walsall</option><option>Waltham</option><option>Warrington</option><option>Watford</option><option>Wednesbury</option><option>Welwyn Garden City</option><option>West Cumbria</option><option>West Midlands</option><option>West Thurrock</option><option>West Yorkshire</option><option>Weston-super-Mare</option><option>Weybridge</option><option>Whitehaven</option><option>Whiteley</option><option>Wiltshire</option><option>Winchester</option><option>Woking</option><option>Wokingham</option><option>Wolverhampton</option><option>Worcester</option><option>Workington</option><option>Worksop</option><option>York</option></select></label>
       <label>Status<select id="f-status">
         <option value="">All statuses</option><option value="open">Open</option><option value="soon">Opening soon</option><option value="watch">Watch list</option></select></label>
@@ -884,10 +887,15 @@ function check(r){
 }
 function inArea(r){const c=profile.city;if(!c)return true;return r.cities.includes(c)||r.cities.includes("UK-wide");}
 const AREAS = ["Audit & accounting", "Tax", "Banking & markets", "Asset & wealth management", "Insurance & risk", "Corporate finance", "Consulting", "Law", "Public sector", "Engineering", "Technology", "Data & analytics", "Science & healthcare", "Marketing & media", "Retail & commercial", "HR & people", "Property & construction", "Operations & supply chain", "Teaching & social impact"];
-function inSector(r){return !profile.sector||r.area===profile.sector;}
+function inSector(r){return !profile.sector||profile.sector==="all"||r.area===profile.sector;}
 const inScope=r=>inArea(r)&&inSector(r);
 const fits=r=>inScope(r)&&check(r).ok;
-const sectorWord=()=>profile.sector?profile.sector+" ":"";
+const secName=()=>profile.sector&&profile.sector!=="all"?profile.sector:"";
+const sectorWord=()=>secName()?secName()+" ":"";
+/* nothing is shown until the person has picked a degree subject and a sector (or "All sectors") */
+function ready(){return !!(profile.subject&&profile.sector);}
+function needMsg(){const m=[];if(!profile.subject)m.push("your degree subject");if(!profile.sector)m.push("the sector you want");return "Choose "+m.join(" and ")+" in Your details above, then press Search.";}
+const WAIT=()=>`<p class="empty wait">${needMsg()}</p>`;
 function eligChip(r){
   if(!inArea(r)) return `<span class="chip bad">Not in ${esc(profile.city)}</span>`;
   const c=check(r);
@@ -997,17 +1005,19 @@ function crow(r){
   return `<div class="crow"><div class="ct"><b>${isNew(r)?"🆕 ":""}${esc(r.emp)}</b><span>${esc(r.title)} · ${esc(r.cities.slice(0,3).join(", "))}${r.cities.length>3?"…":""}</span>${el}</div><span class="cdl${n!==null&&n>=0&&n<=3?" hot":""}">${esc(dl)}</span>${r.url?`<a href="${esc(r.url)}" target="_blank" rel="noopener">View ↗</a>`:`<span class="nolink">No link yet</span>`}<span>${applyBtn(r.id,"rowbtn")}${skipBtn(r.id,"rowbtn")}</span></div>`;
 }
 function renderGrid(){
-  const L=filtered();
   const g=$("#grid"); g.className=compact?"clist":"grid";
   $("#f-compact").setAttribute("aria-pressed",String(compact));
   const sh=$("#f-show").value;
+  if(!ready()&&sh!=="applied"&&sh!=="skipped"){g.className="grid";g.innerHTML=WAIT();$("#f-count").textContent="";$("#c-roles").textContent="";return;}
+  const L=filtered();
   const q=$("#f-q").value.trim();
-  g.innerHTML=L.map(compact?crow:card).join("")||`<p class="empty">${q?"Nothing matches “"+esc(q)+"”"+(profile.sector||profile.city?" in "+esc([profile.sector,profile.city].filter(Boolean).join(", "))+" – set Sector to “Any sector” and Location to “Anywhere in the UK” to search everything.":"."):sh==="skipped"?"You haven't marked any schemes as not interested.":sh==="fit"&&hasProfile()?"No "+esc(sectorWord())+"schemes match your details and filters yet – try another sector or location, or check the Not a match tab.":"No schemes match these filters."}</p>`;
+  g.innerHTML=L.map(compact?crow:card).join("")||`<p class="empty">${q?"Nothing matches “"+esc(q)+"”"+(secName()||profile.city?" in "+esc([secName(),profile.city].filter(Boolean).join(", "))+" – set Sector to “All sectors” and Location to “Anywhere in the UK” to search everything.":"."):sh==="skipped"?"You haven't marked any schemes as not interested.":sh==="applied"?"You haven't marked any schemes as applied yet.":sh==="fit"&&hasProfile()?"No "+esc(sectorWord())+"schemes match your details and filters yet – try another sector or location, or check the Not a match tab.":"No schemes match these filters."}</p>`;
   const live=ROLES.filter(r=>!isPassed(r)&&inScope(r));
-  $("#f-count").textContent=L.length+" of "+live.length+(profile.sector||profile.city?" in "+[profile.sector,profile.city].filter(Boolean).join(", "):"");
+  $("#f-count").textContent=L.length+" of "+live.length+(secName()||profile.city?" in "+[secName(),profile.city].filter(Boolean).join(", "):"");
   $("#c-roles").textContent=live.filter(r=>fits(r)&&!isApplied(r)&&!isSkipped(r)).length;
 }
 function renderStrip(){
+  if(!ready()){$("#strip").innerHTML=WAIT();return;}
   const L=ROLES.filter(r=>{const n=daysLeft(r.dl);return n!==null&&n>=0&&!isApplied(r)&&!isSkipped(r)&&fits(r)&&!employerApplied(r.emp)}).sort((a,b)=>daysLeft(a.dl)-daysLeft(b.dl)).slice(0,12);
   if(!L.length){$("#strip").innerHTML=`<p class="empty">No upcoming deadlines for schemes that fit your details.</p>`;return;}
   $("#strip").innerHTML=L.map(r=>{const n=daysLeft(r.dl);const cls=n<=3?"hot":n<=10?"warm":"";
@@ -1090,7 +1100,7 @@ function renderNextUp(){
   else if(g0.length){const a=g0[0],n=daysLeft(dueOf(a));urgent=n<=1;
     main=`${esc(a.emp)} – ${esc(stageOf(a).toLowerCase())} · due ${esc(fmtDue(dueOf(a)))} (${n<0?"deadline passed":n===0?"today":n===1?"tomorrow":n+" days"})`;}
   else if(g1.length){const a=g1[0];main=`Prepare for ${esc(a.emp)} – ${esc(stageOf(a).toLowerCase())}`;then="No deadline set – add one on its card when you get the date.";}
-  else{const t=computeTop3()[0];if(t){main=`Apply to ${esc(t.r.emp)} – ${esc(t.r.title)}`;then=t.r.dl?"Closes "+esc(fmtDate(t.r.dl)):"";}else{main="Nothing due – nice work.";}}
+  else if(!ready()){main="Pick your degree subject and sector above to see what to apply to first.";}else{const t=computeTop3()[0];if(t){main=`Apply to ${esc(t.r.emp)} – ${esc(t.r.title)}`;then=t.r.dl?"Closes "+esc(fmtDate(t.r.dl)):"";}else{main="Nothing due – nice work.";}}
   el.className="nextup"+(urgent?" urgent":"");
   el.innerHTML=`<span class="lbl">Next up</span><span class="main">${main}</span>${then?`<span class="then">${then}</span>`:""}`;
 }
@@ -1191,11 +1201,13 @@ $("#addform").addEventListener("submit",e=>{
 });
 
 function renderStats(){
+  const apps0=allApps().filter(a=>!isOut(a)).length;
+  if(!ready()){$("#stats").innerHTML=`<div class="stat"><b class="mono">–</b><span>pick a degree & sector</span></div><div class="stat"><b class="mono" style="color:var(--accent)">–</b><span>fit your details</span></div><div class="stat"><b class="mono" style="color:var(--bad)">–</b><span>close in 7 days</span></div><div class="stat"><b class="mono">${apps0}</b><span>live applications</span></div><div class="stat"><b class="mono">${listCount()}</b><span>on my list</span></div>`;return;}
   const live=ROLES.filter(r=>!isPassed(r)&&inScope(r));
   const fit=live.filter(r=>fits(r)&&!isApplied(r)&&!isSkipped(r)).length;
   const wk=live.filter(r=>{const n=daysLeft(r.dl);return n!==null&&n>=0&&n<=7&&fits(r)&&!isApplied(r)&&!isSkipped(r)&&!employerApplied(r.emp)}).length;
   const apps=allApps().filter(a=>!isOut(a)).length;
-  $("#stats").innerHTML=`<div class="stat"><b class="mono">${live.length}</b><span>${profile.sector||profile.city?esc([profile.sector,profile.city].filter(Boolean).join(" · "))+" schemes":"schemes on the list"}</span></div><div class="stat"><b class="mono" style="color:var(--accent)">${fit}</b><span>fit your details</span></div><div class="stat"><b class="mono" style="color:var(--bad)">${wk}</b><span>of those close in 7 days</span></div><div class="stat"><b class="mono">${apps}</b><span>live applications</span></div><div class="stat"><b class="mono">${listCount()}</b><span>on my list</span></div>`;
+  $("#stats").innerHTML=`<div class="stat"><b class="mono">${live.length}</b><span>${secName()||profile.city?esc([secName(),profile.city].filter(Boolean).join(" · "))+" schemes":"schemes on the list"}</span></div><div class="stat"><b class="mono" style="color:var(--accent)">${fit}</b><span>fit your details</span></div><div class="stat"><b class="mono" style="color:var(--bad)">${wk}</b><span>of those close in 7 days</span></div><div class="stat"><b class="mono">${apps}</b><span>live applications</span></div><div class="stat"><b class="mono">${listCount()}</b><span>on my list</span></div>`;
 }
 /* ---- best three: ranked on the person's details ---- */
 const SUBJ_AREAS={
@@ -1246,13 +1258,14 @@ function whyBits(r){
 }
 function computeTop3(){
   const out=[],emps=new Set();
+  if(!ready()) return out;
   const dk=r=>{const d=daysLeft(r.dl);return d===null?999:d};
   const pool=ROLES.filter(r=>stillToDo(r)&&fits(r)).map(r=>({r,s:score(r)})).sort((a,b)=>b.s-a.s||dk(a.r)-dk(b.r)||a.r.emp.localeCompare(b.r.emp));
   for(const {r} of pool){const e=normEmp(r.emp);if(emps.has(e))continue;emps.add(e);out.push({r});if(out.length>=3)break;}
   return out;
 }
 function doSearch(){
-  if(!hasProfile()){ $("#psum").innerHTML="<b>Start with your degree subject</b> – then add your grades and where you want to work, and press Search."; $("#p-subject").focus(); return; }
+  if(!ready()){ renderAll(); $("#psum").innerHTML="<b>"+needMsg()+"</b>"; $(profile.subject?"#p-sector":"#p-subject").focus(); return; }
   renderAll();
   const t=$("#top3"); t.classList.remove("flash"); void t.offsetWidth; t.classList.add("flash");
   const reduce=window.matchMedia&&matchMedia("(prefers-reduced-motion: reduce)").matches;
@@ -1264,16 +1277,16 @@ function renderTop3(){
   if(profile.subject) bits.push(DISCIPLINES[profile.subject]+" degree");
   const gg=parseGrades(profile.alevels); if(parseInt(profile.ucas,10)>0) bits.push(profile.ucas+" UCAS"); else if(gg.length) bits.push(gg.join(""));
   if(profile.degree) bits.push(profile.degree);
-  if(profile.sector) bits.push(profile.sector+" sector");
+  if(profile.sector) bits.push(secName()?secName()+" sector":"All sectors");
   if(profile.city) bits.push(profile.city);
-  $("#best-sub").textContent=hasProfile()?"Ranked for "+bits.join(" · ")+" – degree match, your grades, salary and deadline":"Add your details and press Search to rank these for you";
+  $("#best-sub").textContent=!ready()?"Appear once you've picked your degree and sector":hasProfile()?"Ranked for "+bits.join(" · ")+" – degree match, your grades, salary and deadline":"Add your details and press Search to rank these for you";
   $("#top3").innerHTML=L.map(({r},i)=>{
     const h=r.emp+" – "+r.title;
     const n=daysLeft(r.dl);
     const due=r.dl?("Closes "+fmtDate(r.dl)+(n<=7?" ("+(n===0?"today":n+" day"+(n===1?"":"s")+" left")+")":"")):(r.dlNote||"No fixed deadline – apply early");
     const why=hasProfile()?`<div class="pwhy">${whyBits(r).map(x=>`<span>${esc(x)}</span>`).join("")}</div>`:`<p>${esc([r.reqText,r.cities.length>3?r.cities.length+" locations":r.cities.join(", ")].filter(Boolean).join(" · "))}</p>`;
     return `<div class="pick"><span class="n">APPLY FIRST · ${i+1}</span><h3>${esc(h)}</h3>${why}<div class="time">${esc(due)}<br>Form ~45 min · online tests ~1 hr</div><div class="pickfoot"><a href="${esc(r.url||"#")}" target="_blank" rel="noopener">Open posting ↗</a><span style="display:flex;gap:8px;flex-wrap:wrap">${skipBtn(r.id,"")}${applyBtn(r.id,"pickbtn")}</span></div></div>`}).join("")
-    ||`<p class="empty">${hasProfile()?"No open "+esc(sectorWord())+"schemes fit your details right now – try another sector or location. The list updates daily, so check back.":"Add your details above to see your best three schemes to apply to first."}</p>`;
+    ||(!ready()?WAIT():`<p class="empty">${hasProfile()?"No open "+esc(sectorWord())+"schemes fit your details right now – try another sector or location. The list updates daily, so check back.":"Add your details above to see your best three schemes to apply to first."}</p>`);
 }
 function renderLedger(){}
 function renderMine(){
@@ -1286,7 +1299,8 @@ function renderMine(){
   $("#skiplist").innerHTML=`<h3>Not interested<span class="mono">${S.length}</span></h3>`+(S.length?S.map(r=>`<div class="mini"><div><b>${esc(r.emp)}</b><span>${esc(r.title)}</span><span class="mono">${esc(dlText(r))}</span></div><button type="button" class="skipbtn" data-unskip="${r.id}" aria-label="Bring back ${esc(r.emp)} – ${esc(r.title)}">Bring back</button></div>`).join(""):`<div class="empty">Schemes you mark "Not interested" go here, so you can bring them back.</div>`);
 }
 function renderRemoved(){
-  const L=ROLES.filter(r=>!isPassed(r)&&!isApplied(r)&&hasProfile()&&inSector(r)&&!fits(r)).sort((a,b)=>a.emp.localeCompare(b.emp));
+  if(!ready()){$("#removed").innerHTML=`<div class="rm"><span class="why2">${needMsg()}</span></div>`;$("#c-removed").textContent="";return;}
+  const L=ROLES.filter(r=>!isPassed(r)&&!isApplied(r)&&inSector(r)&&!fits(r)).sort((a,b)=>a.emp.localeCompare(b.emp));
   $("#removed").innerHTML=L.length?L.map(r=>{const c=check(r);const why=(inArea(r)?[]:["Not in "+profile.city]).concat(c.fail);return `<div class="rm"><b>${esc(r.emp)} – ${esc(r.title)}</b><span class="why2">${esc(why.join(" · "))}</span></div>`}).join(""):`<div class="rm"><span class="why2">${hasProfile()?"Nothing on the list rules you out – nice.":"Add your details above and any schemes that ask for more will show here, with the reason."}</span></div>`;
   $("#c-removed").textContent=L.length;
 }
@@ -1295,9 +1309,10 @@ function renderSummary(){
   const fit=live.filter(fits).length;
   const bits=[];
   if(profile.subject) bits.push(DISCIPLINES[profile.subject]+" degree");
-  if(profile.sector) bits.push(profile.sector+" sector");
+  if(profile.sector) bits.push(secName()?secName()+" sector":"All sectors");
   if(u!=null) bits.push(u+" UCAS points"+(g.length&&!parseInt(profile.ucas,10)?" ("+g.join("")+")":""));
   if(profile.city) bits.push(profile.city);
+  if(!ready()){$("#psum").innerHTML=`<b>Start here:</b> choose your degree subject and the sector you want (or All sectors), then add your grades and location and press Search. Nothing leaves this browser.`;return;}
   $("#psum").innerHTML=hasProfile()?`${esc(bits.join(" · "))}${bits.length?" – ":""}<b>${fit} of ${live.length}</b> ${esc(sectorWord())}schemes fit your details. Leave anything blank if you're not sure; those schemes show a "Check" tag instead of being hidden.`:"Fill these in and every list below filters to schemes whose stated entry requirements you meet. Nothing leaves this browser.";
 }
 function renderAll(){syncScope();renderSummary();renderApps();renderStats();renderStrip();renderGrid();renderMine();renderRemoved();renderTop3();}
@@ -1325,7 +1340,8 @@ function syncScope(){
   const known=[...new Set([...AREAS,...live.map(r=>r.area)])];
   if(profile.sector&&!known.includes(profile.sector)) known.push(profile.sector);
   const n=a=>live.filter(r=>r.area===a&&inArea(r)&&check(r).ok).length;
-  const html=`<option value="">Any sector</option>`+known.map(a=>`<option value="${esc(a)}">${esc(a)} (${n(a)})</option>`).join("");
+  const all=live.filter(r=>inArea(r)&&check(r).ok).length;
+  const html=`<option value="">Choose a sector</option><option value="all">All sectors (${all})</option>`+known.map(a=>`<option value="${esc(a)}">${esc(a)} (${n(a)})</option>`).join("");
   ["#p-sector","#f-sector"].forEach(id=>{const el=$(id);if(el.dataset.h!==html){el.innerHTML=html;el.dataset.h=html;}el.value=profile.sector||"";});
   ["#p-city","#f-city"].forEach(id=>{const el=$(id);if(el.value!==(profile.city||""))el.value=profile.city||"";});
 }
@@ -1338,7 +1354,7 @@ function buildFilters(){ buildCityOptions(); syncScope(); }
 ["#f-status","#f-sort","#f-show"].forEach(s=>$(s).addEventListener("change",renderGrid));
 $("#f-q").addEventListener("input",renderGrid);
 $("#f-compact").addEventListener("click",()=>{compact=!compact;try{localStorage.setItem(KEY("compact"),compact?"1":"0")}catch(e){};renderGrid();});
-$("#f-reset").addEventListener("click",()=>{["#f-status","#f-q"].forEach(s=>$(s).value="");$("#f-sort").value="deadline";$("#f-show").value="fit";delete profile.sector;delete profile.city;saveProfile();renderAll();});
+$("#f-reset").addEventListener("click",()=>{["#f-status","#f-q"].forEach(s=>$(s).value="");$("#f-sort").value="deadline";$("#f-show").value="fit";profile.sector="all";delete profile.city;saveProfile();renderAll();});
 
 /* picks */
 document.addEventListener("click",e=>{
