@@ -57,3 +57,31 @@ AREA labels:
 Quality over quantity: every entry must be verified. Aim for the target number in your task but never pad with unverified roles. If a firm has the same programme in several cities, ONE entry with all the cities is fine.
 
 When done, reply with: the file path, how many roles, and a list of anything you couldn't verify or that looked closed.
+
+## Job ads – `entry.json` (graduate & entry-level jobs, refreshed daily)
+`jobs.json` (above) is the hand-checked list of graduate schemes. `entry.json` is a second, much larger list of
+**graduate and entry-level job ads** in the five cities, collected automatically from Indeed and filtered by
+`tools/entry_build.py`. The app shows both together; buyers can switch between "Graduate schemes" and "Entry-level jobs".
+
+Each entry uses the same fields as a scheme, with optional fields left out when empty, plus:
+- `"type"`: `"job"` (start soon) or `"scheme"` (a graduate programme found in an ad, usually a 2027 start)
+- `"posted"`: `"YYYY-MM-DD"` – the app hides job ads older than 45 days and programme ads older than 150 days
+- `"town"`: the suburb/town if it isn't the city itself (e.g. "Salford" for Manchester)
+- ids start with `in-` (Indeed job key). `reqText` is read automatically from the ad.
+
+What the builder keeps: roles in the five cities' metro areas; titles with graduate / junior / trainee / entry-level /
+assistant-type wording (or ads that say no experience is needed); no trades, care, retail-floor, hospitality, driving,
+part-time, freelance, PhD/postdoc or qualified-professional roles; nothing asking for 2+ years' experience or PQE;
+no hourly pay under £14 (except teaching/learning-support/research assistants); ads that duplicate a hand-checked
+scheme in `jobs.json` are dropped.
+
+### Daily refresh (≈10 Apify runs, a few cents)
+1. For each city (London r15, Birmingham r12, Manchester r12, Leeds r10, Liverpool r15 – miles) run
+   `kaix/indeed-scraper` with `{"country":"UK","searchMode":"basic","fromDays":"3","maxItems":600,"radius":…,"location":city,"keyword":…}`
+   for keyword `title:(graduate or graduates or junior or trainee or "entry level" or "entry-level" or "early careers" or assistant or associate)`.
+   Use `waitSecs: 0`, then `get-dataset-items` with `limit` 500 and
+   `omit = description.html,company.fullDescription,company.logos,company.customContents,company.briefDescription,photos,signals,meta,classification.skills,benefits,workArrangement,socialInsurance,snippet,apply,urls.clickTracking`
+   (bigger pages crash the connection). The result is saved to a file – pass that file to the builder.
+2. `python3 tools/entry_build.py RESULT_FILE [RESULT_FILE …]` – merges into `entry.json`, keeps earlier ads that are
+   still young enough, drops expired ones, prints counts.
+3. Commit and push `entry.json`. Never let the list shrink below 1,000 roles because of a failed run.
