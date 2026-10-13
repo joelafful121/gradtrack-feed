@@ -1,6 +1,6 @@
 {
  "app": "GradTrack 2027",
- "updated": "2026-10-12",
+ "updated": "2026-10-13",
  "roles": [
   {
    "id": "gt-cfa",
@@ -13317,39 +13317,6 @@
    "checked": "2026-10-11"
   },
   {
-   "id": "mondelez-supply-chain-bham",
-   "emp": "Mondelez International",
-   "title": "Supply Chain Graduate Program – Taste The Future UK 2027",
-   "url": "https://www.brightnetwork.co.uk/graduate-jobs/mondelez-international/supply-chain-graduate-program-taste-the-future-uk-birmingham-2027-amcp",
-   "src": "Bright Network",
-   "disciplines": [
-    "business",
-    "engineering",
-    "economics"
-   ],
-   "area": "Operations & supply chain",
-   "cities": [
-    "Birmingham"
-   ],
-   "start": "Not stated",
-   "dl": "2026-10-12",
-   "dlNote": "",
-   "status": "open",
-   "salary": "£33,000 + £2,000 sign-on bonus",
-   "degreeMin": null,
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "Business, operations, engineering, supply chain or logistics degree",
-   "qual": "None",
-   "notes": "Closes 12 Oct. Final assessment at Bournville on 7 Dec 2026. No Skilled Worker sponsorship.",
-   "links": {},
-   "checked": "2026-10-12"
-  },
-  {
    "id": "atkinsrealis-qs-2027",
    "emp": "AtkinsRéalis",
    "title": "Quantity Surveying Graduate Programme 2027",
@@ -15306,6 +15273,236 @@
    "notes": "Project management for health, education and social-care infrastructure. Some roles need security clearance. No visa sponsorship. One application only.",
    "links": {},
    "checked": "2026-10-12"
+  },
+  {
+   "id": "reply-digital-change-consultant-manchester",
+   "emp": "Reply",
+   "title": "Graduate Digital Change Consultant",
+   "url": "https://www.gradcracker.com/hub/691/reply/graduate-job/82850/graduate-digital-change-consultant",
+   "src": "Gradcracker",
+   "disciplines": [
+    "creative"
+   ],
+   "area": "Consulting",
+   "cities": [
+    "London",
+    "Manchester"
+   ],
+   "start": "Aug 2027",
+   "dl": null,
+   "dlNote": "ongoing – rolling",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": "2:1",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:1, ideally in a creative/communications discipline (Media & Communications, Marketing, Journalism or related); A-levels/GCSEs not stated",
+   "qual": "None",
+   "notes": "Change & adoption consulting on Microsoft 365, Copilot and AI ways of working; some relevant work experience preferred; salary 'competitive + benefits'.",
+   "links": {},
+   "checked": "2026-10-13"
+  },
+  {
+   "id": "mitchells-butlers-hr-graduate-birmingham",
+   "emp": "Mitchells & Butlers",
+   "title": "Human Resources Graduate Scheme",
+   "url": "https://www.mbcareersandjobs.com/job/human-resources-graduate-scheme-in-mitchells-and-butlers-hr-birmingham-b3-1jh-jid-1296504",
+   "src": "Mitchells & Butlers careers site (also on Bright Network)",
+   "disciplines": [
+    "any"
+   ],
+   "area": "HR & people",
+   "cities": [
+    "Birmingham"
+   ],
+   "start": "Oct 2027",
+   "dl": "2026-10-26",
+   "dlNote": "may close early",
+   "status": "open",
+   "salary": "£30,000",
+   "degreeMin": "2:1",
+   "ucasMin": null,
+   "alevels": "ABB",
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": true,
+   "reqText": "2:1 any subject; ABB at A-level (or equivalent); full UK driving licence; GCSEs not stated",
+   "qual": "None",
+   "notes": "Only one place; 12-month fixed-term scheme with company car; must live within commuting distance of Birmingham Retail Support Centre and travel UK-wide.",
+   "links": {},
+   "checked": "2026-10-13"
+  },
+  {
+   "id": "greencore-hr-graduate-london",
+   "emp": "Greencore",
+   "title": "Human Resources Graduate Programme",
+   "url": "https://www.gradcracker.com/hub/654/greencore/graduate-job/84887/human-resources-graduate-programme",
+   "src": "Gradcracker",
+   "disciplines": [
+    "any",
+    "psychology"
+   ],
+   "area": "HR & people",
+   "cities": [
+    "London"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-12-01",
+   "dlNote": "may close early",
+   "status": "open",
+   "salary": "£31,000 + £3,600 London weighting",
+   "degreeMin": "2:2",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:2 any discipline (HR, Psychology or Business preferred); 3 months' relevant work/teamwork experience; A-levels/GCSEs not stated",
+   "qual": "None",
+   "notes": "Three-year programme with three 12-month placements across UK sites (London and Lincolnshire listed); in-person assessment day 10 Feb 2027 in London.",
+   "links": {},
+   "checked": "2026-10-13"
+  },
+  {
+   "id": "liberty-global-people-graduate-london",
+   "emp": "Liberty Global",
+   "title": "People Graduate 2027",
+   "url": "https://www.brightnetwork.co.uk/graduate-jobs/liberty-global/people-graduate",
+   "src": "Bright Network (aggregator only)",
+   "disciplines": [
+    "any"
+   ],
+   "area": "HR & people",
+   "cities": [
+    "London"
+   ],
+   "start": "2027",
+   "dl": null,
+   "dlNote": "rolling",
+   "status": "open",
+   "salary": "£44,000",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "Not stated (degree class, subjects, A-levels and GCSEs not specified)",
+   "qual": "CIPD Level 7 (fully funded, optional)",
+   "notes": "Two-year HR programme with rotations in Strategic Planning & Transformation, Belonging & Talent Development, Reward and HR Business Partnering; exact start date not stated.",
+   "links": {},
+   "checked": "2026-10-13"
+  },
+  {
+   "id": "tetra-tech-graduate-security-consultant-leeds-london",
+   "emp": "Tetra Tech",
+   "title": "Graduate Security Consultant",
+   "url": "https://www.gradcracker.com/hub/1108/tetra-tech/graduate-job/82454/graduate-security-consultant",
+   "src": "Gradcracker",
+   "disciplines": [
+    "computing",
+    "built-environment",
+    "business"
+   ],
+   "area": "Consulting",
+   "cities": [
+    "Leeds",
+    "London"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-10-31",
+   "dlNote": "",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": "2:1",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": true,
+   "reqText": "2:1 in Cyber Security, Security or Project Management (or technical qualification in security/built environment); full UK driving licence; UCAS/A-level/GCSE not stated",
+   "qual": "None",
+   "notes": "Requires UK Developed Vetting: sole UK national (no dual nationality) and UK resident for the last 10 years. Hybrid working.",
+   "links": {},
+   "checked": "2026-10-13"
+  },
+  {
+   "id": "cgi-user-experience-graduate-leeds-london-manchester",
+   "emp": "CGI",
+   "title": "User Experience Graduate - 2027",
+   "url": "https://www.brightnetwork.co.uk/graduate-jobs/cgi/user-experience-graduate",
+   "src": "Bright Network",
+   "disciplines": [
+    "any",
+    "psychology"
+   ],
+   "area": "Technology",
+   "cities": [
+    "Leeds",
+    "London",
+    "Manchester",
+    "Cardiff",
+    "Newcastle",
+    "Telford"
+   ],
+   "start": "2027",
+   "dl": null,
+   "dlNote": "Rolling deadline",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": "2:2",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:2 any subject (some business units may require 2:1; psychology or research-intensive degrees particularly suited); UCAS/A-level/GCSE not stated",
+   "qual": "None",
+   "notes": "UK nationality required for security clearance; £1,000 joining bonus; may need to work at different locations.",
+   "links": {},
+   "checked": "2026-10-13"
+  },
+  {
+   "id": "turner-townsend-graduate-programme-digital-uk-wide",
+   "emp": "Turner & Townsend",
+   "title": "Graduate Programme 2027 - Digital",
+   "url": "https://www.gradcracker.com/hub/686/turner-and-townsend/graduate-job/83146/graduate-programme-2027-digital",
+   "src": "Gradcracker",
+   "disciplines": [
+    "maths-physics",
+    "business",
+    "computing"
+   ],
+   "area": "Technology",
+   "cities": [
+    "UK-wide"
+   ],
+   "start": "2027",
+   "dl": null,
+   "dlNote": "Ongoing",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": "2:1",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:1 in Analytics/Statistics, Business, Computer Science, Data Science or IT; UCAS/A-level/GCSE not stated",
+   "qual": "None",
+   "notes": "Posting says 'Multiple UK Locations' (no cities named). 24-month programme with Data Analyst, Business Analyst, BIM and digital transformation roles; defence roles need SC clearance; some regional roles may need a driving licence.",
+   "links": {},
+   "checked": "2026-10-13"
   }
  ]
 }
