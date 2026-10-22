@@ -1,6 +1,6 @@
 {
  "app": "GradTrack 2027",
- "updated": "2026-10-21",
+ "updated": "2026-10-22",
  "roles": [
   {
    "id": "gt-cfa",
@@ -808,108 +808,6 @@
    "loc": "London",
    "why": "Well-known business scheme – more commercial than finance.",
    "rank": 42
-  },
-  {
-   "id": "wtw-exec",
-   "emp": "WTW",
-   "title": "2027 Executive Compensation & Board Advisory Graduate Programme",
-   "url": "https://targetjobs.co.uk/jobs/2027-executive-compensation-board-advisory-graduate-programme-london-245981",
-   "src": "TargetJobs",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Consulting",
-   "cities": [
-    "London"
-   ],
-   "start": "2027 (not stated)",
-   "dl": "2026-10-21",
-   "dlNote": "",
-   "status": "open",
-   "salary": "Not stated",
-   "degreeMin": "2:1",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:1, any discipline",
-   "qual": "None",
-   "notes": "One WTW application per year.",
-   "links": {},
-   "checked": "2026-10-21",
-   "loc": "London, hybrid",
-   "why": "Pay and accounts analysis for boards – decent fit.",
-   "rank": 49
-  },
-  {
-   "id": "wtw-wrc",
-   "emp": "WTW",
-   "title": "2027 Work, Reward & Career Consulting Graduate Programme",
-   "url": "https://targetjobs.co.uk/jobs/2027-work-reward-career-wrc-consulting-graduate-programme-london-245957",
-   "src": "TargetJobs",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Consulting",
-   "cities": [
-    "London"
-   ],
-   "start": "2027 (not stated)",
-   "dl": "2026-10-21",
-   "dlNote": "",
-   "status": "open",
-   "salary": "Not stated",
-   "degreeMin": "2:1",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:1, any discipline",
-   "qual": "None",
-   "notes": "One WTW application per year.",
-   "links": {},
-   "checked": "2026-10-21",
-   "loc": "London, hybrid",
-   "why": "HR/reward consulting – less finance.",
-   "rank": 50
-  },
-  {
-   "id": "wtw-rdi",
-   "emp": "WTW",
-   "title": "2027 Rewards Data & Intelligence Consulting Graduate Programme",
-   "url": "https://targetjobs.co.uk/jobs/2027-rewards-data-intelligence-consulting-graduate-programme-london-245983",
-   "src": "TargetJobs",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Data & analytics",
-   "cities": [
-    "London"
-   ],
-   "start": "2027 (not stated)",
-   "dl": "2026-10-21",
-   "dlNote": "",
-   "status": "open",
-   "salary": "Not stated",
-   "degreeMin": "2:1",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:1, any discipline",
-   "qual": "None",
-   "notes": "One WTW application per year.",
-   "links": {},
-   "checked": "2026-10-21",
-   "loc": "London, hybrid",
-   "why": "Data-led; less finance.",
-   "rank": 51
   },
   {
    "id": "wsp",
@@ -1741,7 +1639,9 @@
    "area": "Tax",
    "cities": [
     "London",
-    "Liverpool"
+    "Liverpool",
+    "Manchester",
+    "Leeds"
    ],
    "start": "Sep 2027",
    "dl": "2026-10-28",
@@ -1760,12 +1660,14 @@
    "notes": "RSM considers one application per person per recruitment cycle.",
    "links": {
     "London": "https://targetjobs.co.uk/jobs/tax-graduate-london-september-2027-240081",
-    "Liverpool": "https://targetjobs.co.uk/jobs/tax-graduate-liverpool-september-2027-240069"
+    "Liverpool": "https://targetjobs.co.uk/jobs/tax-graduate-liverpool-september-2027-240069",
+    "Manchester": "https://targetjobs.co.uk/jobs/tax-graduate-manchester-september-2027-240083",
+    "Leeds": "https://targetjobs.co.uk/jobs/tax-graduate-leeds-september-2027-240065"
    },
-   "checked": "2026-10-21",
+   "checked": "2026-10-22",
    "rank": null,
    "why": "",
-   "loc": "London, Liverpool"
+   "loc": "London, Liverpool, Manchester, Leeds"
   },
   {
    "id": "bdo-audit-scotland",
@@ -1863,20 +1765,17 @@
    "area": "Audit & accounting",
    "cities": [
     "London",
-    "Birmingham",
     "Manchester",
     "Leeds",
     "Cambridge",
-    "Newcastle",
     "Nottingham",
     "Reading",
     "Edinburgh",
-    "Glasgow",
     "Aberdeen"
    ],
    "start": "Sep 2027",
    "dl": "2026-10-28",
-   "dlNote": "Birmingham, Newcastle and Glasgow postings close 21 Oct 2026; others 28 Oct",
+   "dlNote": "Birmingham, Newcastle and Glasgow postings closed 21 Oct 2026; others close 28 Oct",
    "status": "open",
    "salary": "Not stated",
    "degreeMin": null,
@@ -1891,19 +1790,16 @@
    "notes": "",
    "links": {
     "London": "https://targetjobs.co.uk/jobs/kpmg-2027-audit-graduate-programme-london-243547",
-    "Birmingham": "https://www.brightnetwork.co.uk/graduate-jobs/kpmg/audit-graduate-programme-2027-1",
     "Cambridge": "https://targetjobs.co.uk/jobs/kpmg-2027-audit-graduate-programme-cambridge-243561",
-    "Newcastle": "https://targetjobs.co.uk/jobs/kpmg-2027-audit-graduate-programme-newcastle-243551",
     "Nottingham": "https://targetjobs.co.uk/jobs/kpmg-2027-audit-graduate-programme-nottingham-243553",
     "Reading": "https://targetjobs.co.uk/jobs/kpmg-2027-audit-graduate-programme-reading-243555",
     "Edinburgh": "https://targetjobs.co.uk/jobs/kpmg-2027-audit-graduate-programme-edinburgh-243565",
-    "Glasgow": "https://targetjobs.co.uk/jobs/kpmg-2027-audit-graduate-programme-glasgow-243545",
     "Aberdeen": "https://targetjobs.co.uk/jobs/kpmg-2027-audit-graduate-programme-aberdeen-243557"
    },
-   "checked": "2026-10-21",
+   "checked": "2026-10-22",
    "rank": null,
    "why": "",
-   "loc": "London, Birmingham, Cambridge, Newcastle, Nottingham, Reading, Edinburgh, Glasgow, Aberdeen"
+   "loc": "London, Cambridge, Nottingham, Reading, Edinburgh, Aberdeen"
   },
   {
    "id": "gt-private-capital-audit",
@@ -2834,7 +2730,7 @@
     "Manchester"
    ],
    "start": "Autumn 2027",
-   "dl": "2026-10-26",
+   "dl": "2026-10-23",
    "dlNote": "",
    "status": "open",
    "salary": "Not stated",
@@ -2849,7 +2745,7 @@
    "qual": "None",
    "notes": "Deloitte allows one early-careers application a year. No visa sponsorship.",
    "links": {},
-   "checked": "2026-10-21",
+   "checked": "2026-10-22",
    "rank": null,
    "why": "",
    "loc": "Manchester"
@@ -3713,37 +3609,6 @@
    "checked": "2026-10-11"
   },
   {
-   "id": "jm-electrical-controls",
-   "emp": "Johnson Matthey",
-   "title": "Electrical Controls Graduate Engineer 2027",
-   "url": "https://www.brightnetwork.co.uk/graduate-jobs/johnson-matthey/electrical-controls-graduate-engineer-royston-2027-aomr",
-   "src": "Bright Network",
-   "disciplines": [
-    "engineering"
-   ],
-   "area": "Engineering",
-   "cities": [
-    "Royston"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-10-21",
-   "dlNote": "",
-   "status": "open",
-   "salary": "Not stated",
-   "degreeMin": "2:1",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:1 in process controls engineering or similar",
-   "qual": "None",
-   "notes": "Three placements – must be willing to move between JM sites (relocation help available).",
-   "links": {},
-   "checked": "2026-10-21"
-  },
-  {
    "id": "martin-baker-eng",
    "emp": "Martin-Baker",
    "title": "Graduate Engineering Programme 2027",
@@ -3799,12 +3664,12 @@
    "alevelSubject": null,
    "gcseMaths": null,
    "gcseEnglish": null,
-   "licence": true,
+   "licence": false,
    "reqText": "2:2 in a water/wastewater process science or engineering subject; driving licence",
    "qual": "None",
    "notes": "No visa sponsorship. Two professional subscriptions paid.",
    "links": {},
-   "checked": "2026-10-15"
+   "checked": "2026-10-22"
   },
   {
    "id": "costain-planner",
@@ -6443,7 +6308,7 @@
     "London"
    ],
    "start": "Feb or Aug 2027",
-   "dl": null,
+   "dl": "2026-10-31",
    "dlNote": "Rolling – apply early",
    "status": "open",
    "salary": "Not stated",
@@ -6458,7 +6323,7 @@
    "qual": "None",
    "notes": "Skilled Worker sponsorship considered if eligible.",
    "links": {},
-   "checked": "2026-10-21"
+   "checked": "2026-10-22"
   },
   {
    "id": "sjp-risk",
@@ -6878,44 +6743,6 @@
    "notes": "Two-year programme with a semester abroad.",
    "links": {},
    "checked": "2026-10-11"
-  },
-  {
-   "id": "pcc-gmdp",
-   "emp": "PCC (Precision Castparts)",
-   "title": "Graduate Management Development Programme 2027",
-   "url": "https://www.gradcracker.com/hub/183/precision-castparts-corp/graduate-job/85264/graduate-management-development-programme-2027",
-   "src": "Gradcracker",
-   "disciplines": [
-    "engineering",
-    "business"
-   ],
-   "area": "Operations & supply chain",
-   "cities": [
-    "Leicester",
-    "Nottingham",
-    "Leeds",
-    "Birmingham",
-    "Hereford",
-    "Swansea",
-    "Edinburgh"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-10-21",
-   "dlNote": "",
-   "status": "open",
-   "salary": "£31,000–£33,000 + £2,000 sign-on + £3,000 graduation bonus",
-   "degreeMin": "2:1",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:1 in engineering, manufacturing, management or related; at least 6 months practical manufacturing/engineering/shop-floor experience (placements count)",
-   "qual": "None",
-   "notes": "Rotations may mean relocating. Apply by emailing CV and cover letter.",
-   "links": {},
-   "checked": "2026-10-21"
   },
   {
    "id": "knights-brown-civil",
@@ -7614,14 +7441,14 @@
    "ucasMin": null,
    "alevels": null,
    "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
+   "gcseMaths": 4,
+   "gcseEnglish": 4,
    "licence": false,
    "reqText": "Any degree subject; no grade bar stated",
    "qual": "None",
    "notes": "",
    "links": {},
-   "checked": "2026-10-21"
+   "checked": "2026-10-22"
   },
   {
    "id": "deloitte-audit-newcastle",
@@ -7991,14 +7818,14 @@
    "ucasMin": null,
    "alevels": null,
    "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
+   "gcseMaths": 4,
+   "gcseEnglish": 4,
    "licence": false,
    "reqText": "Any degree subject; no grade bar stated",
    "qual": "None",
    "notes": "",
    "links": {},
-   "checked": "2026-10-21"
+   "checked": "2026-10-22"
   },
   {
    "id": "ey-tech-risk",
@@ -9814,14 +9641,14 @@
    "ucasMin": null,
    "alevels": null,
    "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
+   "gcseMaths": 4,
+   "gcseEnglish": 4,
    "licence": false,
    "reqText": "Any degree subject",
    "qual": "None",
    "notes": "",
    "links": {},
-   "checked": "2026-10-21"
+   "checked": "2026-10-22"
   },
   {
    "id": "ey-deal-analytics-bham",
@@ -9845,14 +9672,14 @@
    "ucasMin": null,
    "alevels": null,
    "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
+   "gcseMaths": 4,
+   "gcseEnglish": 4,
    "licence": false,
    "reqText": "Bachelor's degree, any subject",
    "qual": "None",
    "notes": "",
    "links": {},
-   "checked": "2026-10-21"
+   "checked": "2026-10-22"
   },
   {
    "id": "accenture-tech-analyst-bham",
@@ -11388,43 +11215,6 @@
    "checked": "2026-10-11"
   },
   {
-   "id": "united-utilities-future-leader",
-   "emp": "United Utilities",
-   "title": "Graduate Future Leader 2027",
-   "url": "https://www.gradcracker.com/hub/77/united-utilities/graduate-job/83734/graduate-future-leader",
-   "src": "Gradcracker",
-   "disciplines": [
-    "business",
-    "engineering",
-    "sciences",
-    "social-sciences",
-    "built-environment"
-   ],
-   "area": "Operations & supply chain",
-   "cities": [
-    "Manchester",
-    "Liverpool",
-    "Warrington"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-10-21",
-   "dlNote": "Deadline may change",
-   "status": "open",
-   "salary": "£32,250 + £2,000 welcome bonus",
-   "degreeMin": "2:1",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": true,
-   "reqText": "2:1 (or 2:2 with a master's) in business, civil/infrastructure, environmental, geography, project management or water",
-   "qual": "None",
-   "notes": "Sites at Lingley Mere (Warrington), Manchester and Fazakerley (Liverpool). In-person stage 17 Nov–11 Dec. No visa sponsorship. One graduate application per year.",
-   "links": {},
-   "checked": "2026-10-19"
-  },
-  {
    "id": "mott-climate-sustainability",
    "emp": "Mott MacDonald",
    "title": "2027 UK Graduate Climate and Sustainability Consultancy Career Path",
@@ -12827,7 +12617,9 @@
    ],
    "area": "Audit & accounting",
    "cities": [
-    "London"
+    "London",
+    "Manchester",
+    "Birmingham"
    ],
    "start": "Sep 2027",
    "dl": "2026-10-31",
@@ -12844,8 +12636,12 @@
    "reqText": "2:1 achieved or predicted, any subject; 112 UCAS points from top three Level 3 qualifications; GCSE Maths & English Language grade 4/C",
    "qual": "ACA",
    "notes": "Extenuating circumstances affecting results can be explained in the application.",
-   "links": {},
-   "checked": "2026-10-17"
+   "links": {
+    "London": "https://targetjobs.co.uk/jobs/audit-industry-services-graduate-london-september-2027-252661",
+    "Manchester": "https://targetjobs.co.uk/jobs/audit-industry-services-graduate-manchester-september-2027-252659",
+    "Birmingham": "https://targetjobs.co.uk/jobs/audit-industry-services-graduate-birmingham-september-2027-252657"
+   },
+   "checked": "2026-10-22"
   },
   {
    "id": "montagu-evans-planning-development-london",
@@ -13547,6 +13343,423 @@
    "notes": "Tracks: data & architecture, cyber security, systems engineering, project management, connected vehicles, policy/human-centred design – locations vary by track. Choose the September 2027 intake.",
    "links": {},
    "checked": "2026-10-21"
+  },
+  {
+   "id": "a22-deloitte-finance-transformation-ba-bham",
+   "emp": "Deloitte",
+   "title": "Graduate - Finance Transformation Consulting - Business Analyst",
+   "url": "https://www.gradcracker.com/hub/301/deloitte/graduate-job/86211/graduate-finance-transformation-consulting-business-analyst",
+   "src": "Gradcracker (Birmingham posting); TargetJobs; London posting gradcracker job 86201",
+   "disciplines": [
+    "computing",
+    "engineering",
+    "maths-physics",
+    "sciences"
+   ],
+   "area": "Consulting",
+   "cities": [
+    "Birmingham",
+    "London"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-10-23",
+   "dlNote": "Gradcracker shows 23 Oct 2026 (TargetJobs shows 31 Oct); may close early",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": "2:1",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "Minimum 2:1 in any STEM degree; graduated by Sep 2027; UCAS/A-level/GCSE not stated",
+   "qual": "CIMA or ACA",
+   "notes": "Hybrid. Cannot progress applicants needing Skilled Worker sponsorship (salary below threshold). London is a separate posting.",
+   "links": {},
+   "checked": "2026-10-22"
+  },
+  {
+   "id": "a22-arup-business-investor-advisory-man",
+   "emp": "Arup",
+   "title": "Graduate Consultant - Business and Investor Advisory",
+   "url": "https://www.gradcracker.com/hub/169/arup/graduate-job/85928/graduate-consultant-business-and-investor-advisory",
+   "src": "Gradcracker; Bright Network",
+   "disciplines": [
+    "engineering"
+   ],
+   "area": "Consulting",
+   "cities": [
+    "Manchester"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-11-12",
+   "dlNote": "may close early if application volume is high",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "Bachelor's in a relevant discipline e.g. Mechanical, Environmental or Process Engineering (or any engineering degree); transcript required; degree class not stated",
+   "qual": "None",
+   "notes": "No visa sponsorship; max 12 months comparable experience. The team works across London and Manchester; other variants of this role are posted separately and some are closed.",
+   "links": {},
+   "checked": "2026-10-22"
+  },
+  {
+   "id": "a22-arup-tech-consulting-system-design-bham",
+   "emp": "Arup",
+   "title": "Graduate Technology Consulting and System Design Consultant",
+   "url": "https://www.gradcracker.com/hub/169/arup/graduate-job/85930/graduate-technology-consulting-and-system-design-consultant",
+   "src": "Gradcracker; Bright Network",
+   "disciplines": [
+    "computing",
+    "engineering"
+   ],
+   "area": "Technology",
+   "cities": [
+    "Birmingham",
+    "Bristol"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-11-12",
+   "dlNote": "may close early if application volume is high",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "Relevant bachelor's e.g. Telecoms Engineering, Computer Science (incl. Cyber), Systems or Electronic Engineering; transcript required; degree class not stated",
+   "qual": "None",
+   "notes": "No visa sponsorship; max 12 months comparable experience. Start 1 Sep 2027.",
+   "links": {},
+   "checked": "2026-10-22"
+  },
+  {
+   "id": "a22-wsp-sustainable-water-management",
+   "emp": "WSP",
+   "title": "2027 Graduate Programme - Sustainable Water Management",
+   "url": "https://targetjobs.co.uk/jobs/2027-graduate-programme-sustainable-water-management-246389",
+   "src": "TargetJobs (employer page not opened)",
+   "disciplines": [
+    "engineering",
+    "sciences",
+    "social-sciences"
+   ],
+   "area": "Engineering",
+   "cities": [
+    "London",
+    "Birmingham",
+    "Manchester",
+    "Leeds",
+    "Liverpool",
+    "Bristol",
+    "Cardiff",
+    "Newcastle",
+    "Shrewsbury",
+    "Glasgow",
+    "Basingstoke",
+    "Wrexham"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-11-06",
+   "dlNote": "rolling review – may progress candidates before closing date",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": "2:2",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "At least a 2:2 in a relevant bachelor's or master's (eligible subjects listed on WSP graduate site); UCAS/A-level/GCSE not stated",
+   "qual": "None",
+   "notes": "Teams: Flood Risk Modelling (incl. Birmingham, Liverpool, Leeds, Manchester), Flood Risk & Water EIA (incl. Liverpool, Leeds, Manchester), Catchment Science, Asset Consultancy (Manchester). Disciplines mapped from 'relevant degree'.",
+   "links": {},
+   "checked": "2026-10-22"
+  },
+  {
+   "id": "a22-forvis-mazars-audit-banking-man",
+   "emp": "Forvis Mazars",
+   "title": "Audit - Banking - Graduate - Manchester - September 2027",
+   "url": "https://targetjobs.co.uk/jobs/audit-banking-graduate-manchester-september-2027-252647",
+   "src": "TargetJobs (Leeds posting: targetjobs job 252649)",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Audit & accounting",
+   "cities": [
+    "Manchester",
+    "Leeds"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-10-31",
+   "dlNote": "",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": "2:1",
+   "ucasMin": 112,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": 4,
+   "gcseEnglish": 4,
+   "licence": false,
+   "reqText": "2:1 (achieved or predicted); 112 UCAS from top three A-levels or equivalent; GCSE Maths & English Language grade 4/C",
+   "qual": "ACA",
+   "notes": "Audit of banking clients. In person. Leeds is a separate posting with the same requirements and deadline.",
+   "links": {},
+   "checked": "2026-10-22"
+  },
+  {
+   "id": "a22-forvis-mazars-audit-mid-market",
+   "emp": "Forvis Mazars",
+   "title": "Audit - Mid Market - Graduate - Leeds - September 2027",
+   "url": "https://targetjobs.co.uk/jobs/audit-mid-market-graduate-leeds-september-2027-253081",
+   "src": "TargetJobs (Birmingham posting: targetjobs job 253077)",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Audit & accounting",
+   "cities": [
+    "Leeds",
+    "Birmingham"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-10-31",
+   "dlNote": "",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": "2:1",
+   "ucasMin": 112,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": 4,
+   "gcseEnglish": 4,
+   "licence": false,
+   "reqText": "2:1 (achieved or predicted); 112 UCAS from top three A-levels or equivalent; GCSE Maths & English Language grade 4/C",
+   "qual": "ACA",
+   "notes": "In person. Birmingham is a separate posting with the same deadline; London and Glasgow postings also exist.",
+   "links": {},
+   "checked": "2026-10-22"
+  },
+  {
+   "id": "a22-bny-engineering-developer-man",
+   "emp": "BNY",
+   "title": "2027 BNY Analyst Program - Engineering (Developer) (Manchester)",
+   "url": "https://targetjobs.co.uk/jobs/2027-bny-analyst-program-engineering-developer-manchester-249643",
+   "src": "TargetJobs",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Technology",
+   "cities": [
+    "Manchester"
+   ],
+   "start": "2027 (not stated; for 2027 graduates)",
+   "dl": "2026-11-04",
+   "dlNote": "",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": "2:1",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "On track for 2:1; graduating 2027; business and/or technology majors preferred; UCAS/A-level/GCSE not stated",
+   "qual": "None",
+   "notes": "24-month rotational analyst programme, in person. No visa sponsorship now or in future.",
+   "links": {},
+   "checked": "2026-10-22"
+  },
+  {
+   "id": "a22-bny-delivery-man",
+   "emp": "BNY",
+   "title": "2027 BNY Analyst Program - Delivery",
+   "url": "https://www.gradcracker.com/hub/1489/bny/graduate-job/83551/2027-bny-analyst-program-delivery",
+   "src": "Gradcracker",
+   "disciplines": [
+    "business",
+    "computing",
+    "maths-physics"
+   ],
+   "area": "Operations & supply chain",
+   "cities": [
+    "Manchester"
+   ],
+   "start": "2027 (not stated; for Dec 2026 / summer 2027 graduates)",
+   "dl": null,
+   "dlNote": "ongoing",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": "2:1",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "On track for 2:1; graduating Dec 2026 or summer 2027; business/technology majors preferred (Analytics/Statistics, Business, CS, Data Science, IT, Maths, Software/Systems)",
+   "qual": "None",
+   "notes": "24-month rotational programme in BNY's Delivery Practice. No visa sponsorship now or in future.",
+   "links": {},
+   "checked": "2026-10-22"
+  },
+  {
+   "id": "arriva-people-graduate-2027",
+   "emp": "Arriva",
+   "title": "People Graduate 2027",
+   "url": "https://www.brightnetwork.co.uk/graduate-jobs/arriva/people-graduate-2027-aow2",
+   "src": "Bright Network (also on TargetJobs)",
+   "disciplines": [
+    "any"
+   ],
+   "area": "HR & people",
+   "cities": [
+    "London",
+    "Sunderland"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-11-27",
+   "dlNote": "may close early – applications reviewed as received",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": "2:2",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "Degree (held or on track) in any discipline; 2:1 preferred, strong 2:2 considered",
+   "qual": "Possible CIPD (not guaranteed)",
+   "notes": "Two-year programme, hybrid with 3+ office days a week in Sunderland or London; permanent UK right to work required; travel where needed.",
+   "links": {},
+   "checked": "2026-10-22"
+  },
+  {
+   "id": "nda-people-hr-2027",
+   "emp": "NDA Group",
+   "title": "People & HR – NDA Group Graduates 2027",
+   "url": "https://www.gradcracker.com/hub/1245/nuclear-decommissioning-authority-group/graduate-job/82606/people-and-hr-nda-group-graduates-2027",
+   "src": "Gradcracker",
+   "disciplines": [
+    "business"
+   ],
+   "area": "HR & people",
+   "cities": [
+    "UK-wide"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-11-06",
+   "dlNote": "12pm deadline; may close early",
+   "status": "open",
+   "salary": "£32,000",
+   "degreeMin": "2:2",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:2 in a relevant degree (Business / Project Management listed); UCAS, A-levels, GCSEs not stated",
+   "qual": "CIPD Level 5 Diploma",
+   "notes": "Must be willing to relocate to any of 30+ NDA group sites in England, Scotland and Wales (relocation support); security clearance and vetting.",
+   "links": {},
+   "checked": "2026-10-22"
+  },
+  {
+   "id": "lift-schools-teacher-training-2027",
+   "emp": "Lift Schools",
+   "title": "Teacher Training Programme (September 2027)",
+   "url": "https://targetjobs.co.uk/jobs/teacher-training-programme-248901",
+   "src": "TargetJobs (also on Bright Network); Lift Schools ITT page",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Teaching & social impact",
+   "cities": [
+    "Birmingham",
+    "Leeds",
+    "London",
+    "Andover",
+    "Barnsley",
+    "Bristol",
+    "Bradford",
+    "Essex",
+    "Gloucestershire",
+    "Hampshire",
+    "Hull",
+    "Isle of Wight",
+    "Kent",
+    "Leicestershire",
+    "Lincolnshire",
+    "Middlesbrough",
+    "Milton Keynes",
+    "Sheffield",
+    "Staffordshire",
+    "Surrey",
+    "Swindon",
+    "Torbay"
+   ],
+   "start": "Aug 2027",
+   "dl": "2026-12-04",
+   "dlNote": "Bright Network lists 6 Dec 2026",
+   "status": "open",
+   "salary": "£24,444–£30,217 (salaried routes) or bursary up to £31,000",
+   "degreeMin": "2:2",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": 4,
+   "gcseEnglish": 4,
+   "licence": false,
+   "reqText": "2:2 degree by start (subject degree preferred; strong A-level C+ in subject considered otherwise); GCSE English & Maths grade 4 (plus Science for Primary)",
+   "qual": "QTS",
+   "notes": "Starts 1 Aug 2027 with Summer School (2–13 Aug); subjects Primary, Maths, English, Science, Geography, Computing, French, History, RE; must not already hold QTS.",
+   "links": {},
+   "checked": "2026-10-22"
+  },
+  {
+   "id": "ambition-institute-teacher-training-2027",
+   "emp": "Ambition Institute",
+   "title": "Graduate Teacher Training – England (September 2027)",
+   "url": "https://targetjobs.co.uk/jobs/graduate-teacher-training-england-249401",
+   "src": "TargetJobs (regional listings also for London, North West England, Yorkshire and the Humber)",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Teaching & social impact",
+   "cities": [
+    "UK-wide"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-11-30",
+   "dlNote": "",
+   "status": "open",
+   "salary": "Some salaried routes; otherwise up to £31,000 tuition funding; £35,000+ once qualified",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": 4,
+   "gcseEnglish": 4,
+   "licence": false,
+   "reqText": "Bachelor's degree with honours (no class stated); GCSE English & Maths grade 4/C (plus Science for Primary); some partners need a related degree/A-level",
+   "qual": "QTS",
+   "notes": "Train in a partner school in England near you; 11 months full time (part-time over 20 months may be available); no visa sponsorship.",
+   "links": {},
+   "checked": "2026-10-22"
   }
  ]
 }
