@@ -1,6 +1,6 @@
 {
  "app": "GradTrack 2027",
- "updated": "2026-10-23",
+ "updated": "2026-10-24",
  "roles": [
   {
    "id": "gt-cfa",
@@ -39,7 +39,7 @@
     "Leeds": "https://targetjobs.co.uk/jobs/corporate-finance-advisory-graduate-programme-autumn-2027-regions-birmingham-leeds-manchester-247949",
     "Manchester": "https://targetjobs.co.uk/jobs/corporate-finance-advisory-graduate-programme-autumn-2027-regions-birmingham-leeds-manchester-247949"
    },
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "loc": "London, Birmingham, Leeds or Manchester (in person)",
    "why": "Deals work plus ACA at £40k, and flexible entry means A-level grades won't screen you out.",
    "rank": 2
@@ -73,7 +73,7 @@
    "qual": "ACA / ICAS / ACCA / CIMA (funded)",
    "notes": "Grant Thornton may only let you apply to one programme – check first. Audit means time at client offices. Bonus is paid half on joining, half on qualifying.",
    "links": {},
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "loc": "London (in person)",
    "why": "Top pay among the audit schemes and a less crowded intake than corporate audit.",
    "rank": 4
@@ -107,7 +107,7 @@
    "qual": "None",
    "notes": "Deadline 1 Nov, 23:55.",
    "links": {},
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "loc": "London",
    "why": "Corporate finance functions at a top bank – the best bank fit for an accounting degree.",
    "rank": 6
@@ -176,7 +176,7 @@
    "qual": "None",
    "notes": "Possible international secondments. Job ID JR260937.",
    "links": {},
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "loc": "London, hybrid",
    "why": "Valuation and restructuring-adjacent consulting with signing and annual bonuses.",
    "rank": 9
@@ -210,7 +210,7 @@
    "qual": "ACA / CTA routes (funded)",
    "notes": "Grant Thornton may only let you apply to one programme – check first.",
    "links": {},
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "loc": "London (in person)",
    "why": "Office-based specialist route; same pay as the other GT schemes.",
    "rank": 10
@@ -389,7 +389,7 @@
    "qual": "ACCA/CIMA 'desirable' – funding not confirmed",
    "notes": "Ask whether the qualification is funded. Choose Croydon, not Cambridge.",
    "links": {},
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "loc": "Croydon (Greater London) or Cambridge, hybrid",
    "why": "Accounting & Finance degrees are asked for by name; lower-profile brand.",
    "rank": 23
@@ -457,7 +457,7 @@
    "qual": "None",
    "notes": "CV plus HireVue video interview. Check J.P. Morgan's limit on applications if applying to CADP too.",
    "links": {},
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "loc": "London",
    "why": "Private-bank investment work; quick first stage.",
    "rank": 26
@@ -491,7 +491,7 @@
    "qual": "None",
    "notes": "Most full-time IB places go to former summer interns.",
    "links": {},
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "loc": "London",
    "why": "Top-tier IB but long odds without an internship.",
    "rank": 27
@@ -525,7 +525,7 @@
    "qual": "None",
    "notes": "The page contradicts itself on start year – confirm 2027 before applying.",
    "links": {},
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "loc": "33 Canada Square, E14",
    "why": "Markets role at a global bank; heavy competition.",
    "rank": 28
@@ -559,7 +559,7 @@
    "qual": "None",
    "notes": "Very competitive – many full-time places go to former interns.",
    "links": {},
-   "checked": "2026-10-21",
+   "checked": "2026-10-24",
    "loc": "1 Churchill Place, Canary Wharf",
    "why": "Investment banking at a UK bulge-bracket bank.",
    "rank": 35
@@ -593,7 +593,7 @@
    "qual": "None",
    "notes": "Very competitive – many full-time places go to former interns.",
    "links": {},
-   "checked": "2026-10-21",
+   "checked": "2026-10-24",
    "loc": "Canary Wharf",
    "why": "Alternative Barclays route.",
    "rank": 36
@@ -736,7 +736,7 @@
    "qual": "None",
    "notes": "Check FTI's rule on applying to more than one scheme.",
    "links": {},
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "loc": "London, hybrid",
    "why": "Accounting and business degrees named; niche insurance consulting.",
    "rank": 40
@@ -770,7 +770,7 @@
    "qual": "None",
    "notes": "Closes 25 Oct at 9am, not midnight – treat 24 Oct as the last day. Analytics and credit-risk work with a numerical test.",
    "links": {},
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "loc": "Canary Wharf, hybrid",
    "why": "Great pay at a fintech bank; maths-heavy.",
    "rank": 41
@@ -804,7 +804,7 @@
    "qual": "None",
    "notes": "Commercial (buying, supply, range planning), not finance. Some stages may be in a store.",
    "links": {},
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "loc": "London",
    "why": "Well-known business scheme – more commercial than finance.",
    "rank": 42
@@ -876,7 +876,7 @@
    "qual": "None",
    "notes": "Start date not stated – confirm it's after summer 2027 before applying.",
    "links": {},
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "loc": "London",
    "why": "Large asset manager; start date unconfirmed.",
    "rank": 61
@@ -910,7 +910,7 @@
    "qual": "None",
    "notes": "Start date not stated; strategy consulting usually means client travel.",
    "links": {},
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "loc": "London",
    "why": "Strategy consulting brand; unconfirmed start.",
    "rank": 62
@@ -946,7 +946,7 @@
    "qual": "Not named",
    "notes": "Register now. The FCA allows one early-careers application in six months, so don't apply to FCA Regulatory if you want this one.",
    "links": {},
-   "checked": "2026-10-21",
+   "checked": "2026-10-24",
    "loc": "London, Leeds or Edinburgh",
    "why": "Regulator role built for accounting graduates – strong fit once it opens.",
    "rank": 65
@@ -1151,7 +1151,7 @@
    "qual": "CFA (fully sponsored)",
    "notes": "Equity research team – competitive and very numerate.",
    "links": {},
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "loc": "London EC2M, hybrid",
    "why": "Buy-side asset management with a sponsored CFA and no academic threshold.",
    "rank": 13
@@ -1287,7 +1287,7 @@
    "qual": "ATT & CTA, or ACA",
    "notes": "Mentions UK and international assignments. Rolling – apply early.",
    "links": {},
-   "checked": "2026-10-21",
+   "checked": "2026-10-24",
    "loc": "London, hybrid",
    "why": "Newly posted tax advisory route at a restructuring specialist, with a funded CTA/ACA and no school-grade bar.",
    "rank": 9.5
@@ -1321,7 +1321,7 @@
    "qual": "None",
    "notes": "MUFG runs four London analyst streams – check how many you may apply to before choosing.",
    "links": {},
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "loc": "London (in person)",
    "why": "Big Japanese bank with a risk route that suits finance graduates and no school-grade bar.",
    "rank": 17.5
@@ -1355,7 +1355,7 @@
    "qual": "None",
    "notes": "Check how many MUFG streams you may apply to.",
    "links": {},
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "loc": "London (in person)",
    "why": "Cash management and trade finance – corporate-facing banking.",
    "rank": 17.6
@@ -1389,7 +1389,7 @@
    "qual": "None",
    "notes": "Check how many MUFG streams you may apply to.",
    "links": {},
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "loc": "London (in person)",
    "why": "Debt capital markets at a global bank, open to non-interns.",
    "rank": 17.7
@@ -1494,7 +1494,7 @@
    "qual": "None",
    "notes": "Check how many MUFG streams you may apply to.",
    "links": {},
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "loc": "London (in person)",
    "why": "Corporate banking and IB coverage; competitive.",
    "rank": 27.5
@@ -1540,7 +1540,7 @@
    "qual": "3–4 year tax programme, then automatic promotion",
    "notes": "You pick one office and can't change it later – choose Stratford or Croydon for London. One application per intake.",
    "links": {},
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "loc": "Stratford or Croydon for London (also offices across the UK)",
    "why": "Civil Service tax career with automatic promotion and a low entry bar.",
    "rank": 11.5
@@ -1574,7 +1574,7 @@
    "qual": "ACA (ICAEW)",
    "notes": "Deloitte allows one early-careers application a year.",
    "links": {},
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "rank": null,
    "why": "",
    "loc": "Manchester"
@@ -1622,7 +1622,7 @@
     "Guildford": "https://targetjobs.co.uk/jobs/audit-graduate-guildford-september-2027-239963",
     "London": "https://higherin.com/jobs/44593/rsm/audit-graduate-london-september-2027"
    },
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "rank": null,
    "why": "",
    "loc": "Manchester, Leeds, Liverpool, Bristol, Edinburgh, Guildford, London"
@@ -1664,7 +1664,7 @@
     "Manchester": "https://targetjobs.co.uk/jobs/tax-graduate-manchester-september-2027-240083",
     "Leeds": "https://targetjobs.co.uk/jobs/tax-graduate-leeds-september-2027-240065"
    },
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "rank": null,
    "why": "",
    "loc": "London, Liverpool, Manchester, Leeds"
@@ -1796,7 +1796,7 @@
     "Edinburgh": "https://targetjobs.co.uk/jobs/kpmg-2027-audit-graduate-programme-edinburgh-243565",
     "Aberdeen": "https://targetjobs.co.uk/jobs/kpmg-2027-audit-graduate-programme-aberdeen-243557"
    },
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "rank": null,
    "why": "",
    "loc": "London, Cambridge, Nottingham, Reading, Edinburgh, Aberdeen"
@@ -1836,7 +1836,7 @@
     "Leicester": "https://targetjobs.co.uk/jobs/private-capital-audit-graduate-programme-autumn-2027-leicester-248163",
     "Glasgow": "https://targetjobs.co.uk/jobs/private-capital-audit-graduate-programme-autumn-2027-glasgow-248169"
    },
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "rank": null,
    "why": "",
    "loc": "Leeds, Leicester, Glasgow"
@@ -1870,7 +1870,7 @@
    "qual": "Professional accounting qualification (funded)",
    "notes": "Grant Thornton may only let you apply to one programme – check first.",
    "links": {},
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "rank": null,
    "why": "",
    "loc": "Birmingham"
@@ -1904,7 +1904,7 @@
    "qual": "None",
    "notes": "",
    "links": {},
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "rank": null,
    "why": "",
    "loc": "Northampton"
@@ -2063,7 +2063,7 @@
    "qual": "ICE chartership pathway",
    "notes": "No visa sponsorship.",
    "links": {},
-   "checked": "2026-10-21",
+   "checked": "2026-10-24",
    "rank": null,
    "why": "",
    "loc": "Brighton, Luton, Plymouth"
@@ -2097,7 +2097,7 @@
    "qual": "None",
    "notes": "Needs a driving licence or another way to travel between project sites. No visa sponsorship.",
    "links": {},
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "rank": null,
    "why": "",
    "loc": "Peterborough"
@@ -2165,7 +2165,7 @@
    "qual": "Postgraduate qualification in healthcare leadership",
    "notes": "Closes 28 Oct 2026 at 11:30am. You give region preferences but placement isn't guaranteed.",
    "links": {},
-   "checked": "2026-10-21",
+   "checked": "2026-10-24",
    "rank": null,
    "why": "",
    "loc": "UK-wide"
@@ -2199,7 +2199,7 @@
    "qual": "None",
    "notes": "Closes 28 Oct 2026 at 11:30am. MEng holders aren't eligible for the Estates Engineering Management route.",
    "links": {},
-   "checked": "2026-10-21",
+   "checked": "2026-10-24",
    "rank": null,
    "why": "",
    "loc": "UK-wide"
@@ -2236,7 +2236,7 @@
    "qual": "None",
    "notes": "At least 3 office days a week. One application per location per year.",
    "links": {},
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "rank": null,
    "why": "",
    "loc": "Manchester"
@@ -2272,7 +2272,7 @@
    "qual": "None",
    "notes": "Intakes through 2027 – pick one after you graduate. Visa sponsorship offered.",
    "links": {},
-   "checked": "2026-10-21",
+   "checked": "2026-10-24",
    "rank": null,
    "why": "",
    "loc": "London, Manchester, Cambridge"
@@ -2376,7 +2376,7 @@
    "qual": "None",
    "notes": "Three rotations across UK sites – you need to be mobile. Needs UK right to work without sponsorship.",
    "links": {},
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "rank": null,
    "why": "",
    "loc": "UK-wide"
@@ -2410,7 +2410,7 @@
    "qual": "None",
    "notes": "Buying and merchandising rotations; about 60% in the office.",
    "links": {},
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "rank": null,
    "why": "",
    "loc": "Welwyn Garden City"
@@ -2485,7 +2485,7 @@
    "qual": "None",
    "notes": "Pathways in AI/data, cyber, IT and OT. Needs UK right to work – no visa sponsorship.",
    "links": {},
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "rank": null,
    "why": "",
    "loc": "Glasgow, Perth, Reading, Havant, Portsmouth"
@@ -2525,7 +2525,7 @@
    "qual": "QTS and PGCE",
    "notes": "Needs right to work in the UK until August 2028. Apply through DfE (course code 1CS).",
    "links": {},
-   "checked": "2026-10-21",
+   "checked": "2026-10-24",
    "rank": null,
    "why": "",
    "loc": "Birmingham, London, Milton Keynes, Portsmouth, Hastings, Pontefract, Tunbridge Wells"
@@ -2559,7 +2559,7 @@
    "qual": "None",
    "notes": "12-month fixed-term scheme with one place; travel to sites across the UK.",
    "links": {},
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "rank": null,
    "why": "",
    "loc": "Birmingham"
@@ -2635,83 +2635,10 @@
    "qual": "None",
    "notes": "Many roles need National Security Vetting (usually 5–10 years' UK residency).",
    "links": {},
-   "checked": "2026-10-21",
+   "checked": "2026-10-24",
    "rank": null,
    "why": "",
    "loc": "Birmingham, Bristol, Cardiff, Leeds, Leicester, London, Nottingham, Gloucester, Bridgend"
-  },
-  {
-   "id": "deloitte-actuarial-manchester",
-   "emp": "Deloitte",
-   "title": "Actuarial – Actuarial Insurance Graduate Scheme 2027",
-   "url": "https://www.brightnetwork.co.uk/graduate-jobs/deloitte/actuarial-actuarial-insurance-graduate-scheme-2027",
-   "src": "Bright Network",
-   "disciplines": [
-    "accounting-finance",
-    "economics",
-    "maths-physics",
-    "engineering",
-    "computing",
-    "sciences"
-   ],
-   "area": "Insurance & risk",
-   "cities": [
-    "Manchester"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-10-23",
-   "dlNote": "May close early",
-   "status": "open",
-   "salary": "Competitive + benefits",
-   "degreeMin": "2:1",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:1 in Maths, Finance, Actuarial Science, Economics, Physics, Chemistry, Engineering or Computer Science; A-level Maths encouraged",
-   "qual": "Fellowship of the Institute and Faculty of Actuaries",
-   "notes": "Deloitte allows one early-careers application a year. No visa sponsorship.",
-   "links": {},
-   "checked": "2026-10-23",
-   "rank": null,
-   "why": "",
-   "loc": "Manchester"
-  },
-  {
-   "id": "deloitte-human-capital-manchester",
-   "emp": "Deloitte",
-   "title": "Business Transformation Consulting – Human Capital Graduate Scheme 2027",
-   "url": "https://www.brightnetwork.co.uk/graduate-jobs/deloitte/business-transformation-consulting-human-capital-graduate-scheme-2027-1",
-   "src": "Bright Network",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Consulting",
-   "cities": [
-    "Manchester"
-   ],
-   "start": "Autumn 2027",
-   "dl": "2026-10-23",
-   "dlNote": "",
-   "status": "open",
-   "salary": "Not stated",
-   "degreeMin": "2:1",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:1, any subject",
-   "qual": "None",
-   "notes": "Deloitte allows one early-careers application a year. No visa sponsorship.",
-   "links": {},
-   "checked": "2026-10-23",
-   "rank": null,
-   "why": "",
-   "loc": "Manchester"
   },
   {
    "id": "wsp-earth-environment",
@@ -2822,7 +2749,7 @@
    "qual": "None",
    "notes": "All rotations are London-based.",
    "links": {},
-   "checked": "2026-10-11",
+   "checked": "2026-10-24",
    "rank": null,
    "why": "",
    "loc": "London"
@@ -2856,44 +2783,10 @@
    "qual": "None",
    "notes": "",
    "links": {},
-   "checked": "2026-10-11",
+   "checked": "2026-10-24",
    "rank": null,
    "why": "",
    "loc": "London"
-  },
-  {
-   "id": "mills-selig-trainee",
-   "emp": "Mills Selig",
-   "title": "Trainee Solicitor Programme 2027",
-   "url": "https://millsselig.com/mills-selig-opens-applications-for-2027-trainee-solicitor-programme/",
-   "src": "Mills Selig / Irish News",
-   "disciplines": [
-    "law"
-   ],
-   "area": "Law",
-   "cities": [
-    "Belfast"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-10-23",
-   "dlNote": "Closes 4pm",
-   "status": "open",
-   "salary": "Not stated",
-   "degreeMin": null,
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "Final-year law students or law graduates who have applied (or will apply) to the Institute of Professional Legal Studies",
-   "qual": "None",
-   "notes": "Northern Ireland commercial law firm. Interviews week of 9 Nov 2026. Applications can't be edited after you submit.",
-   "links": {},
-   "checked": "2026-10-23",
-   "rank": null,
-   "why": "",
-   "loc": "Belfast"
   },
   {
    "id": "clearview-ls-strategy",
@@ -2956,7 +2849,7 @@
    "qual": "Patent attorney qualifications (CIPA/EQE)",
    "notes": "",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "hlk-patent-chemistry-glasgow",
@@ -2987,7 +2880,7 @@
    "qual": "Patent attorney qualifications (CIPA/EQE)",
    "notes": "Graduate Visa accepted at first; Skilled Worker sponsorship considered after probation. Answers must be your own, not AI-written.",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "adelphi-research-exec",
@@ -3018,7 +2911,7 @@
    "qual": "None",
    "notes": "Healthcare market research. Hybrid – 3 office days a week (full-time in the office for the first month).",
    "links": {},
-   "checked": "2026-10-21"
+   "checked": "2026-10-24"
   },
   {
    "id": "adelphi-research-assoc",
@@ -3084,7 +2977,7 @@
    "qual": "None",
    "notes": "£1,200 a month housing allowance for the first six months.",
    "links": {},
-   "checked": "2026-10-11"
+   "checked": "2026-10-24"
   },
   {
    "id": "nnl-cei-design",
@@ -3115,7 +3008,7 @@
    "qual": "None",
    "notes": "Needs 5 years' UK residence and SC clearance eligibility.",
    "links": {},
-   "checked": "2026-10-11"
+   "checked": "2026-10-24"
   },
   {
    "id": "nnl-info-security",
@@ -3148,69 +3041,7 @@
    "qual": "None",
    "notes": "Needs 5 years' UK residence and SC clearance eligibility.",
    "links": {},
-   "checked": "2026-10-11"
-  },
-  {
-   "id": "sellafield-warrington",
-   "emp": "Sellafield Ltd",
-   "title": "Graduate Programme 2027 – Warrington",
-   "url": "https://www.brightnetwork.co.uk/graduate-jobs/sellafield/graduate-programme-warrington-2027-alnn",
-   "src": "Bright Network",
-   "disciplines": [
-    "engineering"
-   ],
-   "area": "Engineering",
-   "cities": [
-    "Warrington"
-   ],
-   "start": "27 Sep 2027",
-   "dl": "2026-10-23",
-   "dlNote": "",
-   "status": "open",
-   "salary": "£44,027 (£45,010 in year two)",
-   "degreeMin": "2:1",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:1 in electrical, mechanical (Masters) or chemical engineering",
-   "qual": "None",
-   "notes": "Security clearance usually needs 5 years' UK residence. £1,400 relocation if moving 30+ miles.",
-   "links": {},
-   "checked": "2026-10-23"
-  },
-  {
-   "id": "sellafield-cumbria",
-   "emp": "Sellafield Ltd",
-   "title": "Cumbria Graduate Programme 2027",
-   "url": "https://www.brightnetwork.co.uk/graduate-jobs/sellafield/cumbria-graduate-programme-sellafield-2027-alns",
-   "src": "Bright Network",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Engineering",
-   "cities": [
-    "West Cumbria"
-   ],
-   "start": "Not stated",
-   "dl": "2026-10-23",
-   "dlNote": "",
-   "status": "open",
-   "salary": "£44,027 (£45,010 in year two)",
-   "degreeMin": "2:1",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:1 in a subject relevant to the scheme you choose",
-   "qual": "None",
-   "notes": "Security clearance required. £1,400 relocation if moving 30+ miles.",
-   "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "reddie-grose-tm",
@@ -3274,7 +3105,7 @@
    "qual": "Certificate in IP Law + European qualifying exam prep",
    "notes": "",
    "links": {},
-   "checked": "2026-10-11"
+   "checked": "2026-10-24"
   },
   {
    "id": "jnj-trainee-engineer-leeds",
@@ -3306,7 +3137,7 @@
    "qual": "None",
    "notes": "Must have graduated within the last 2 years and have permanent UK right to work. Assessment centres 1 and 9 Dec 2026.",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "ark-science-teacher",
@@ -3345,7 +3176,7 @@
    "qual": "QTS + PGCE",
    "notes": "Apply via DfE (course code 1CS). PGCE fee via student loan.",
    "links": {},
-   "checked": "2026-10-21"
+   "checked": "2026-10-24"
   },
   {
    "id": "helix-law-tc",
@@ -3376,7 +3207,7 @@
    "qual": "None",
    "notes": "",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "kennedys-bristol-grad-apprentice",
@@ -3438,7 +3269,7 @@
    "qual": "None",
    "notes": "Business services (operations) at a global law firm. Not eligible for Skilled Worker sponsorship.",
    "links": {},
-   "checked": "2026-10-11"
+   "checked": "2026-10-24"
   },
   {
    "id": "spirit-aero-supply-chain-belfast",
@@ -3538,70 +3369,7 @@
    "qual": "None",
    "notes": "Needs indefinite UK right to work – no sponsorship, student visas not eligible.",
    "links": {},
-   "checked": "2026-10-23"
-  },
-  {
-   "id": "martin-baker-eng",
-   "emp": "Martin-Baker",
-   "title": "Graduate Engineering Programme 2027",
-   "url": "https://www.brightnetwork.co.uk/graduate-jobs/martin-baker/graduate-engineering-programme-denham-2027-an79",
-   "src": "Bright Network",
-   "disciplines": [
-    "engineering"
-   ],
-   "area": "Engineering",
-   "cities": [
-    "Denham"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-10-23",
-   "dlNote": "",
-   "status": "open",
-   "salary": "£34,000 + £1,500 welcome payment",
-   "degreeMin": "2:1",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:1 in engineering (ideally aerospace, aeronautical or mechanical); relevant A-levels",
-   "qual": "None",
-   "notes": "BPSS screening and ITAR eligibility required.",
-   "links": {},
-   "checked": "2026-10-23"
-  },
-  {
-   "id": "sweco-process",
-   "emp": "Sweco",
-   "title": "Graduate Process Engineer 2027",
-   "url": "https://www.brightnetwork.co.uk/graduate-jobs/sweco/graduate-process-peterborough-2027-amnr",
-   "src": "Bright Network",
-   "disciplines": [
-    "engineering",
-    "sciences"
-   ],
-   "area": "Engineering",
-   "cities": [
-    "Peterborough"
-   ],
-   "start": "Not stated",
-   "dl": "2026-10-23",
-   "dlNote": "",
-   "status": "open",
-   "salary": "Not stated",
-   "degreeMin": "2:2",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:2 in a water/wastewater process science or engineering subject; driving licence",
-   "qual": "None",
-   "notes": "No visa sponsorship. Two professional subscriptions paid.",
-   "links": {},
-   "checked": "2026-10-22"
+   "checked": "2026-10-24"
   },
   {
    "id": "costain-planner",
@@ -3634,7 +3402,7 @@
    "qual": "None",
    "notes": "Some roles need security clearance (5 years' UK residence).",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "wsp-structures",
@@ -3705,7 +3473,7 @@
    "qual": "None",
    "notes": "",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "akt-ii-civil",
@@ -3736,7 +3504,7 @@
    "qual": "None",
    "notes": "",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "anglian-qs",
@@ -3767,7 +3535,7 @@
    "qual": "None",
    "notes": "No visa sponsorship.",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "lucion-geotech",
@@ -3799,7 +3567,7 @@
    "qual": "None",
    "notes": "Travel and outdoor fieldwork in all weathers.",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "mwh-civil",
@@ -3830,7 +3598,7 @@
    "qual": "None",
    "notes": "",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "pg-eng-manufacturing",
@@ -3861,7 +3629,7 @@
    "qual": "None",
    "notes": "Visa sponsorship offered from the end of your current permission.",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "pg-sales",
@@ -3892,7 +3660,7 @@
    "qual": "None",
    "notes": "Needs continuous UK right to work from day one – no sponsorship.",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "sse-pm",
@@ -3928,7 +3696,7 @@
    "qual": "None",
    "notes": "",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "sse-energy-markets",
@@ -3964,7 +3732,7 @@
    "qual": "None",
    "notes": "",
    "links": {},
-   "checked": "2026-10-11"
+   "checked": "2026-10-24"
   },
   {
    "id": "mbda-gnc",
@@ -3997,7 +3765,7 @@
    "qual": "None",
    "notes": "Security clearance needs British citizenship.",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "arcadis-ground-investigation",
@@ -4032,7 +3800,7 @@
    "qual": "None",
    "notes": "",
    "links": {},
-   "checked": "2026-10-11"
+   "checked": "2026-10-24"
   },
   {
    "id": "cowi-bridge-bristol",
@@ -4063,7 +3831,7 @@
    "qual": "None",
    "notes": "Two professional institution memberships paid. Hybrid.",
    "links": {},
-   "checked": "2026-10-11"
+   "checked": "2026-10-24"
   },
   {
    "id": "cowi-civil-york",
@@ -4098,7 +3866,7 @@
     "York": "https://www.brightnetwork.co.uk/graduate-jobs/cowi/graduate-engineer-civil-structural-york-2027-aoe4",
     "Derby": "https://www.brightnetwork.co.uk/graduate-jobs/cowi/graduate-engineer-civil-structural-derby-2027-aoe6"
    },
-   "checked": "2026-10-11"
+   "checked": "2026-10-24"
   },
   {
    "id": "arcadis-flood-risk",
@@ -4134,7 +3902,7 @@
    "qual": "None",
    "notes": "",
    "links": {},
-   "checked": "2026-10-11"
+   "checked": "2026-10-24"
   },
   {
    "id": "mercedes-amg-women-eng",
@@ -4165,7 +3933,7 @@
    "qual": "None",
    "notes": "Programme for women in engineering. Shortlisted candidates attend a workshop on 11 Dec 2026; interview travel bursary available.",
    "links": {},
-   "checked": "2026-10-11"
+   "checked": "2026-10-24"
   },
   {
    "id": "ineos-mech-grangemouth",
@@ -4180,7 +3948,7 @@
    "cities": [
     "Grangemouth"
    ],
-   "start": "Not stated",
+   "start": "Sep 2027",
    "dl": "2026-11-13",
    "dlNote": "Rolling – apply early",
    "status": "open",
@@ -4196,7 +3964,7 @@
    "qual": "IMechE chartership",
    "notes": "",
    "links": {},
-   "checked": "2026-10-11"
+   "checked": "2026-10-24"
   },
   {
    "id": "ineos-ei-grangemouth",
@@ -4606,7 +4374,7 @@
    "qual": "None",
    "notes": "Hybrid.",
    "links": {},
-   "checked": "2026-10-21"
+   "checked": "2026-10-24"
   },
   {
    "id": "bae-electronics",
@@ -4639,41 +4407,7 @@
    "qual": "None",
    "notes": "Many roles need National Security Vetting (often 5–10 years' UK residence).",
    "links": {},
-   "checked": "2026-10-21"
-  },
-  {
-   "id": "deloitte-data-ai-manchester",
-   "emp": "Deloitte",
-   "title": "Data & AI Consulting – AI & Data Graduate Scheme 2027",
-   "url": "https://www.brightnetwork.co.uk/graduate-jobs/deloitte/data-ai-consulting-ai-data-graduate-scheme-2027",
-   "src": "Bright Network",
-   "disciplines": [
-    "computing",
-    "engineering",
-    "maths-physics",
-    "sciences"
-   ],
-   "area": "Data & analytics",
-   "cities": [
-    "Manchester"
-   ],
-   "start": "Autumn 2027",
-   "dl": "2026-10-23",
-   "dlNote": "",
-   "status": "open",
-   "salary": "Not stated",
-   "degreeMin": "2:1",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:1 in a STEM subject",
-   "qual": "Cloud certifications (AWS, Google Cloud, Azure, Databricks)",
-   "notes": "Deloitte allows one early-careers application a year. No Skilled Worker sponsorship.",
-   "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "fti-digital-forensics",
@@ -4706,7 +4440,7 @@
    "qual": "None",
    "notes": "CV only (no cover letter), then video questions and two virtual interviews.",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "lseg-ba-pm",
@@ -4904,38 +4638,6 @@
    "checked": "2026-10-11"
   },
   {
-   "id": "capgemini-cx-analyst",
-   "emp": "Capgemini",
-   "title": "Graduate Customer Experience (CX) Analyst Programme 2027",
-   "url": "https://www.brightnetwork.co.uk/graduate-jobs/capgemini-invent/graduate-customer-experience-cx-analyst-programme-hove-2027-anvx",
-   "src": "Bright Network",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Technology",
-   "cities": [
-    "Hove",
-    "Telford"
-   ],
-   "start": "Apr 2027",
-   "dl": null,
-   "dlNote": "Rolling – apply early",
-   "status": "open",
-   "salary": "£35,000",
-   "degreeMin": null,
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "No degree subject or grade bar stated",
-   "qual": "None",
-   "notes": "Needs SC clearance (5 years' continuous UK residence). Up to 3 office days a week.",
-   "links": {},
-   "checked": "2026-10-21"
-  },
-  {
    "id": "appian-associate-consultant",
    "emp": "Appian",
    "title": "Associate Consultant 2027",
@@ -4967,7 +4669,7 @@
    "qual": "None",
    "notes": "Up to 10% travel.",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "isio-business-data",
@@ -5131,7 +4833,7 @@
     "London": "https://www.brightnetwork.co.uk/graduate-jobs/deloitte/business-transformation-consulting-marketing-commerce-graduate-scheme-2027-1",
     "Manchester": "https://www.gradcracker.com/hub/301/deloitte/graduate-job/86164/graduate-business-transformation-consulting-marketing-and-commerce"
    },
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "asda-buying",
@@ -5382,7 +5084,7 @@
    "qual": "None",
    "notes": "Resettlement allowance if eligible.",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "arriva-rail-commercial",
@@ -5448,42 +5150,6 @@
    "checked": "2026-10-11"
   },
   {
-   "id": "whitbread-finance",
-   "emp": "Whitbread",
-   "title": "Finance Graduate Programme 2027",
-   "url": "https://www.brightnetwork.co.uk/graduate-jobs/whitbread/finance-graduate-programme-2027",
-   "src": "Bright Network",
-   "disciplines": [
-    "accounting-finance",
-    "economics",
-    "maths-physics",
-    "engineering",
-    "computing",
-    "sciences"
-   ],
-   "area": "Corporate finance",
-   "cities": [
-    "Dunstable"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-10-27",
-   "dlNote": "",
-   "status": "open",
-   "salary": "£34,000",
-   "degreeMin": null,
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "Numerate or analytical degree (e.g. finance & accounting, economics, maths, data science, sciences)",
-   "qual": "CIMA, ACCA or ACA support",
-   "notes": "Hybrid – 3 office days a week.",
-   "links": {},
-   "checked": "2026-10-21"
-  },
-  {
    "id": "sumer-valuations-leeds",
    "emp": "Sumer",
    "title": "Early Careers Trainee – Valuations 2027",
@@ -5515,106 +5181,6 @@
    "checked": "2026-10-21"
   },
   {
-   "id": "baker-hughes-aspire-sc",
-   "emp": "Baker Hughes",
-   "title": "ASPIRE Supply Chain 2027",
-   "url": "https://www.brightnetwork.co.uk/graduate-jobs/baker-hughes/aspire-supply-chain-aberdeen-2027-an1r",
-   "src": "Bright Network",
-   "disciplines": [
-    "engineering",
-    "business"
-   ],
-   "area": "Operations & supply chain",
-   "cities": [
-    "Aberdeen"
-   ],
-   "start": "Jan 2027",
-   "dl": null,
-   "dlNote": "Rolling – apply early",
-   "status": "open",
-   "salary": "Not stated",
-   "degreeMin": null,
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "Engineering, manufacturing, supply chain or equivalent degree, completed within the last 24 months",
-   "qual": "Lean Six Sigma + APICS",
-   "notes": "No sponsorship.",
-   "links": {},
-   "checked": "2026-10-23"
-  },
-  {
-   "id": "martin-baker-business",
-   "emp": "Martin-Baker",
-   "title": "Business Management Graduate Programme 2027",
-   "url": "https://www.brightnetwork.co.uk/graduate-jobs/martin-baker/business-management-graduate-programme-denham-2027-an7g",
-   "src": "Bright Network",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Operations & supply chain",
-   "cities": [
-    "Denham"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-10-23",
-   "dlNote": "",
-   "status": "open",
-   "salary": "£34,000 + benefits",
-   "degreeMin": "2:1",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:1, any degree subject",
-   "qual": "None",
-   "notes": "ITAR eligibility and BPSS screening required.",
-   "links": {},
-   "checked": "2026-10-23"
-  },
-  {
-   "id": "deloitte-indirect-tax-bham",
-   "emp": "Deloitte",
-   "title": "Indirect Tax Consulting Graduate Scheme 2027",
-   "url": "https://www.brightnetwork.co.uk/graduate-jobs/deloitte/indirect-tax-consulting-graduate-scheme-2027-4",
-   "src": "Bright Network",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Tax",
-   "cities": [
-    "Birmingham",
-    "Leeds",
-    "Manchester"
-   ],
-   "start": "Autumn 2027",
-   "dl": "2026-10-23",
-   "dlNote": "",
-   "status": "open",
-   "salary": "Not stated",
-   "degreeMin": "2:1",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:1, any degree subject",
-   "qual": "ATT / CTA / tax & customs routes",
-   "notes": "Deloitte allows one early-careers application a year. No Skilled Worker sponsorship.",
-   "links": {
-    "Birmingham": "https://www.brightnetwork.co.uk/graduate-jobs/deloitte/indirect-tax-consulting-graduate-scheme-2027-4",
-    "Leeds": "https://www.gradcracker.com/hub/301/deloitte/graduate-job/85214/graduate-indirect-tax-consulting",
-    "Manchester": "https://www.gradcracker.com/hub/301/deloitte/graduate-job/85241/graduate-indirect-tax-consulting"
-   },
-   "checked": "2026-10-23"
-  },
-  {
    "id": "deloitte-btc-sales-service",
    "emp": "Deloitte",
    "title": "Business Transformation Consulting – Sales & Service Graduate Scheme 2027",
@@ -5643,7 +5209,7 @@
    "qual": "None",
    "notes": "Deloitte allows one early-careers application a year. No Skilled Worker sponsorship.",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "crowe-audit-thames-valley",
@@ -5736,7 +5302,7 @@
    "qual": "ICAS CA (3-year TOPPS scheme)",
    "notes": "",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "mha-audit-aberdeen",
@@ -5832,68 +5398,6 @@
    "checked": "2026-10-23"
   },
   {
-   "id": "dixon-wilson-aca",
-   "emp": "Dixon Wilson",
-   "title": "ACA Graduate Programme 2027",
-   "url": "https://www.brightnetwork.co.uk/graduate-jobs/dixon-wilson/aca-graduate-programme-london-2027-al2q",
-   "src": "Bright Network",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Audit & accounting",
-   "cities": [
-    "London"
-   ],
-   "start": "Not stated",
-   "dl": "2026-10-31",
-   "dlNote": "",
-   "status": "open",
-   "salary": "Not stated",
-   "degreeMin": "2:1",
-   "ucasMin": 120,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:1; 120 UCAS points minimum",
-   "qual": "ACA",
-   "notes": "",
-   "links": {},
-   "checked": "2026-10-23"
-  },
-  {
-   "id": "dixon-wilson-tax",
-   "emp": "Dixon Wilson",
-   "title": "Tax (ATT/CTA) Graduate Programme 2027",
-   "url": "https://www.brightnetwork.co.uk/graduate-jobs/dixon-wilson/tax-att-cta-graduate-programme-london-2027-al2z",
-   "src": "Bright Network",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Tax",
-   "cities": [
-    "London"
-   ],
-   "start": "22 Mar 2027",
-   "dl": "2026-10-31",
-   "dlNote": "May close early",
-   "status": "open",
-   "salary": "Not stated",
-   "degreeMin": "2:1",
-   "ucasMin": 120,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:1, any subject; 120 UCAS points minimum",
-   "qual": "ATT & CTA",
-   "notes": "Can't start in March 2027? Apply for the March 2028 intake.",
-   "links": {},
-   "checked": "2026-10-23"
-  },
-  {
    "id": "mcbrides-audit-manchester",
    "emp": "McBrides",
    "title": "Audit Graduate 2027",
@@ -5958,7 +5462,7 @@
    "qual": "ACA",
    "notes": "Must meet apprenticeship levy funding eligibility.",
    "links": {},
-   "checked": "2026-10-21"
+   "checked": "2026-10-24"
   },
   {
    "id": "aab-grad-2027",
@@ -5997,7 +5501,7 @@
    "qual": "None",
    "notes": "Assessment, video exercise and interview. Needs UK right to work at the start.",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "ballards-grad",
@@ -6030,7 +5534,7 @@
    "qual": "Fully funded professional qualification",
    "notes": "Streams: audit, private client tax, corporate finance, corporate tax.",
    "links": {},
-   "checked": "2026-10-21"
+   "checked": "2026-10-24"
   },
   {
    "id": "am-tax-manchester",
@@ -6061,7 +5565,7 @@
    "qual": "ACA and CTA support",
    "notes": "No visa sponsorship – you need the right to work in the UK.",
    "links": {},
-   "checked": "2026-10-21"
+   "checked": "2026-10-24"
   },
   {
    "id": "jpm-private-bank-advisor",
@@ -6094,7 +5598,7 @@
    "qual": "None",
    "notes": "Pick one city. HireVue video interview.",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "jpm-cib-innovation",
@@ -6125,7 +5629,7 @@
    "qual": "None",
    "notes": "HireVue video interview.",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "lloyds-commercial-wealth-rm",
@@ -6227,7 +5731,7 @@
    "qual": "None",
    "notes": "Skilled Worker sponsorship considered if eligible.",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "sjp-risk",
@@ -6356,7 +5860,7 @@
    "qual": "None",
    "notes": "",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "alpha-fmc-tech-consulting",
@@ -6514,7 +6018,7 @@
    "qual": "None",
    "notes": "Operations and supply-chain consulting.",
    "links": {},
-   "checked": "2026-10-21"
+   "checked": "2026-10-24"
   },
   {
    "id": "beazley-actuarial",
@@ -6553,7 +6057,7 @@
    "qual": "None",
    "notes": "Two-year scheme.",
    "links": {},
-   "checked": "2026-10-21"
+   "checked": "2026-10-24"
   },
   {
    "id": "isio-actuarial-belfast",
@@ -7025,7 +6529,7 @@
    "qual": "None",
    "notes": "Apply to Harrogate or Weybridge, not both. Needs UK right to work from day one.",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "budweiser-gmt",
@@ -7121,7 +6625,7 @@
    "qual": "None",
    "notes": "No visa sponsorship – need UK right to work Aug 2027 – Aug 2029.",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "nestle-hr",
@@ -7158,7 +6662,7 @@
    "qual": "None",
    "notes": "Possible £2,000 relocation support. Needs non-time-limited UK right to work.",
    "links": {},
-   "checked": "2026-10-21"
+   "checked": "2026-10-24"
   },
   {
    "id": "kepak-marketing",
@@ -7189,7 +6693,7 @@
    "qual": "None",
    "notes": "Two-year rotation across category and marketing; travel to UK and Ireland sites.",
    "links": {},
-   "checked": "2026-10-21"
+   "checked": "2026-10-24"
   },
   {
    "id": "pwc-audit-tax-finance",
@@ -7414,7 +6918,7 @@
    "qual": "None",
    "notes": "Hybrid. No UK work permit sponsorship.",
    "links": {},
-   "checked": "2026-10-21"
+   "checked": "2026-10-24"
   },
   {
    "id": "stantec-ecologist-newcastle",
@@ -7584,7 +7088,7 @@
    "qual": "None",
    "notes": "Hybrid – 3 days a week on site.",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "keyence-bd",
@@ -7621,7 +7125,7 @@
    "qual": "None",
    "notes": "Technical sales. Office in Uxbridge for London.",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "pwc-advisory-consulting",
@@ -7842,7 +7346,7 @@
    "qual": "None",
    "notes": "",
    "links": {},
-   "checked": "2026-10-19"
+   "checked": "2026-10-24"
   },
   {
    "id": "lloyds-data-science-ai",
@@ -8092,7 +7596,7 @@
    "qual": "None",
    "notes": "",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "kilburn-strode-tm",
@@ -8123,75 +7627,7 @@
    "qual": "None",
    "notes": "Three-year traineeship. Video interview then assessment centre.",
    "links": {},
-   "checked": "2026-10-23"
-  },
-  {
-   "id": "cisco-sales-csap",
-   "emp": "Cisco",
-   "title": "Associate Sales Representative – CSAP 2027",
-   "url": "https://www.gradcracker.com/hub/1481/cisco/graduate-job/81687/associate-sales-representative-csap",
-   "src": "Gradcracker",
-   "disciplines": [
-    "computing",
-    "engineering",
-    "maths-physics",
-    "sciences"
-   ],
-   "area": "Retail & commercial",
-   "cities": [
-    "London"
-   ],
-   "start": "Mar 2027",
-   "dl": "2026-10-23",
-   "dlNote": "",
-   "status": "open",
-   "salary": "Competitive",
-   "degreeMin": null,
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "Recent degree in any STEM discipline, or equivalent experience via apprenticeships/vocational programmes; up to 2 years' experience",
-   "qual": "None",
-   "notes": "12-month graduate sales programme.",
-   "links": {},
-   "checked": "2026-10-23"
-  },
-  {
-   "id": "cisco-se-csap",
-   "emp": "Cisco",
-   "title": "Associate Solutions Engineer – CSAP 2027",
-   "url": "https://www.gradcracker.com/hub/1481/cisco/graduate-job/81686/associate-solutions-engineer-csap",
-   "src": "Gradcracker",
-   "disciplines": [
-    "engineering",
-    "computing",
-    "maths-physics",
-    "sciences"
-   ],
-   "area": "Technology",
-   "cities": [
-    "London"
-   ],
-   "start": "Mar 2027",
-   "dl": "2026-10-23",
-   "dlNote": "",
-   "status": "open",
-   "salary": "Competitive",
-   "degreeMin": null,
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "Technical degree (engineering, CS, STEM) or proven technical curiosity",
-   "qual": "None",
-   "notes": "",
-   "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "bdo-audit-south-east",
@@ -8290,7 +7726,7 @@
    "qual": "None",
    "notes": "Graduating next summer or graduated in the last 2 years. Three 12-month placements – you may need to relocate.",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "mars-supply-chain",
@@ -8321,7 +7757,7 @@
    "qual": "None",
    "notes": "Graduating next summer or graduated in the last 2 years. Three 12-month placements – you may need to relocate.",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "mars-rd",
@@ -8356,7 +7792,7 @@
    "qual": "None",
    "notes": "Graduating next summer or graduated in the last 2 years. Three 12-month placements – you may need to relocate.",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "network-rail-grads",
@@ -8402,7 +7838,7 @@
    "qual": "None",
    "notes": "Needs UK right to work by Sep 2027.",
    "links": {},
-   "checked": "2026-10-21"
+   "checked": "2026-10-24"
   },
   {
    "id": "nfu-mutual-sales-sw",
@@ -8546,7 +7982,7 @@
    "qual": "Funded postgraduate certificate",
    "notes": "12+ months of business placements, a group strategy project and leadership development.",
    "links": {},
-   "checked": "2026-10-21"
+   "checked": "2026-10-24"
   },
   {
    "id": "stantec-stakeholder-engagement",
@@ -8617,7 +8053,7 @@
    "qual": "None",
    "notes": "Needs British citizenship (sole or dual UK national).",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "wsp-environmental-services",
@@ -8772,41 +8208,6 @@
    "checked": "2026-10-11"
   },
   {
-   "id": "deloitte-tax-glasgow",
-   "emp": "Deloitte",
-   "title": "Tax Consulting Graduate Scheme 2027 – Glasgow",
-   "url": "https://www.gradcracker.com/hub/301/deloitte/graduate-job/84267/graduate-tax-consulting",
-   "src": "Gradcracker / Deloitte careers",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Tax",
-   "cities": [
-    "Glasgow",
-    "Edinburgh"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-10-23",
-   "dlNote": "May close early",
-   "status": "open",
-   "salary": "Competitive",
-   "degreeMin": "2:1",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:1, any degree subject",
-   "qual": "ATT, ACA, ICAS or CTA pathways",
-   "notes": "Deloitte allows one early-careers application a year.",
-   "links": {
-    "Glasgow": "https://www.gradcracker.com/hub/301/deloitte/graduate-job/84267/graduate-tax-consulting",
-    "Edinburgh": "https://www.gradcracker.com/hub/301/deloitte/graduate-job/84266/graduate-tax-consulting"
-   },
-   "checked": "2026-10-23"
-  },
-  {
    "id": "accenture-bristol-se",
    "emp": "Accenture",
    "title": "Bristol Software Engineering Graduate Programme 2027–2028",
@@ -8838,7 +8239,7 @@
    "qual": "None",
    "notes": "At least 3 office days a week. No UK work permit sponsorship.",
    "links": {},
-   "checked": "2026-10-21"
+   "checked": "2026-10-24"
   },
   {
    "id": "atkinsrealis-digital-tech",
@@ -8944,7 +8345,7 @@
    "qual": "None",
    "notes": "Site confirmed at the assessment centre. No visa sponsorship.",
    "links": {},
-   "checked": "2026-10-20"
+   "checked": "2026-10-24"
   },
   {
    "id": "barclays-uk-corporate-bham",
@@ -8981,7 +8382,7 @@
     "Leeds": "https://www.gradcracker.com/hub/180/barclays/graduate-job/83327/uk-corporate-banking-graduate-programme-2027",
     "London": "https://search.jobs.barclays/job/london/uk-corporate-banking-graduate-programme-2027-london/13015/100032500656"
    },
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "bny-client-service-man",
@@ -9016,7 +8417,7 @@
    "qual": "None",
    "notes": "Must graduate Dec 2026 or summer 2027 and not need visa sponsorship now or later.",
    "links": {},
-   "checked": "2026-10-19"
+   "checked": "2026-10-24"
   },
   {
    "id": "bny-coo-man",
@@ -9047,7 +8448,7 @@
    "qual": "None",
    "notes": "Must graduate Dec 2026 or summer 2027 and not need visa sponsorship now or later.",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "bny-cfo-man",
@@ -9082,7 +8483,7 @@
    "qual": "None",
    "notes": "Must graduate Dec 2026 or summer 2027 and not need visa sponsorship now or later.",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "bny-audit-man",
@@ -9117,7 +8518,7 @@
    "qual": "None",
    "notes": "Must graduate Dec 2026 or summer 2027 and not need visa sponsorship now or later.",
    "links": {},
-   "checked": "2026-10-21"
+   "checked": "2026-10-24"
   },
   {
    "id": "bny-risk-man",
@@ -9152,20 +8553,19 @@
    "qual": "None",
    "notes": "Must graduate Dec 2026 or summer 2027 and not need visa sponsorship now or later.",
    "links": {},
-   "checked": "2026-10-21"
+   "checked": "2026-10-24"
   },
   {
    "id": "bw-investment-analyst",
    "emp": "Barnett Waddingham",
    "title": "2027 Graduate – Investment Analyst",
-   "url": "https://jobs.workable.com/view/676dd7cc-84a1-433f-a02e-c78614aaefd5",
+   "url": "https://jobs.workable.com/view/0c113983-6889-4329-9c5e-6a14cf7995fb",
    "src": "Barnett Waddingham careers (Workable)",
    "disciplines": [
     "any"
    ],
    "area": "Asset & wealth management",
    "cities": [
-    "Birmingham",
     "Leeds",
     "Liverpool",
     "London",
@@ -9193,7 +8593,6 @@
    "qual": "None",
    "notes": "Barnett Waddingham is part of Howden. You can apply to only one of its 2027 trainee programmes. Needs unrestricted UK right to work.",
    "links": {
-    "Birmingham": "https://jobs.workable.com/view/676dd7cc-84a1-433f-a02e-c78614aaefd5",
     "Leeds": "https://jobs.workable.com/view/0c113983-6889-4329-9c5e-6a14cf7995fb",
     "Liverpool": "https://jobs.workable.com/view/221bf08c-da06-4ae5-9136-7886816155cf",
     "London": "https://jobs.workable.com/view/74eb2afc-b115-4dcc-980d-31c12aa0a4a9",
@@ -9202,7 +8601,7 @@
     "Amersham": "https://jobs.workable.com/view/cb5142ec-4576-4b81-8b77-27cb65d96f26",
     "Glasgow": "https://jobs.workable.com/view/e37ae36b-04d8-4050-8f6c-a77f650382b9"
    },
-   "checked": "2026-10-21"
+   "checked": "2026-10-24"
   },
   {
    "id": "hymans-actuarial",
@@ -9273,43 +8672,6 @@
    "notes": "Deloitte allows one early-careers application a year. No Skilled Worker sponsorship.",
    "links": {},
    "checked": "2026-10-21"
-  },
-  {
-   "id": "deloitte-tax-bham",
-   "emp": "Deloitte",
-   "title": "Tax Consulting Graduate Scheme 2027 – Birmingham, Leeds & Manchester",
-   "url": "https://www.gradcracker.com/hub/301/deloitte/graduate-job/85192/graduate-tax-consulting",
-   "src": "Gradcracker",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Tax",
-   "cities": [
-    "Birmingham",
-    "Leeds",
-    "Manchester"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-10-23",
-   "dlNote": "",
-   "status": "open",
-   "salary": "Competitive",
-   "degreeMin": "2:1",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "Minimum 2:1 (Gradcracker listing: any STEM degree discipline); graduated by Sep 2027; no Skilled Worker sponsorship",
-   "qual": "ATT, ACA or CTA pathways",
-   "notes": "Deloitte allows one early-careers application a year. No Skilled Worker sponsorship.",
-   "links": {
-    "Birmingham": "https://www.gradcracker.com/hub/301/deloitte/graduate-job/85192/graduate-tax-consulting",
-    "Leeds": "https://www.gradcracker.com/hub/301/deloitte/graduate-job/85217/graduate-tax-consulting",
-    "Manchester": "https://www.gradcracker.com/hub/301/deloitte/graduate-job/85244/graduate-tax-consulting"
-   },
-   "checked": "2026-10-23"
   },
   {
    "id": "deloitte-exec-reward-bham",
@@ -9552,7 +8914,7 @@
    "qual": "None",
    "notes": "",
    "links": {},
-   "checked": "2026-10-22"
+   "checked": "2026-10-24"
   },
   {
    "id": "accenture-tech-analyst-bham",
@@ -9589,7 +8951,7 @@
     "Leeds": "https://www.gradcracker.com/hub/269/accenture/graduate-job/85125/leeds-technology-analyst-graduate-programme-2027-2028",
     "Manchester": "https://www.gradcracker.com/hub/269/accenture/graduate-job/85126/manchester-technology-analyst-graduate-programme-2027-2028"
    },
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "accenture-se-bham",
@@ -9627,7 +8989,7 @@
     "Birmingham": "https://www.gradcracker.com/hub/269/accenture/graduate-job/85132/birmingham-software-engineering-graduate-programme-2027-2028",
     "Leeds": "https://www.gradcracker.com/hub/269/accenture/graduate-job/85138/leeds-software-engineering-graduate-programme-2027-2028"
    },
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "accenture-consulting-man",
@@ -9759,7 +9121,7 @@
    "qual": "None",
    "notes": "Three-year fast track from prison officer to senior leader; prisons across England and Wales (you pick a region). Up to 35 places.",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "nhs-gmts-finance",
@@ -9790,7 +9152,7 @@
    "qual": "CIPFA accountancy qualification",
    "notes": "Closes 28 Oct 2026 at 11:30am. You give region preferences but placement isn't guaranteed.",
    "links": {},
-   "checked": "2026-10-21"
+   "checked": "2026-10-24"
   },
   {
    "id": "nhs-gmts-hr",
@@ -9821,7 +9183,7 @@
    "qual": "Postgraduate Diploma in HR Management (CIPD)",
    "notes": "Closes 28 Oct 2026 at 11:30am. You give region preferences but placement isn't guaranteed.",
    "links": {},
-   "checked": "2026-10-21"
+   "checked": "2026-10-24"
   },
   {
    "id": "nhs-gmts-informatics",
@@ -9852,7 +9214,7 @@
    "qual": "Postgraduate Diploma in Data Analytics",
    "notes": "Closes 28 Oct 2026 at 11:30am. You give region preferences but placement isn't guaranteed.",
    "links": {},
-   "checked": "2026-10-21"
+   "checked": "2026-10-24"
   },
   {
    "id": "mott-value-chain",
@@ -10033,7 +9395,7 @@
    "qual": "Guaranteed SQE1 & SQE2 course place at BPP",
    "notes": "Earlier start possible if you already have the LPC. Law firms hire about two years ahead: apply now for a training contract that starts in 2028. You also need to pass the SQE first.",
    "links": {},
-   "checked": "2026-10-21"
+   "checked": "2026-10-24"
   },
   {
    "id": "dwf-tc-2028",
@@ -10068,7 +9430,7 @@
    "qual": "None",
    "notes": "Apply through DWF's Apply4Law portal. A few earlier start dates may be available. Law firms hire about two years ahead: apply now for a training contract that starts in 2028. You also need to pass the SQE first.",
    "links": {},
-   "checked": "2026-10-21"
+   "checked": "2026-10-24"
   },
   {
    "id": "gowling-direct-tc-2029",
@@ -10262,7 +9624,7 @@
    "qual": "None",
    "notes": "Law firms hire about two years ahead: apply now for a training contract that starts in 2028. You also need to pass the SQE first.",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "teach-lead-change-2027",
@@ -10293,7 +9655,7 @@
    "qual": "QTS and PGCE",
    "notes": "Five weeks' summer training from June 2027, then two years teaching in the same school in a low-income area of England.",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "dfe-teacher-training-2027",
@@ -10366,7 +9728,7 @@
    "qual": "QTS + PGCE",
    "notes": "",
    "links": {},
-   "checked": "2026-10-21"
+   "checked": "2026-10-24"
   },
   {
    "id": "enterprise-gmt",
@@ -10434,7 +9796,7 @@
    "qual": "None",
    "notes": "18-month management development programme on a fixed-term contract.",
    "links": {},
-   "checked": "2026-10-19"
+   "checked": "2026-10-24"
   },
   {
    "id": "atkinsrealis-qs-2027",
@@ -10557,7 +9919,7 @@
    "qual": "None",
    "notes": "Roles needing higher security vetting usually need 5–10 years' continuous UK residency.",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "deloitte-audit-leeds",
@@ -10619,7 +9981,7 @@
    "qual": "None",
    "notes": "Canary Wharf, in person. No visa sponsorship; you need the right to work full-time from Aug 2027 to Aug 2029.",
    "links": {},
-   "checked": "2026-10-20"
+   "checked": "2026-10-24"
   },
   {
    "id": "fs-hr",
@@ -10847,7 +10209,7 @@
     "Manchester": "https://www.gradcracker.com/hub/1489/bny/graduate-job/83558/2027-bny-analyst-program-client-coverage",
     "London": "https://targetjobs.co.uk/jobs/2027-bny-analyst-program-client-coverage-london-249603"
    },
-   "checked": "2026-10-21"
+   "checked": "2026-10-24"
   },
   {
    "id": "bny-data-science-man",
@@ -10878,7 +10240,7 @@
    "qual": "None",
    "notes": "24-month rotational programme. Must graduate Dec 2026 or summer 2027 and not need visa sponsorship now or later.",
    "links": {},
-   "checked": "2026-10-21"
+   "checked": "2026-10-24"
   },
   {
    "id": "tesco-category-manager",
@@ -10910,7 +10272,7 @@
    "qual": "None",
    "notes": "Rotations across supply chain, trade planning and buying. Based at Eccles (Greater Manchester) or Wellingborough. Video interview step.",
    "links": {},
-   "checked": "2026-10-17"
+   "checked": "2026-10-24"
   },
   {
    "id": "tesco-change-manager",
@@ -10941,7 +10303,7 @@
    "qual": "None",
    "notes": "Based at Oldham (Greater Manchester). Rotational.",
    "links": {},
-   "checked": "2026-10-17"
+   "checked": "2026-10-24"
   },
   {
    "id": "atkinsrealis-data-intelligence",
@@ -11015,7 +10377,7 @@
    "qual": "None",
    "notes": "Many roles need higher security vetting. UK travel needed.",
    "links": {},
-   "checked": "2026-10-21"
+   "checked": "2026-10-24"
   },
   {
    "id": "capgemini-eng-public-sector",
@@ -11268,7 +10630,7 @@
    "qual": "IFoA actuarial exams",
    "notes": "Two-year programme; 1–2 office days a week.",
    "links": {},
-   "checked": "2026-10-21"
+   "checked": "2026-10-24"
   },
   {
    "id": "mott-transport-planner",
@@ -11609,7 +10971,7 @@
    "alevelSubject": null,
    "licence": false,
    "links": {},
-   "checked": "2026-10-16",
+   "checked": "2026-10-24",
    "id": "n12-reply-graduate-business-analyst",
    "emp": "Reply",
    "title": "Graduate Business Analyst",
@@ -11641,7 +11003,7 @@
    "alevelSubject": null,
    "licence": false,
    "links": {},
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "id": "n12-gt-transaction-advisory",
    "emp": "Grant Thornton",
    "title": "Transaction Advisory Services Graduate Programme (Autumn 2027)",
@@ -11675,7 +11037,7 @@
    "alevelSubject": null,
    "licence": false,
    "links": {},
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "id": "n12-gt-debt-capital-advisory",
    "emp": "Grant Thornton",
    "title": "Debt Capital Advisory Graduate Programme (Autumn 2027) – London",
@@ -11706,7 +11068,7 @@
    "alevelSubject": null,
    "licence": false,
    "links": {},
-   "checked": "2026-10-16",
+   "checked": "2026-10-24",
    "id": "n12-ey-financial-restructuring",
    "emp": "EY",
    "title": "Financial Restructuring Graduate Programme – September 2027 intake",
@@ -11763,7 +11125,7 @@
    "qual": "None",
    "notes": "3-year programme placed nationwide; must relocate within commuting distance of placement and hold a full UK licence or be able to travel independently to sites; unrestricted UK right to work needed",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "n12b-frontline-approach-social-work-2027",
@@ -11813,7 +11175,7 @@
    "qual": "Social work qualification (PGDip in year 1) then fully funded master's",
    "notes": "Children's social work with partner councils. Outside London you need a full UK driving licence and a car by Sep 2027. Must live in England from 1 Jul 2027 and have right to work/study incl. access to public funds to Sep 2030. One application per cohort.",
    "links": {},
-   "checked": "2026-10-12"
+   "checked": "2026-10-24"
   },
   {
    "id": "n12b-mott-human-factors-london",
@@ -11846,7 +11208,7 @@
    "qual": "None",
    "notes": "Based at Croydon office (south London), hybrid. No visa sponsorship, and Graduate visa holders not accepted. Some roles need security clearance (usually UK national or 5+ years' UK residence). One application only.",
    "links": {},
-   "checked": "2026-10-12"
+   "checked": "2026-10-24"
   },
   {
    "id": "n12b-mott-civil-local-streets",
@@ -11917,7 +11279,7 @@
    "qual": "Professional qualification (typically ACA, ICAS, CFAB, AAT, ACCA, CIMA or DTS)",
    "notes": "Permanent full-time role in Audit & Assurance with a Partner sponsor from day one. The bonus is paid half on joining and half on qualifying.",
    "links": {},
-   "checked": "2026-10-17"
+   "checked": "2026-10-24"
   },
   {
    "id": "n12b-mott-pm-social-infrastructure",
@@ -11953,7 +11315,7 @@
    "qual": "None",
    "notes": "Project management for health, education and social-care infrastructure. Some roles need security clearance. No visa sponsorship. One application only.",
    "links": {},
-   "checked": "2026-10-21"
+   "checked": "2026-10-24"
   },
   {
    "id": "reply-digital-change-consultant-manchester",
@@ -11985,7 +11347,7 @@
    "qual": "None",
    "notes": "Change & adoption consulting on Microsoft 365, Copilot and AI ways of working; some relevant work experience preferred; salary 'competitive + benefits'.",
    "links": {},
-   "checked": "2026-10-17"
+   "checked": "2026-10-24"
   },
   {
    "id": "mitchells-butlers-hr-graduate-birmingham",
@@ -12016,7 +11378,7 @@
    "qual": "None",
    "notes": "Only one place; 12-month fixed-term scheme with company car; must live within commuting distance of Birmingham Retail Support Centre and travel UK-wide.",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "greencore-hr-graduate-london",
@@ -12082,7 +11444,7 @@
    "qual": "None",
    "notes": "Requires UK Developed Vetting: sole UK national (no dual nationality) and UK resident for the last 10 years. Hybrid working.",
    "links": {},
-   "checked": "2026-10-23"
+   "checked": "2026-10-24"
   },
   {
    "id": "cgi-user-experience-graduate-leeds-london-manchester",
@@ -12119,7 +11481,7 @@
    "qual": "None",
    "notes": "UK nationality required for security clearance; £1,000 joining bonus; may need to work at different locations.",
    "links": {},
-   "checked": "2026-10-20"
+   "checked": "2026-10-24"
   },
   {
    "id": "turner-townsend-graduate-programme-digital-uk-wide",
@@ -12153,40 +11515,6 @@
    "notes": "Posting says 'Multiple UK Locations' (no cities named). 24-month programme with Data Analyst, Business Analyst, BIM and digital transformation roles; defence roles need SC clearance; some regional roles may need a driving licence.",
    "links": {},
    "checked": "2026-10-19"
-  },
-  {
-   "id": "bw-actuarial-retirement-leeds",
-   "emp": "Barnett Waddingham",
-   "title": "2027 Graduate - Trainee Actuarial Consultant - Retirement (Leeds)",
-   "url": "https://jobs.workable.com/jobs/5d12a3f3-db63-4ffc-ad8b-4297920a43bc.md",
-   "src": "Workable job board (Barnett Waddingham posting)",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Insurance & risk",
-   "cities": [
-    "Leeds"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-10-31",
-   "dlNote": "",
-   "status": "open",
-   "salary": "£32,000–£34,000",
-   "degreeMin": "2:1",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": {
-    "subject": "Maths",
-    "grade": "A"
-   },
-   "gcseMaths": null,
-   "gcseEnglish": 6,
-   "licence": false,
-   "reqText": "Min 2:1 (subject not stated); A at A-level Maths (or Higher Maths); GCSE English Language grade 6; UCAS and GCSE Maths not stated",
-   "qual": "IFoA actuarial exams (full study support)",
-   "notes": "Pensions/retirement actuarial consulting. Apply to only one BW trainee programme for the 2027 intake; full unrestricted UK right to work required. The Birmingham, Manchester and Liverpool versions closed 13 Oct 2026.",
-   "links": {},
-   "checked": "2026-10-23"
   },
   {
    "id": "nfu-mutual-sales-london",
@@ -12444,7 +11772,7 @@
    "qual": "RICS chartered surveyor (APC)",
    "notes": "Greenwich and Westminster offices; £1,500 sign-on bonus; unrestricted UK right to work required; assessment centre Dec 2026.",
    "links": {},
-   "checked": "2026-10-17"
+   "checked": "2026-10-24"
   },
   {
    "id": "forvis-mazars-audit-is-london",
@@ -12481,38 +11809,7 @@
     "Manchester": "https://targetjobs.co.uk/jobs/audit-industry-services-graduate-manchester-september-2027-252659",
     "Birmingham": "https://targetjobs.co.uk/jobs/audit-industry-services-graduate-birmingham-september-2027-252657"
    },
-   "checked": "2026-10-22"
-  },
-  {
-   "id": "montagu-evans-planning-development-london",
-   "emp": "Montagu Evans",
-   "title": "2027 Graduate Surveyor - Planning & Development",
-   "url": "https://targetjobs.co.uk/jobs/2027-graduate-surveyor-planning-development-242347",
-   "src": "TargetJobs (apply via Montagu Evans website)",
-   "disciplines": [
-    "built-environment"
-   ],
-   "area": "Property & construction",
-   "cities": [
-    "London"
-   ],
-   "start": "2027",
-   "dl": "2026-10-23",
-   "dlNote": "closes 5pm",
-   "status": "open",
-   "salary": "Not stated",
-   "degreeMin": null,
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "Strong academics with an RICS-accredited degree (essential) or dual-accredited RTPI and RICS degree; degree class, UCAS, A-levels and GCSEs not stated",
-   "qual": "RICS chartered surveyor (APC)",
-   "notes": "Two-year graduate programme.",
-   "links": {},
-   "checked": "2026-10-21"
+   "checked": "2026-10-24"
   },
   {
    "id": "schroders-wealth-trainee-leeds",
@@ -12549,7 +11846,7 @@
     "Manchester": "https://www.brightnetwork.co.uk/graduate-jobs/schroders/wealth-trainee-2027-1",
     "Birmingham": "https://www.brightnetwork.co.uk/graduate-jobs/schroders/wealth-trainee-2027-3"
    },
-   "checked": "2026-10-17"
+   "checked": "2026-10-24"
   },
   {
    "id": "addleshaw-goddard-innovation-graduate-scheme-leeds-manchester",
@@ -12614,7 +11911,7 @@
    "qual": "None",
    "notes": "You can apply to at most 4 business/location combinations per recruiting year; extra applications are withdrawn automatically. Start month not stated on posting.",
    "links": {},
-   "checked": "2026-10-19"
+   "checked": "2026-10-24"
   },
   {
    "id": "wsp-planning-consultancy-infrastructure-planning",
@@ -12684,7 +11981,7 @@
    "reqText": "Expecting a minimum 2:1 (2:2 if combined with a Master's); Gradcracker lists Business, Economics, Marketing/Communications, Project Management; right to work in UK",
    "qual": "CIPD",
    "notes": "2-year programme, three rotations across the People team (business partnering, talent, reward, ER, OD, people analytics); 'Multiple UK locations', hybrid; must be willing to travel/relocate between placements.",
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "links": {}
   },
   {
@@ -12715,7 +12012,7 @@
    "reqText": "Expecting a minimum 2:1 (2:2 if combined with a Masters); no subject stated; right to work in UK",
    "qual": "None",
    "notes": "2-year programme, three rotations across Marketing teams; flexible UK location, 2 office days/week; may need to travel/relocate between placements. Apply via Centrica Workday (R0090941).",
-   "checked": "2026-10-19",
+   "checked": "2026-10-24",
    "links": {}
   },
   {
@@ -12746,7 +12043,7 @@
    "reqText": "2:1 or higher undergraduate degree; A-levels ABB or above; GCSE Maths and English B (6) or above; intermediate Excel/Word/PowerPoint",
    "qual": "ACA",
    "notes": "Executive pay / reward advisory to boards' remuneration committees (approx. 10% of FTSE 100). No visa sponsorship.",
-   "checked": "2026-10-19",
+   "checked": "2026-10-24",
    "links": {}
   },
   {
@@ -12817,112 +12114,6 @@
    "notes": "January or September 2027 intakes – choose September; also Bristol, Edinburgh, Glasgow; must be open to relocation within the UK and work weekends/shifts.",
    "checked": "2026-10-19",
    "links": {}
-  },
-  {
-   "id": "n20-deloitte-internal-audit-change",
-   "emp": "Deloitte",
-   "title": "Graduate - Risk and Controls Consulting – Internal Audit & Change",
-   "url": "https://www.gradcracker.com/hub/301/deloitte/graduate-job/86237/graduate-risk-and-controls-consulting-internal-audit-and-change",
-   "src": "Gradcracker (Deloitte posting)",
-   "disciplines": [
-    "computing",
-    "engineering",
-    "maths-physics",
-    "sciences"
-   ],
-   "area": "Consulting",
-   "cities": [
-    "Manchester",
-    "Leeds"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-10-23",
-   "dlNote": "may close early if demand is high",
-   "status": "open",
-   "salary": "Competitive + benefits",
-   "degreeMin": "2:1",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "Minimum 2:1 (achieved or predicted) in any STEM degree; graduated by Sep 2027; UCAS/A-levels/GCSEs not stated",
-   "qual": "ACA, CIIA or Deloitte Digital Masters (agreed after joining)",
-   "notes": "Strict one application per year across Deloitte early careers; no Skilled Worker visa sponsorship.",
-   "links": {
-    "Manchester": "https://www.gradcracker.com/hub/301/deloitte/graduate-job/86237/graduate-risk-and-controls-consulting-internal-audit-and-change",
-    "Leeds": "https://www.gradcracker.com/hub/301/deloitte/graduate-job/86238/graduate-risk-and-controls-consulting-internal-audit-and-change"
-   },
-   "checked": "2026-10-20"
-  },
-  {
-   "id": "n20-deloitte-controls-advisory-bpc-manchester",
-   "emp": "Deloitte",
-   "title": "Graduate - Risk and Controls Consulting - Controls Advisory (Business Process Controls)",
-   "url": "https://www.gradcracker.com/hub/301/deloitte/graduate-job/86226/graduate-risk-and-controls-consulting-controls-advisory-business-process-controls",
-   "src": "Gradcracker (Deloitte posting)",
-   "disciplines": [
-    "computing",
-    "engineering",
-    "maths-physics",
-    "sciences"
-   ],
-   "area": "Consulting",
-   "cities": [
-    "Manchester"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-10-23",
-   "dlNote": "may close early if demand is high",
-   "status": "open",
-   "salary": "Competitive + benefits",
-   "degreeMin": "2:1",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "Minimum 2:1 (achieved or predicted) in any STEM degree; graduated by Sep 2027; UCAS/A-levels/GCSEs not stated",
-   "qual": "ACA (required)",
-   "notes": "Strict one application per year across Deloitte early careers; no Skilled Worker visa sponsorship.",
-   "links": {},
-   "checked": "2026-10-23"
-  },
-  {
-   "id": "n20-deloitte-controls-advisory-digital-manchester",
-   "emp": "Deloitte",
-   "title": "Graduate - Risk and Controls Consulting – Controls Advisory (Digital Controls)",
-   "url": "https://www.gradcracker.com/hub/301/deloitte/graduate-job/86232/graduate-risk-and-controls-consulting-controls-advisory-digital-controls",
-   "src": "Gradcracker (Deloitte posting)",
-   "disciplines": [
-    "computing",
-    "engineering",
-    "maths-physics",
-    "sciences"
-   ],
-   "area": "Consulting",
-   "cities": [
-    "Manchester"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-10-23",
-   "dlNote": "may close early if demand is high",
-   "status": "open",
-   "salary": "Competitive + benefits",
-   "degreeMin": "2:1",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "Minimum 2:1 (achieved or predicted) in any STEM degree; graduated by Sep 2027; UCAS/A-levels/GCSEs not stated",
-   "qual": "MSc Digital & Business Risk Management or ACA",
-   "notes": "Strict one application per year across Deloitte early careers; no Skilled Worker visa sponsorship.",
-   "links": {},
-   "checked": "2026-10-23"
   },
   {
    "id": "n20-arup-graduate-ground-engineering",
@@ -13146,7 +12337,7 @@
    "qual": "None",
    "notes": "22-month programme with two product-team rotations; portfolio examples welcome but not required.",
    "links": {},
-   "checked": "2026-10-21"
+   "checked": "2026-10-24"
   },
   {
    "id": "wsp-intelligent-infrastructure-2027",
@@ -13189,41 +12380,6 @@
    "notes": "Tracks: data & architecture, cyber security, systems engineering, project management, connected vehicles, policy/human-centred design – locations vary by track. Choose the September 2027 intake.",
    "links": {},
    "checked": "2026-10-21"
-  },
-  {
-   "id": "a22-deloitte-finance-transformation-ba-bham",
-   "emp": "Deloitte",
-   "title": "Graduate - Finance Transformation Consulting - Business Analyst",
-   "url": "https://www.gradcracker.com/hub/301/deloitte/graduate-job/86211/graduate-finance-transformation-consulting-business-analyst",
-   "src": "Gradcracker (Birmingham posting); TargetJobs; London posting gradcracker job 86201",
-   "disciplines": [
-    "computing",
-    "engineering",
-    "maths-physics",
-    "sciences"
-   ],
-   "area": "Consulting",
-   "cities": [
-    "Birmingham",
-    "London"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-10-23",
-   "dlNote": "Gradcracker shows 23 Oct 2026 (TargetJobs shows 31 Oct); may close early",
-   "status": "open",
-   "salary": "Not stated",
-   "degreeMin": "2:1",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "Minimum 2:1 in any STEM degree; graduated by Sep 2027; UCAS/A-level/GCSE not stated",
-   "qual": "CIMA or ACA",
-   "notes": "Hybrid. Cannot progress applicants needing Skilled Worker sponsorship (salary below threshold). London is a separate posting.",
-   "links": {},
-   "checked": "2026-10-22"
   },
   {
    "id": "a22-arup-business-investor-advisory-man",
@@ -13363,7 +12519,7 @@
    "qual": "ACA",
    "notes": "Audit of banking clients. In person. Leeds is a separate posting with the same requirements and deadline.",
    "links": {},
-   "checked": "2026-10-22"
+   "checked": "2026-10-24"
   },
   {
    "id": "a22-forvis-mazars-audit-mid-market",
@@ -13395,7 +12551,7 @@
    "qual": "ACA",
    "notes": "In person. Birmingham is a separate posting with the same deadline; London and Glasgow postings also exist.",
    "links": {},
-   "checked": "2026-10-22"
+   "checked": "2026-10-24"
   },
   {
    "id": "a22-bny-engineering-developer-man",
@@ -13459,7 +12615,7 @@
    "qual": "None",
    "notes": "24-month rotational programme in BNY's Delivery Practice. No visa sponsorship now or in future.",
    "links": {},
-   "checked": "2026-10-22"
+   "checked": "2026-10-24"
   },
   {
    "id": "arriva-people-graduate-2027",
@@ -13743,7 +12899,7 @@
    "qual": "ACA",
    "notes": "Hybrid; ACA fully funded by KPMG. A Leeds posting also exists but could not be read.",
    "links": {},
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "loc": "Manchester (hybrid)"
   },
   {
@@ -13778,8 +12934,70 @@
    "qual": "None",
    "notes": "12-month programme starting with a three-month bootcamp.",
    "links": {},
-   "checked": "2026-10-23",
+   "checked": "2026-10-24",
    "loc": "London"
+  },
+  {
+   "id": "gt-insolvency-asset-recovery-london",
+   "emp": "Grant Thornton",
+   "title": "Insolvency and Asset Recovery Graduate Programme (Autumn 2027) - London",
+   "url": "https://targetjobs.co.uk/jobs/insolvency-and-asset-recovery-graduate-programme-autumn-2027-london-247955",
+   "src": "TargetJobs",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Corporate finance",
+   "cities": [
+    "London"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-10-31",
+   "dlNote": "",
+   "status": "open",
+   "salary": "£40,000 + £5,000 milestone bonus",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "Not stated – 'flexible approach to academic entry requirements'",
+   "qual": "ACA, ICAS, CFAB, AAT, ACCA, CIMA or DTS (funded)",
+   "notes": "Advisory rotation across Asset Recovery and Turnaround & Restructuring. Grant Thornton may only let you apply to one programme – check first.",
+   "links": {},
+   "checked": "2026-10-24"
+  },
+  {
+   "id": "am-tax-people-services-london",
+   "emp": "Alvarez & Marsal",
+   "title": "Tax Graduate Programme - People Services Team 2027",
+   "url": "https://www.brightnetwork.co.uk/graduate-jobs/alvarez-marsal/tax-graduate-programme-people-services-team",
+   "src": "Bright Network",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Tax",
+   "cities": [
+    "London"
+   ],
+   "start": "2027",
+   "dl": "2026-10-31",
+   "dlNote": "",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": "2:1",
+   "ucasMin": null,
+   "alevels": "ABB",
+   "alevelSubject": null,
+   "gcseMaths": 6,
+   "gcseEnglish": 6,
+   "licence": false,
+   "reqText": "2:1, any subject; ABB at A-level; GCSE Maths & English grade 6 (B)",
+   "qual": "ACA and CTA support",
+   "notes": "Three-year programme rotating between Equity Reward and Employment Tax. No visa sponsorship – you need the right to work in the UK.",
+   "links": {},
+   "checked": "2026-10-24"
   }
  ]
 }
