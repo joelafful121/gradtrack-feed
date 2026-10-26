@@ -1,6 +1,6 @@
 {
  "app": "GradTrack 2027",
- "updated": "2026-10-25",
+ "updated": "2026-10-26",
  "roles": [
   {
    "id": "gt-cfa",
@@ -742,40 +742,6 @@
    "rank": 40
   },
   {
-   "id": "zopa",
-   "emp": "Zopa",
-   "title": "2027 Graduate Analyst",
-   "url": "https://jobs.lever.co/zopa/962f3756-6e45-480f-984c-64e024b57c4f",
-   "src": "Zopa (Lever)",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Data & analytics",
-   "cities": [
-    "London"
-   ],
-   "start": "Sep 2027 (choose Sept, not Feb)",
-   "dl": "2026-10-25",
-   "dlNote": "",
-   "status": "open",
-   "salary": "£45,000 + £5,000 signing + up to 10% bonus",
-   "degreeMin": null,
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "'Numerically confident at A-level complexity'",
-   "qual": "None",
-   "notes": "Closes 25 Oct at 9am, not midnight – treat 24 Oct as the last day. Analytics and credit-risk work with a numerical test.",
-   "links": {},
-   "checked": "2026-10-25",
-   "loc": "Canary Wharf, hybrid",
-   "why": "Great pay at a fintech bank; maths-heavy.",
-   "rank": 41
-  },
-  {
    "id": "ms-food",
    "emp": "M&S",
    "title": "Food Commercial Graduate Programme 2027 – London",
@@ -1293,108 +1259,6 @@
    "rank": 9.5
   },
   {
-   "id": "mufg-risk",
-   "emp": "MUFG",
-   "title": "2027 UK Analyst Programme – Risk",
-   "url": "https://targetjobs.co.uk/jobs/2027-mufg-uk-analyst-programme-risk-248001",
-   "src": "TargetJobs",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Banking & markets",
-   "cities": [
-    "London"
-   ],
-   "start": "19 Jul 2027 (18-month rotation)",
-   "dl": "2026-10-25",
-   "dlNote": "reviewed as received – may close early",
-   "status": "open",
-   "salary": "Not stated",
-   "degreeMin": null,
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "Any degree, final-year or recent graduate",
-   "qual": "None",
-   "notes": "MUFG runs four London analyst streams – check how many you may apply to before choosing.",
-   "links": {},
-   "checked": "2026-10-25",
-   "loc": "London (in person)",
-   "why": "Big Japanese bank with a risk route that suits finance graduates and no school-grade bar.",
-   "rank": 17.5
-  },
-  {
-   "id": "mufg-tb",
-   "emp": "MUFG",
-   "title": "2027 UK Analyst Programme – Transaction Banking",
-   "url": "https://targetjobs.co.uk/jobs/2027-mufg-uk-analyst-programme-transaction-banking-248021",
-   "src": "TargetJobs",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Banking & markets",
-   "cities": [
-    "London"
-   ],
-   "start": "19 Jul 2027",
-   "dl": "2026-10-25",
-   "dlNote": "may close early",
-   "status": "open",
-   "salary": "Not stated",
-   "degreeMin": null,
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "Any degree",
-   "qual": "None",
-   "notes": "Check how many MUFG streams you may apply to.",
-   "links": {},
-   "checked": "2026-10-25",
-   "loc": "London (in person)",
-   "why": "Cash management and trade finance – corporate-facing banking.",
-   "rank": 17.6
-  },
-  {
-   "id": "mufg-cm",
-   "emp": "MUFG",
-   "title": "2027 UK Analyst Programme – Capital Markets",
-   "url": "https://targetjobs.co.uk/jobs/2027-mufg-uk-analyst-programme-capital-markets-248017",
-   "src": "TargetJobs",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Banking & markets",
-   "cities": [
-    "London"
-   ],
-   "start": "19 Jul 2027",
-   "dl": "2026-10-25",
-   "dlNote": "may close early",
-   "status": "open",
-   "salary": "Not stated",
-   "degreeMin": null,
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "Any degree",
-   "qual": "None",
-   "notes": "Check how many MUFG streams you may apply to.",
-   "links": {},
-   "checked": "2026-10-25",
-   "loc": "London (in person)",
-   "why": "Debt capital markets at a global bank, open to non-interns.",
-   "rank": 17.7
-  },
-  {
    "id": "sjp-wm",
    "emp": "St. James's Place",
    "title": "Wealth Management Graduate Programme 2027",
@@ -1464,40 +1328,6 @@
    "loc": "London",
    "why": "Pensions insurer with a quantitative risk route and a long window.",
    "rank": 24.5
-  },
-  {
-   "id": "mufg-gcib",
-   "emp": "MUFG",
-   "title": "2027 UK Analyst Programme – Global Corporate Investment Banking",
-   "url": "https://targetjobs.co.uk/jobs/2027-mufg-uk-analyst-programme-global-corporate-investment-banking-248009",
-   "src": "TargetJobs",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Banking & markets",
-   "cities": [
-    "London"
-   ],
-   "start": "19 Jul 2027",
-   "dl": "2026-10-25",
-   "dlNote": "may close early",
-   "status": "open",
-   "salary": "Not stated",
-   "degreeMin": null,
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "Any degree",
-   "qual": "None",
-   "notes": "Check how many MUFG streams you may apply to.",
-   "links": {},
-   "checked": "2026-10-25",
-   "loc": "London (in person)",
-   "why": "Corporate banking and IB coverage; competitive.",
-   "rank": 27.5
   },
   {
    "id": "hmrc-tsp",
@@ -3372,110 +3202,6 @@
    "checked": "2026-10-25"
   },
   {
-   "id": "costain-planner",
-   "emp": "Costain",
-   "title": "Graduate Planner 2027",
-   "url": "https://www.brightnetwork.co.uk/graduate-jobs/costain/graduate-planner-2027",
-   "src": "Bright Network",
-   "disciplines": [
-    "built-environment",
-    "engineering",
-    "business"
-   ],
-   "area": "Property & construction",
-   "cities": [
-    "Peterborough"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-10-25",
-   "dlNote": "",
-   "status": "open",
-   "salary": "Not stated",
-   "degreeMin": null,
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": true,
-   "reqText": "Civils, construction, quantity surveying, programme controls or project management (or related); GCSE Maths; driving licence",
-   "qual": "None",
-   "notes": "Some roles need security clearance (5 years' UK residence).",
-   "links": {},
-   "checked": "2026-10-25"
-  },
-  {
-   "id": "wsp-structures",
-   "emp": "WSP",
-   "title": "2027 Graduate Programme – Property & Buildings Structures",
-   "url": "https://www.brightnetwork.co.uk/graduate-jobs/wsp/graduate-programme-property-buildings-structures-london-2027-ani9",
-   "src": "Bright Network",
-   "disciplines": [
-    "engineering"
-   ],
-   "area": "Engineering",
-   "cities": [
-    "Basingstoke",
-    "Belfast",
-    "Leeds",
-    "London",
-    "Stockton-on-Tees"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-10-25",
-   "dlNote": "Reviewed on a rolling basis – apply early",
-   "status": "open",
-   "salary": "Not stated",
-   "degreeMin": "2:2",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:2 in civil or structural engineering",
-   "qual": "None",
-   "notes": "",
-   "links": {},
-   "checked": "2026-10-25"
-  },
-  {
-   "id": "wsp-building-services",
-   "emp": "WSP",
-   "title": "2027 Graduate Programme – Property & Buildings Building Services",
-   "url": "https://www.brightnetwork.co.uk/graduate-jobs/wsp/graduate-programme-property-buildings-building-services-london-2027-ania",
-   "src": "Bright Network",
-   "disciplines": [
-    "engineering"
-   ],
-   "area": "Engineering",
-   "cities": [
-    "Basingstoke",
-    "Bristol",
-    "Cardiff",
-    "Guildford",
-    "Leeds",
-    "London"
-   ],
-   "start": "Apr or Sep 2027",
-   "dl": "2026-10-25",
-   "dlNote": "Reviewed on a rolling basis – apply early",
-   "status": "open",
-   "salary": "Not stated",
-   "degreeMin": "2:2",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:2 in a relevant engineering degree",
-   "qual": "None",
-   "notes": "",
-   "links": {},
-   "checked": "2026-10-25"
-  },
-  {
    "id": "akt-ii-civil",
    "emp": "AKT II",
    "title": "Graduate Civil Engineer 2027",
@@ -3587,18 +3313,18 @@
    "dlNote": "",
    "status": "open",
    "salary": "Not stated",
-   "degreeMin": null,
+   "degreeMin": "2:2",
    "ucasMin": null,
    "alevels": null,
    "alevelSubject": null,
    "gcseMaths": null,
    "gcseEnglish": null,
    "licence": false,
-   "reqText": "Civil engineering degree (check the posting for details)",
+   "reqText": "2:2 or above (BEng, MEng or MSc) in civil or structural engineering; full UK driving licence or able to travel between sites",
    "qual": "None",
    "notes": "",
    "links": {},
-   "checked": "2026-10-25"
+   "checked": "2026-10-26"
   },
   {
    "id": "pg-eng-manufacturing",
@@ -3753,7 +3479,7 @@
    "dl": "2026-11-02",
    "dlNote": "May close early",
    "status": "open",
-   "salary": "£31,900",
+   "salary": "£31,900 + £3,000 joining bonus",
    "degreeMin": "2:2",
    "ucasMin": null,
    "alevels": null,
@@ -3765,7 +3491,7 @@
    "qual": "None",
    "notes": "Security clearance needs British citizenship.",
    "links": {},
-   "checked": "2026-10-25"
+   "checked": "2026-10-26"
   },
   {
    "id": "arcadis-ground-investigation",
@@ -4222,7 +3948,7 @@
    "cities": [
     "Whiteley"
    ],
-   "start": "Not stated",
+   "start": "Sep 2027",
    "dl": "2026-12-06",
    "dlNote": "",
    "status": "open",
@@ -4238,7 +3964,7 @@
    "qual": "None",
    "notes": "Must be eligible for UK security clearance.",
    "links": {},
-   "checked": "2026-10-11"
+   "checked": "2026-10-26"
   },
   {
    "id": "arcadis-qs",
@@ -4517,7 +4243,6 @@
    ],
    "area": "Technology",
    "cities": [
-    "London",
     "Halifax",
     "Leeds",
     "Bristol",
@@ -4540,7 +4265,7 @@
    "qual": "None",
    "notes": "No visa sponsorship – you need the right to work in the UK.",
    "links": {},
-   "checked": "2026-10-11"
+   "checked": "2026-10-26"
   },
   {
    "id": "lloyds-cyber",
@@ -4672,37 +4397,6 @@
    "checked": "2026-10-25"
   },
   {
-   "id": "isio-business-data",
-   "emp": "Isio",
-   "title": "Graduate Business Data Analyst 2027",
-   "url": "https://www.brightnetwork.co.uk/graduate-jobs/isio/graduate-business-data-analyst-2027",
-   "src": "Bright Network",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Data & analytics",
-   "cities": [
-    "Birmingham"
-   ],
-   "start": "2027",
-   "dl": "2026-11-16",
-   "dlNote": "",
-   "status": "open",
-   "salary": "Not stated",
-   "degreeMin": null,
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "Any degree subject",
-   "qual": "Level 6 Data Scientist apprenticeship (if eligible)",
-   "notes": "",
-   "links": {},
-   "checked": "2026-10-11"
-  },
-  {
    "id": "occ-analytics",
    "emp": "OC&C Strategy Consultants",
    "title": "Associate Consultant 2027/28 – Analytics (London)",
@@ -4744,9 +4438,7 @@
    ],
    "area": "HR & people",
    "cities": [
-    "Bristol",
-    "Leeds",
-    "Edinburgh"
+    "Leeds"
    ],
    "start": "Not stated",
    "dl": "2026-11-08",
@@ -4764,7 +4456,7 @@
    "qual": "None",
    "notes": "No visa sponsorship – you need the right to work in the UK.",
    "links": {},
-   "checked": "2026-10-11"
+   "checked": "2026-10-26"
   },
   {
    "id": "alpha-fmc-data-ai",
@@ -5054,37 +4746,6 @@
    "notes": "",
    "links": {},
    "checked": "2026-10-11"
-  },
-  {
-   "id": "exxonmobil-trading",
-   "emp": "ExxonMobil",
-   "title": "Global Trading Commercial Graduate 2027",
-   "url": "https://www.brightnetwork.co.uk/graduate-jobs/exxonmobil/global-trading-commercial-graduate-london-2027-alka",
-   "src": "Bright Network",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Banking & markets",
-   "cities": [
-    "London"
-   ],
-   "start": "Not stated",
-   "dl": "2026-10-25",
-   "dlNote": "",
-   "status": "open",
-   "salary": "Competitive (not stated)",
-   "degreeMin": "2:1",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:1, any degree subject",
-   "qual": "None",
-   "notes": "Resettlement allowance if eligible.",
-   "links": {},
-   "checked": "2026-10-25"
   },
   {
    "id": "arriva-rail-commercial",
@@ -7388,44 +7049,6 @@
    "checked": "2026-10-11"
   },
   {
-   "id": "lloyds-risk",
-   "emp": "Lloyds Banking Group",
-   "title": "Risk Graduate Scheme 2027",
-   "url": "https://www.gradcracker.com/hub/275/lloyds-banking-group/graduate-job/82940/risk-graduate-scheme",
-   "src": "Gradcracker / Lloyds careers",
-   "disciplines": [
-    "computing",
-    "engineering",
-    "maths-physics",
-    "sciences"
-   ],
-   "area": "Insurance & risk",
-   "cities": [
-    "Bristol",
-    "Birmingham",
-    "Edinburgh",
-    "Leeds",
-    "London"
-   ],
-   "start": "Not stated",
-   "dl": "2026-10-25",
-   "dlNote": "May close early",
-   "status": "open",
-   "salary": "£42,000",
-   "degreeMin": null,
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "Bachelor's degree in a STEM discipline; no minimum grade; no visa sponsorship",
-   "qual": "None",
-   "notes": "Hybrid – at least 2 office days a week. No visa sponsorship.",
-   "links": {},
-   "checked": "2026-10-25"
-  },
-  {
    "id": "morrisons-retail",
    "emp": "Morrisons",
    "title": "Retail Graduate Scheme 2027",
@@ -8118,7 +7741,7 @@
     "Liverpool"
    ],
    "start": "1 Sep 2027",
-   "dl": "2026-10-30",
+   "dl": null,
    "dlNote": "Ongoing – apply early",
    "status": "open",
    "salary": "Competitive",
@@ -8133,7 +7756,7 @@
    "qual": "None",
    "notes": "One application per person. No Skilled Worker sponsorship.",
    "links": {},
-   "checked": "2026-10-25"
+   "checked": "2026-10-26"
   },
   {
    "id": "aecom-transport-planner",
@@ -8538,7 +8161,7 @@
     "Manchester"
    ],
    "start": "2027",
-   "dl": null,
+   "dl": "2026-11-04",
    "dlNote": "Ongoing – apply early",
    "status": "open",
    "salary": "Competitive",
@@ -8553,7 +8176,7 @@
    "qual": "None",
    "notes": "Must graduate Dec 2026 or summer 2027 and not need visa sponsorship now or later.",
    "links": {},
-   "checked": "2026-10-25"
+   "checked": "2026-10-26"
   },
   {
    "id": "bw-investment-analyst",
@@ -8751,8 +8374,7 @@
    ],
    "area": "Tax",
    "cities": [
-    "Birmingham",
-    "Manchester"
+    "Birmingham"
    ],
    "start": "Sep 2027",
    "dl": null,
@@ -8770,10 +8392,9 @@
    "qual": "None",
    "notes": "Deloitte allows one early-careers application a year. No Skilled Worker sponsorship.",
    "links": {
-    "Birmingham": "https://www.gradcracker.com/hub/301/deloitte/graduate-job/85198/graduate-tax-transformation-and-technology",
-    "Manchester": "https://www.gradcracker.com/hub/301/deloitte/graduate-job/85249/graduate-tax-transformation-and-technology"
+    "Birmingham": "https://www.gradcracker.com/hub/301/deloitte/graduate-job/85198/graduate-tax-transformation-and-technology"
    },
-   "checked": "2026-10-25"
+   "checked": "2026-10-26"
   },
   {
    "id": "bdo-audit-midlands-north",
@@ -9831,8 +9452,8 @@
     "Leeds"
    ],
    "start": "Sep 2027",
-   "dl": null,
-   "dlNote": "Ongoing – apply early",
+   "dl": "2026-10-31",
+   "dlNote": "Closes 31 Oct 2026 (TargetJobs)",
    "status": "open",
    "salary": "Competitive",
    "degreeMin": "2:1",
@@ -9846,7 +9467,7 @@
    "qual": "ACA (tuition funded)",
    "notes": "Deloitte allows one early-careers application a year. No Skilled Worker sponsorship.",
    "links": {},
-   "checked": "2026-10-25"
+   "checked": "2026-10-26"
   },
   {
    "id": "fs-hr",
@@ -11252,7 +10873,7 @@
    "dl": null,
    "dlNote": "Rolling deadline",
    "status": "open",
-   "salary": "Not stated",
+   "salary": "Competitive + £1,000 joining bonus",
    "degreeMin": "2:2",
    "ucasMin": null,
    "alevels": null,
@@ -11264,7 +10885,7 @@
    "qual": "None",
    "notes": "UK nationality required for security clearance; £1,000 joining bonus; may need to work at different locations.",
    "links": {},
-   "checked": "2026-10-25"
+   "checked": "2026-10-26"
   },
   {
    "id": "turner-townsend-graduate-programme-digital-uk-wide",
