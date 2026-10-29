@@ -1,6 +1,6 @@
 {
  "app": "GradTrack 2027",
- "updated": "2026-10-28",
+ "updated": "2026-10-29",
  "roles": [
   {
    "id": "gt-cfa",
@@ -55,13 +55,14 @@
    ],
    "area": "Audit & accounting",
    "cities": [
-    "London"
+    "London",
+    "Birmingham"
    ],
    "start": "1 Sep 2027",
    "dl": "2026-10-31",
-   "dlNote": "",
+   "dlNote": "London posting closes 31 Oct 2026; Birmingham posting has no closing date stated",
    "status": "open",
-   "salary": "£40,000 + £5,000 bonus",
+   "salary": "£40,000 + £5,000 bonus (London); Birmingham: £34,250",
    "degreeMin": null,
    "ucasMin": null,
    "alevels": null,
@@ -72,9 +73,12 @@
    "reqText": "Flexible – no grade bar stated; Flexible entry",
    "qual": "ACA / ICAS / ACCA / CIMA (funded)",
    "notes": "Grant Thornton may only let you apply to one programme – check first. Audit means time at client offices. Bonus is paid half on joining, half on qualifying.",
-   "links": {},
+   "links": {
+    "London": "https://ukgrantt.wd3.myworkdayjobs.com/TraineeCareersGrantThornton/job/London/Public-Sector-Audit-Graduate-Programme--Autumn-2027----London_TRN27_155",
+    "Birmingham": "https://www.grantthornton.co.uk/careers/early-careers-job-search/public-sector-audit-graduate-programme-autumn-2027---birmingham_trn27_1072/"
+   },
    "checked": "2026-10-27",
-   "loc": "London (in person)",
+   "loc": "London or Birmingham (in person)",
    "why": "Top pay among the audit schemes and a less crowded intake than corporate audit.",
    "rank": 4
   },
@@ -1560,7 +1564,7 @@
   {
    "id": "gt-grants-audit-birmingham",
    "emp": "Grant Thornton",
-   "title": "Grants Audit Graduate Programme (Autumn 2027) – Birmingham",
+   "title": "Grants Audit Graduate Programme (Autumn 2027)",
    "url": "https://targetjobs.co.uk/jobs/grants-audit-graduate-programme-autumn-2027-birmingham-248205",
    "src": "TargetJobs",
    "disciplines": [
@@ -1568,11 +1572,12 @@
    ],
    "area": "Audit & accounting",
    "cities": [
-    "Birmingham"
+    "Birmingham",
+    "Liverpool"
    ],
    "start": "Sep 2027",
    "dl": "2026-10-31",
-   "dlNote": "",
+   "dlNote": "Birmingham posting closes 31 Oct 2026; Liverpool posting has no closing date stated",
    "status": "open",
    "salary": "£34,250 + £5,000 milestone bonus",
    "degreeMin": null,
@@ -1585,11 +1590,14 @@
    "reqText": "Flexible entry – no UCAS or A-level bar stated",
    "qual": "Professional accounting qualification (funded)",
    "notes": "Grant Thornton may only let you apply to one programme – check first.",
-   "links": {},
+   "links": {
+    "Birmingham": "https://targetjobs.co.uk/jobs/grants-audit-graduate-programme-autumn-2027-birmingham-248205",
+    "Liverpool": "https://www.grantthornton.co.uk/careers/early-careers-job-search/grants-audit-graduate-programme-autumn-2027---liverpool_trn27_241/"
+   },
    "checked": "2026-10-28",
    "rank": null,
    "why": "",
-   "loc": "Birmingham"
+   "loc": "Birmingham or Liverpool"
   },
   {
    "id": "barclays-rbcb",
@@ -1848,74 +1856,6 @@
    "notes": "Closes at midday on 5 Nov 2026. Apply to up to 3 schemes. You can't choose your department or city – postings can be anywhere in the UK. Nationality rules apply.",
    "links": {},
    "checked": "2026-10-28",
-   "rank": null,
-   "why": "",
-   "loc": "UK-wide"
-  },
-  {
-   "id": "nhs-gmts",
-   "emp": "NHS",
-   "title": "Graduate Management Training Scheme 2027 – General Management",
-   "url": "https://nhs-gmts.ambertrack.co.uk/",
-   "src": "NHS GMTS",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Public sector",
-   "cities": [
-    "UK-wide"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-10-28",
-   "dlNote": "",
-   "status": "open",
-   "salary": "£31,276 (+ high-cost-area supplement)",
-   "degreeMin": "2:2",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:2 in any subject",
-   "qual": "Postgraduate qualification in healthcare leadership",
-   "notes": "Closes 28 Oct 2026 at 11:30am. You give region preferences but placement isn't guaranteed.",
-   "links": {},
-   "checked": "2026-10-28",
-   "rank": null,
-   "why": "",
-   "loc": "UK-wide"
-  },
-  {
-   "id": "nhs-gmts-estates",
-   "emp": "NHS",
-   "title": "Graduate Management Training Scheme 2027 – Engineering & Estates Management",
-   "url": "https://nhs-gmts.ambertrack.co.uk/",
-   "src": "NHS GMTS",
-   "disciplines": [
-    "engineering"
-   ],
-   "area": "Engineering",
-   "cities": [
-    "UK-wide"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-10-28",
-   "dlNote": "",
-   "status": "open",
-   "salary": "£31,276 (+ high-cost-area supplement)",
-   "degreeMin": "2:2",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:2 in an accredited mechanical, electrical or building services engineering degree",
-   "qual": "None",
-   "notes": "Closes 28 Oct 2026 at 11:30am. MEng holders aren't eligible for the Estates Engineering Management route.",
-   "links": {},
-   "checked": "2026-10-27",
    "rank": null,
    "why": "",
    "loc": "UK-wide"
@@ -8320,99 +8260,6 @@
    "checked": "2026-10-28"
   },
   {
-   "id": "nhs-gmts-finance",
-   "emp": "NHS",
-   "title": "Graduate Management Training Scheme 2027 – Finance",
-   "url": "https://www.gradcracker.com/hub/982/nhs-graduate-management-training-scheme/graduate-job/83971/graduate-management-training-scheme-finance",
-   "src": "NHS GMTS / Gradcracker",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Corporate finance",
-   "cities": [
-    "UK-wide"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-10-28",
-   "dlNote": "",
-   "status": "open",
-   "salary": "£31,276 (+ high-cost-area supplement)",
-   "degreeMin": "2:2",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:2 in any subject",
-   "qual": "CIPFA accountancy qualification",
-   "notes": "Closes 28 Oct 2026 at 11:30am. You give region preferences but placement isn't guaranteed.",
-   "links": {},
-   "checked": "2026-10-25"
-  },
-  {
-   "id": "nhs-gmts-hr",
-   "emp": "NHS",
-   "title": "Graduate Management Training Scheme 2027 – Human Resources",
-   "url": "https://www.gradcracker.com/hub/982/nhs-graduate-management-training-scheme/graduate-job/83973/graduate-management-training-scheme-human-resources",
-   "src": "NHS GMTS / Gradcracker",
-   "disciplines": [
-    "any"
-   ],
-   "area": "HR & people",
-   "cities": [
-    "UK-wide"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-10-28",
-   "dlNote": "",
-   "status": "open",
-   "salary": "£31,276 (+ high-cost-area supplement)",
-   "degreeMin": "2:2",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:2 in any subject",
-   "qual": "Postgraduate Diploma in HR Management (CIPD)",
-   "notes": "Closes 28 Oct 2026 at 11:30am. You give region preferences but placement isn't guaranteed.",
-   "links": {},
-   "checked": "2026-10-25"
-  },
-  {
-   "id": "nhs-gmts-informatics",
-   "emp": "NHS",
-   "title": "Graduate Management Training Scheme 2027 – Health Informatics",
-   "url": "https://www.gradcracker.com/hub/982/nhs-graduate-management-training-scheme/graduate-job/83974/graduate-management-training-scheme-health-informatics",
-   "src": "NHS GMTS / Gradcracker",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Data & analytics",
-   "cities": [
-    "UK-wide"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-10-28",
-   "dlNote": "",
-   "status": "open",
-   "salary": "£31,276 (+ high-cost-area supplement)",
-   "degreeMin": "2:2",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:2 in any subject",
-   "qual": "Postgraduate Diploma in Data Analytics",
-   "notes": "Closes 28 Oct 2026 at 11:30am. You give region preferences but placement isn't guaranteed.",
-   "links": {},
-   "checked": "2026-10-28"
-  },
-  {
    "id": "addleshaw-tc-2029",
    "emp": "Addleshaw Goddard",
    "title": "Training Contract 2029 – Leeds, Manchester, London",
@@ -11823,38 +11670,6 @@
    "loc": "Leeds"
   },
   {
-   "id": "kpmg-accounting-advisory-assurance-manchester",
-   "emp": "KPMG",
-   "title": "KPMG 2027 Accounting Advisory and Assurance Graduate Programme - Manchester",
-   "url": "https://targetjobs.co.uk/jobs/kpmg-2027-accounting-advisory-and-assurance-graduate-programme-manchester-243543",
-   "src": "TargetJobs (aggregator only)",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Audit & accounting",
-   "cities": [
-    "Manchester"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-10-28",
-   "dlNote": "",
-   "status": "open",
-   "salary": "Not stated",
-   "degreeMin": null,
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "Not stated on listing (refers to KPMG careers portal); degree subject not stated",
-   "qual": "ACA",
-   "notes": "Hybrid; ACA fully funded by KPMG. A Leeds posting also exists but could not be read.",
-   "links": {},
-   "checked": "2026-10-28",
-   "loc": "Manchester (hybrid)"
-  },
-  {
    "id": "natwest-graduate-trainee-engineering-london",
    "emp": "NatWest Group",
    "title": "Graduate Trainee Engineering 2027",
@@ -12212,6 +12027,455 @@
    "notes": "Two years, three placements (Product & Platform, Customer Propositions & Digital Journeys, Strategic Partnerships); hybrid, 2+ office days a week; no visa sponsorship.",
    "checked": "2026-10-28",
    "links": {}
+  },
+  {
+   "id": "mha-audit-junior-aca-liverpool",
+   "emp": "MHA",
+   "title": "Audit Junior ACA (Graduate Scheme) - Liverpool - September 2027",
+   "url": "https://targetjobs.co.uk/jobs/audit-junior-aca-graduate-scheme-liverpool-september-2027-243329",
+   "src": "TargetJobs",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Audit & accounting",
+   "cities": [
+    "Liverpool"
+   ],
+   "start": "Sep 2027",
+   "dl": "2027-01-11",
+   "dlNote": "Applications reviewed only after the deadline",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": "2:1",
+   "ucasMin": 112,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:1 degree or above and at least 112 UCAS points from top three subjects (or equivalent)",
+   "qual": "ACA",
+   "notes": "Full-time in office for first 6 months; own car helpful for client sites. Separate city postings (a Birmingham posting is also advertised). Separate MHA postings exist for other offices (e.g. Manchester) – not verified here.",
+   "checked": "2026-10-29",
+   "links": {}
+  },
+  {
+   "id": "mha-accounts-junior-aca-liverpool",
+   "emp": "MHA",
+   "title": "Accounts Junior ACA (Graduate Scheme) - Liverpool - September 2027",
+   "url": "https://targetjobs.co.uk/jobs/accounts-junior-aca-graduate-scheme-liverpool-september-2027-243333",
+   "src": "TargetJobs",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Audit & accounting",
+   "cities": [
+    "Liverpool"
+   ],
+   "start": "Sep 2027",
+   "dl": "2027-01-11",
+   "dlNote": "",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": "2:1",
+   "ucasMin": 112,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:1 degree or above and at least 112 UCAS points from top three subjects (or equivalent)",
+   "qual": "ACA",
+   "notes": "Full-time in office for first 6 months, then up to 2 home-working days a week.",
+   "checked": "2026-10-29",
+   "links": {}
+  },
+  {
+   "id": "forvis-mazars-financial-planning-leeds",
+   "emp": "Forvis Mazars",
+   "title": "Financial Planning Graduate Trainee - Leeds - September 2027",
+   "url": "https://higherin.com/jobs/46263/forvis-mazars/financial-planning-graduate-trainee-leeds-september-2027",
+   "src": "Higherin (London posting also checked on Higherin)",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Asset & wealth management",
+   "cities": [
+    "Leeds",
+    "London"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-11-30",
+   "dlNote": "Rolling – may close early (Leeds posting shows 'Ongoing'; London posting closes 30 Nov 2026)",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": "2:1",
+   "ucasMin": 112,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": 4,
+   "gcseEnglish": 4,
+   "licence": false,
+   "reqText": "2:1 (achieved or predicted); 112 UCAS from top three A-levels or equivalent; GCSE Maths & English Language grade 4/C",
+   "qual": "CII (funded study)",
+   "notes": "Separate Leeds and London postings (also Milton Keynes); contextual consideration for exceptional circumstances.",
+   "checked": "2026-10-29",
+   "links": {}
+  },
+  {
+   "id": "atkinsrealis-human-factors-2027",
+   "emp": "AtkinsRéalis",
+   "title": "Human Factors Graduate Programme 2027",
+   "url": "https://targetjobs.co.uk/jobs/human-factors-graduate-programme-245657",
+   "src": "TargetJobs; cross-checked on AtkinsRéalis careers site (ref GR-231)",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Psychology & behavioural science",
+   "cities": [
+    "London",
+    "Manchester",
+    "Bristol"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-12-03",
+   "dlNote": "Employer page gives 3 Dec 2026 (TargetJobs shows 10 Dec 2026); individual locations may close early due to application volume",
+   "status": "open",
+   "salary": "£32,000–£34,500",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "Not stated – no degree class or subject listed; must have right to work in UK without sponsorship",
+   "qual": "Professional accreditation / chartership pathway (£2,500 bonus on chartered status)",
+   "notes": "Nuclear sector; may need UKSV security clearance (can require 5+ years' UK residency); no visa sponsorship; one application per campaign; min 3 days/week in office or on site.",
+   "checked": "2026-10-29",
+   "links": {}
+  },
+  {
+   "id": "unilever-uflp-hr-uk",
+   "emp": "Unilever",
+   "title": "Human Resources (HR) Graduate Scheme (UFLP) – UK & Ireland",
+   "url": "https://targetjobs.co.uk/jobs/register-your-interest-human-resources-hr-graduate-scheme-uflp-uk-ireland-230428",
+   "src": "TargetJobs (Unilever's own careers posting could not be opened)",
+   "disciplines": [
+    "any"
+   ],
+   "area": "HR & people",
+   "cities": [
+    "London",
+    "Leeds",
+    "Kingston",
+    "Port Sunlight",
+    "Burton",
+    "Colworth",
+    "Crumlin"
+   ],
+   "start": "Sep 2027",
+   "dl": null,
+   "dlNote": "rolling – apply early – TargetJobs lists it as \"register your interest\"",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "No specific qualifications necessary (as stated)",
+   "qual": "None",
+   "notes": "3-year Unilever Future Leaders Programme; hybrid with min 3 days/week in one office (Blackfriars London, Kingston, Leeds, Port Sunlight, Burton, Colworth, Crumlin); 10–25% travel; one HR application only – first application considered.",
+   "checked": "2026-10-29",
+   "links": {}
+  },
+  {
+   "id": "forvis-mazars-tax-reporting-bham-leeds-man",
+   "emp": "Forvis Mazars",
+   "title": "Tax - Tax Reporting Graduate Trainee - September 2027 (Birmingham / Leeds / Manchester)",
+   "url": "https://targetjobs.co.uk/jobs/tax-tax-reporting-graduate-trainee-birmingham-september-2027-253153",
+   "src": "TargetJobs (Forvis Mazars verified listing)",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Tax",
+   "cities": [
+    "Birmingham",
+    "Leeds",
+    "Manchester"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-10-31",
+   "dlNote": "closes 31 Oct 2026",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": "2:1",
+   "ucasMin": 112,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": 4,
+   "gcseEnglish": 4,
+   "licence": false,
+   "reqText": "2:1 (achieved or predicted) any subject; 112 UCAS from top three Level 3 quals; GCSE Maths & English Language grade 4/C; extenuating circumstances considered",
+   "qual": "ACA/CTA",
+   "notes": "In-person office role; separate postings per city",
+   "links": {},
+   "checked": "2026-10-29"
+  },
+  {
+   "id": "forvis-mazars-indirect-tax-bham-london",
+   "emp": "Forvis Mazars",
+   "title": "Tax - Indirect Tax Graduate Trainee - September 2027 (Birmingham / London)",
+   "url": "https://targetjobs.co.uk/jobs/tax-indirect-tax-graduate-trainee-birmingham-september-2027-253129",
+   "src": "TargetJobs (Forvis Mazars verified listing)",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Tax",
+   "cities": [
+    "Birmingham",
+    "London"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-10-31",
+   "dlNote": "closes 31 Oct 2026",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": "2:1",
+   "ucasMin": 112,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": 4,
+   "gcseEnglish": 4,
+   "licence": false,
+   "reqText": "2:1 (achieved or predicted) any subject; 112 UCAS from top three Level 3 quals; GCSE Maths & English Language grade 4/C; extenuating circumstances considered",
+   "qual": "ATT/CTA",
+   "notes": "In-person office role; separate postings per city",
+   "links": {},
+   "checked": "2026-10-29"
+  },
+  {
+   "id": "forvis-mazars-tax-dispute-resolutions-leeds",
+   "emp": "Forvis Mazars",
+   "title": "Tax - Tax Dispute Resolutions Graduate Trainee - Leeds - September 2027",
+   "url": "https://targetjobs.co.uk/jobs/tax-tax-dispute-resolutions-graduate-trainee-leeds-september-2027-253147",
+   "src": "TargetJobs (Forvis Mazars verified listing)",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Tax",
+   "cities": [
+    "Leeds"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-10-31",
+   "dlNote": "closes 31 Oct 2026",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": "2:1",
+   "ucasMin": 112,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": 4,
+   "gcseEnglish": 4,
+   "licence": false,
+   "reqText": "2:1 (achieved or predicted) any subject; 112 UCAS from top three Level 3 quals; GCSE Maths & English Language grade 4/C; extenuating circumstances considered",
+   "qual": "ATT/CTA",
+   "notes": "In-person office role; separate postings per city",
+   "links": {},
+   "checked": "2026-10-29"
+  },
+  {
+   "id": "forvis-mazars-global-employer-solutions-leeds-london",
+   "emp": "Forvis Mazars",
+   "title": "Tax - Tax Global Employer Solution Graduate Trainee - September 2027 (Leeds / London)",
+   "url": "https://targetjobs.co.uk/jobs/tax-tax-global-employer-solution-graduate-trainee-leeds-september-2027-253119",
+   "src": "TargetJobs (Forvis Mazars verified listing)",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Tax",
+   "cities": [
+    "Leeds",
+    "London"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-10-31",
+   "dlNote": "closes 31 Oct 2026",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": "2:1",
+   "ucasMin": 112,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": 4,
+   "gcseEnglish": 4,
+   "licence": false,
+   "reqText": "2:1 (achieved or predicted) any subject; 112 UCAS from top three Level 3 quals; GCSE Maths & English Language grade 4/C; extenuating circumstances considered",
+   "qual": "ATT/CTA",
+   "notes": "In-person office role; separate postings per city",
+   "links": {},
+   "checked": "2026-10-29"
+  },
+  {
+   "id": "mha-tax-associate-birmingham",
+   "emp": "MHA",
+   "title": "Tax Associate ATT/CTA (Graduate) - Birmingham - September 2027",
+   "url": "https://targetjobs.co.uk/jobs/tax-associate-attcta-graduate-birmingham-september-2027-243369",
+   "src": "TargetJobs (MHA verified listing)",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Tax",
+   "cities": [
+    "Birmingham"
+   ],
+   "start": "Sep 2027",
+   "dl": "2027-01-11",
+   "dlNote": "applications reviewed after the deadline",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": "2:1",
+   "ucasMin": 112,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:1 (achieved or predicted); at least 112 UCAS from top three subjects (or equivalent); GCSEs not stated",
+   "qual": "ATT/CTA",
+   "notes": "In-person office role",
+   "links": {},
+   "checked": "2026-10-29"
+  },
+  {
+   "id": "mha-rd-tax-associate-london",
+   "emp": "MHA",
+   "title": "R&D Tax Associate ATT/CTA (Graduate Scheme) - London - September 2027",
+   "url": "https://targetjobs.co.uk/jobs/rd-tax-associate-attcta-graduate-scheme-london-september-2027-243265",
+   "src": "TargetJobs (MHA verified listing)",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Tax",
+   "cities": [
+    "London"
+   ],
+   "start": "Sep 2027",
+   "dl": "2027-01-11",
+   "dlNote": "applications reviewed after the deadline",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": "2:1",
+   "ucasMin": 112,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:1 (achieved or predicted); at least 112 UCAS from top three subjects (or equivalent); GCSEs not stated",
+   "qual": "ATT/CTA",
+   "notes": "In-person office role",
+   "links": {},
+   "checked": "2026-10-29"
+  },
+  {
+   "id": "mha-human-capital-advisory-tax-london",
+   "emp": "MHA",
+   "title": "Human Capital Advisory Tax Associate ATT/CTA (Graduate Scheme) - London - September 2027",
+   "url": "https://targetjobs.co.uk/jobs/human-capital-advisory-tax-associate-attcta-graduate-scheme-london-september-2027-253575",
+   "src": "TargetJobs (MHA verified listing)",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Tax",
+   "cities": [
+    "London"
+   ],
+   "start": "Sep 2027",
+   "dl": "2027-01-11",
+   "dlNote": "applications reviewed after the deadline",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": "2:1",
+   "ucasMin": 112,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:1 (achieved or predicted); at least 112 UCAS from top three subjects (or equivalent); GCSEs not stated",
+   "qual": "ATT/CTA",
+   "notes": "In-person office role",
+   "links": {},
+   "checked": "2026-10-29"
+  },
+  {
+   "id": "mha-global-tax-solutions-london",
+   "emp": "MHA",
+   "title": "Global Tax Solutions Tax Associate ATT/CTA (Graduate Scheme) - September 2027 Start",
+   "url": "https://targetjobs.co.uk/jobs/global-tax-solutions-tax-associate-attcta-graduate-scheme-september-2027-start-253591",
+   "src": "TargetJobs (MHA verified listing)",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Tax",
+   "cities": [
+    "London"
+   ],
+   "start": "Sep 2027",
+   "dl": "2027-01-11",
+   "dlNote": "applications reviewed after the deadline",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": "2:1",
+   "ucasMin": 112,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:1 (achieved or predicted); at least 112 UCAS from top three subjects (or equivalent); GCSEs not stated",
+   "qual": "ATT/CTA",
+   "notes": "In-person office role",
+   "links": {},
+   "checked": "2026-10-29"
+  },
+  {
+   "id": "aviva-pricing-pathway-2027",
+   "emp": "Aviva",
+   "title": "Pricing Graduate Pathway 2027",
+   "url": "https://aviva.apply.cappats.com/jobs/view/543",
+   "src": "Aviva vacancy site (Cappfinity)",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Insurance & risk",
+   "cities": [
+    "Leeds",
+    "London",
+    "Norwich"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-12-01",
+   "dlNote": "may close early if many applications",
+   "status": "open",
+   "salary": "£34,200",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "Degree in any subject by end of summer 2027; no class stated; UCAS/A-levels/GCSEs not stated; Python/R helpful not essential",
+   "qual": "None",
+   "notes": "Two-year programme; ~3 days/week in office, live within commute; one pathway application only; indefinite UK right to work needed, no visa sponsorship",
+   "links": {},
+   "checked": "2026-10-29"
   }
  ]
 }
