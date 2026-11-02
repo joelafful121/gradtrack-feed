@@ -1,41 +1,7 @@
 {
  "app": "GradTrack 2027",
- "updated": "2026-11-01",
+ "updated": "2026-11-02",
  "roles": [
-  {
-   "id": "jpm-cadp",
-   "emp": "J.P. Morgan",
-   "title": "2027 Corporate Analyst Development Program (Full-Time)",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210793412",
-   "src": "J.P. Morgan careers site",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Banking & markets",
-   "cities": [
-    "London"
-   ],
-   "start": "2027 (2-year rotational)",
-   "dl": "2026-11-01",
-   "dlNote": "",
-   "status": "open",
-   "salary": "Not stated",
-   "degreeMin": null,
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "Graduating Dec 2026 – Jul 2027",
-   "qual": "None",
-   "notes": "Deadline 1 Nov, 23:55.",
-   "links": {},
-   "checked": "2026-11-01",
-   "loc": "London",
-   "why": "Corporate finance functions at a top bank – the best bank fit for an accounting degree.",
-   "rank": 6
-  },
   {
    "id": "nationwide-treasury",
    "emp": "Nationwide",
@@ -248,74 +214,6 @@
    "rank": 25
   },
   {
-   "id": "jpm-gpb",
-   "emp": "J.P. Morgan",
-   "title": "2027 Global Private Bank Investment Solutions Analyst Training Program",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774295",
-   "src": "J.P. Morgan careers site",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Asset & wealth management",
-   "cities": [
-    "London"
-   ],
-   "start": "2027 (starts with 5-week training)",
-   "dl": "2026-11-01",
-   "dlNote": "filled on a rolling basis",
-   "status": "open",
-   "salary": "Not stated",
-   "degreeMin": null,
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "Graduating Aug 2026 – Jul 2027",
-   "qual": "None",
-   "notes": "CV plus HireVue video interview. Check J.P. Morgan's limit on applications if applying to CADP too.",
-   "links": {},
-   "checked": "2026-11-01",
-   "loc": "London",
-   "why": "Private-bank investment work; quick first stage.",
-   "rank": 26
-  },
-  {
-   "id": "jpm-ib",
-   "emp": "J.P. Morgan",
-   "title": "2027 Global Investment Banking Analyst Program (Full-Time)",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775719",
-   "src": "J.P. Morgan careers site",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Banking & markets",
-   "cities": [
-    "London"
-   ],
-   "start": "2027 (not stated)",
-   "dl": "2026-11-01",
-   "dlNote": "",
-   "status": "open",
-   "salary": "Not stated",
-   "degreeMin": null,
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "Graduating May – Oct 2027",
-   "qual": "None",
-   "notes": "Most full-time IB places go to former summer interns.",
-   "links": {},
-   "checked": "2026-11-01",
-   "loc": "London",
-   "why": "Top-tier IB but long odds without an internship.",
-   "rank": 27
-  },
-  {
    "id": "citi-st",
    "emp": "Citi",
    "title": "Markets Sales & Trading Full Time Analyst – London 2027",
@@ -489,40 +387,6 @@
    "loc": "London (or Birmingham)",
    "why": "Property route, away from core finance.",
    "rank": 57
-  },
-  {
-   "id": "capital-cap",
-   "emp": "Capital Group",
-   "title": "CAP Associate (Europe) 2027",
-   "url": "https://www.brightnetwork.co.uk/graduate-jobs/capital/cap-associate-europe-london-2027-alfe",
-   "src": "Bright Network",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Asset & wealth management",
-   "cities": [
-    "London"
-   ],
-   "start": "Not stated",
-   "dl": "2026-11-01",
-   "dlNote": "",
-   "status": "open",
-   "salary": "Competitive + bonus + 15% retirement contribution",
-   "degreeMin": null,
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "Final-year undergraduate",
-   "qual": "None",
-   "notes": "Start date not stated – confirm it's after summer 2027 before applying.",
-   "links": {},
-   "checked": "2026-11-01",
-   "loc": "London",
-   "why": "Large asset manager; start date unconfirmed.",
-   "rank": 61
   },
   {
    "id": "fca-af",
@@ -1496,47 +1360,6 @@
    "loc": "UK-wide"
   },
   {
-   "id": "sse-it-ot",
-   "emp": "SSE",
-   "title": "IT & OT Graduates 2027",
-   "url": "https://www.brightnetwork.co.uk/graduate-jobs/sse/it-ot-graduates-2027-ank7",
-   "src": "Bright Network",
-   "disciplines": [
-    "computing",
-    "engineering",
-    "maths-physics",
-    "sciences"
-   ],
-   "area": "Technology",
-   "cities": [
-    "Glasgow",
-    "Perth",
-    "Reading",
-    "Havant",
-    "Portsmouth"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-11-01",
-   "dlNote": "",
-   "status": "open",
-   "salary": "£35,000",
-   "degreeMin": "2:2",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:2 or above in Computer Science, Data Science, AI, Cyber Security, IT, Engineering, Maths, Physics or another STEM subject",
-   "qual": "None",
-   "notes": "Pathways in AI/data, cyber, IT and OT. Needs UK right to work – no visa sponsorship.",
-   "links": {},
-   "checked": "2026-11-01",
-   "rank": null,
-   "why": "",
-   "loc": "Glasgow, Perth, Reading, Havant, Portsmouth"
-  },
-  {
    "id": "ark-teacher-training",
    "emp": "Ark Teacher Training",
    "title": "Ark Teacher Training Programme 2027",
@@ -1989,37 +1812,6 @@
    "checked": "2026-11-01"
   },
   {
-   "id": "helix-law-tc",
-   "emp": "Helix Law",
-   "title": "Training Contract 2027",
-   "url": "https://www.brightnetwork.co.uk/graduate-jobs/helix-law/training-contract-2027",
-   "src": "Bright Network",
-   "disciplines": [
-    "law"
-   ],
-   "area": "Law",
-   "cities": [
-    "Brighton"
-   ],
-   "start": "Oct 2027",
-   "dl": "2026-11-01",
-   "dlNote": "",
-   "status": "open",
-   "salary": "£40,000 minimum (or 40% of fees generated)",
-   "degreeMin": null,
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "SQE completed or in progress",
-   "qual": "None",
-   "notes": "",
-   "links": {},
-   "checked": "2026-11-01"
-  },
-  {
    "id": "kennedys-bristol-grad-apprentice",
    "emp": "Kennedys",
    "title": "Bristol Graduate Apprenticeship (Professional Liability) 2027",
@@ -2178,78 +1970,6 @@
    "reqText": "2:2 in logistics & supply chain, management, business, engineering or finance",
    "qual": "None",
    "notes": "Needs indefinite UK right to work – no sponsorship, student visas not eligible.",
-   "links": {},
-   "checked": "2026-11-01"
-  },
-  {
-   "id": "sse-pm",
-   "emp": "SSE",
-   "title": "Project Management Graduate Programme 2027",
-   "url": "https://www.brightnetwork.co.uk/graduate-jobs/sse/project-management-graduate-programme-2027-ankq",
-   "src": "Bright Network",
-   "disciplines": [
-    "engineering",
-    "business",
-    "built-environment"
-   ],
-   "area": "Engineering",
-   "cities": [
-    "Aberdeen",
-    "Glasgow",
-    "Inverness",
-    "Perth"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-11-01",
-   "dlNote": "",
-   "status": "open",
-   "salary": "£35,000",
-   "degreeMin": "2:2",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:2 in project/construction management, engineering (civil, electrical, mechanical) or a relevant subject",
-   "qual": "None",
-   "notes": "",
-   "links": {},
-   "checked": "2026-11-01"
-  },
-  {
-   "id": "sse-energy-markets",
-   "emp": "SSE",
-   "title": "Energy Markets Graduate Programme 2027",
-   "url": "https://www.brightnetwork.co.uk/graduate-jobs/sse/energy-markets-graduate-programme-edinburgh-2027-anje",
-   "src": "Bright Network",
-   "disciplines": [
-    "computing",
-    "economics",
-    "engineering",
-    "maths-physics",
-    "sciences",
-    "business"
-   ],
-   "area": "Data & analytics",
-   "cities": [
-    "Edinburgh"
-   ],
-   "start": "Not stated",
-   "dl": "2026-11-01",
-   "dlNote": "",
-   "status": "open",
-   "salary": "£35,000",
-   "degreeMin": "2:2",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:2 in business analytics, computer science, data science, economics, engineering, maths, meteorology or similar",
-   "qual": "None",
-   "notes": "",
    "links": {},
    "checked": "2026-11-01"
   },
@@ -3729,70 +3449,6 @@
    "checked": "2026-10-28"
   },
   {
-   "id": "jpm-private-bank-advisor",
-   "emp": "J.P. Morgan",
-   "title": "2027 Global Private Bank – Advisor Analyst Training Program",
-   "url": "https://www.brightnetwork.co.uk/graduate-jobs/jp-morgan/2027-global-private-bank-advisor-analyst-training-program-london-manchester-edinburgh",
-   "src": "Bright Network",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Asset & wealth management",
-   "cities": [
-    "London",
-    "Manchester",
-    "Edinburgh"
-   ],
-   "start": "Not stated",
-   "dl": "2026-11-01",
-   "dlNote": "Rolling intake",
-   "status": "open",
-   "salary": "Not stated",
-   "degreeMin": null,
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "No degree subject or grade bar stated",
-   "qual": "None",
-   "notes": "Pick one city. HireVue video interview.",
-   "links": {},
-   "checked": "2026-11-01"
-  },
-  {
-   "id": "jpm-cib-innovation",
-   "emp": "J.P. Morgan",
-   "title": "2027 Commercial & Investment Banking – Innovation Development Program (Full-Time Analyst)",
-   "url": "https://www.brightnetwork.co.uk/graduate-jobs/jp-morgan/2027-commercial-investment-banking-innovation-development-program-full-time-analyst-london",
-   "src": "Bright Network",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Banking & markets",
-   "cities": [
-    "London"
-   ],
-   "start": "Not stated",
-   "dl": "2026-11-01",
-   "dlNote": "",
-   "status": "open",
-   "salary": "Not stated",
-   "degreeMin": null,
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "Any degree; graduating Dec 2026 – Jun 2027",
-   "qual": "None",
-   "notes": "HireVue video interview.",
-   "links": {},
-   "checked": "2026-11-01"
-  },
-  {
    "id": "lloyds-commercial-wealth-rm",
    "emp": "Lloyds Banking Group",
    "title": "Commercial and Wealth Relationship Management Graduate Scheme 2027",
@@ -3955,37 +3611,6 @@
    "checked": "2026-10-11"
   },
   {
-   "id": "alpha-fmc-insurance",
-   "emp": "Alpha FMC",
-   "title": "Insurance Consulting Graduate Analyst 2027",
-   "url": "https://www.brightnetwork.co.uk/graduate-jobs/alpha-fmc/insurance-consulting-graduate-2027",
-   "src": "Bright Network",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Insurance & risk",
-   "cities": [
-    "London"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-11-01",
-   "dlNote": "Rolling – may close sooner",
-   "status": "open",
-   "salary": "£40,000 + profit share",
-   "degreeMin": "2:1",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:1, any degree subject",
-   "qual": "None",
-   "notes": "",
-   "links": {},
-   "checked": "2026-11-01"
-  },
-  {
    "id": "alpha-fmc-tech-consulting",
    "emp": "Alpha FMC",
    "title": "Asset & Wealth Technology Consulting Graduate Analyst 2027",
@@ -4015,37 +3640,6 @@
    "notes": "",
    "links": {},
    "checked": "2026-10-11"
-  },
-  {
-   "id": "occ-strategy",
-   "emp": "OC&C Strategy Consultants",
-   "title": "Associate Consultant 2027/28 – Strategy (London)",
-   "url": "https://careers.occstrategy.com/vacancies/388/associate-consultant-2027-28--strategy-london-office.html",
-   "src": "Bright Network",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Consulting",
-   "cities": [
-    "London"
-   ],
-   "start": "Mar 2027 (limited), Sep 2027, Jan 2028 or Mar 2028 (allocated post-offer)",
-   "dl": "2026-11-01",
-   "dlNote": "Vacancy deadline 23:59 Sunday 1 Nov 2026",
-   "status": "open",
-   "salary": "£54,000 + £7,000 signing bonus + annual performance bonus",
-   "degreeMin": null,
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "Strong academic record (no specific grades listed)",
-   "qual": "None",
-   "notes": "Limited visa sponsorship.",
-   "links": {},
-   "checked": "2026-11-01"
   },
   {
    "id": "wsp-advisory",
@@ -5115,7 +4709,7 @@
    "qual": "None",
    "notes": "",
    "links": {},
-   "checked": "2026-10-19"
+   "checked": "2026-11-02"
   },
   {
    "id": "lloyds-data-science-ai",
@@ -5978,7 +5572,7 @@
   {
    "id": "bny-coo-man",
    "emp": "BNY",
-   "title": "2027 BNY Analyst Program – Office of the COO (Manchester)",
+   "title": "2027 BNY Analyst Program – Office of the COO (Manchester & London)",
    "url": "https://www.gradcracker.com/hub/1489/bny/graduate-job/83572/2027-bny-analyst-program-office-of-the-coo",
    "src": "Gradcracker",
    "disciplines": [
@@ -5986,7 +5580,8 @@
    ],
    "area": "Banking & markets",
    "cities": [
-    "Manchester"
+    "Manchester",
+    "London"
    ],
    "start": "2027",
    "dl": "2026-11-04",
@@ -6003,8 +5598,11 @@
    "reqText": "2:1, any subject (business, tech, economics, finance, maths preferred)",
    "qual": "None",
    "notes": "Must graduate Dec 2026 or summer 2027 and not need visa sponsorship now or later.",
-   "links": {},
-   "checked": "2026-11-01"
+   "links": {
+    "Manchester": "https://www.gradcracker.com/hub/1489/bny/graduate-job/83572/2027-bny-analyst-program-office-of-the-coo",
+    "London": "https://targetjobs.co.uk/jobs/2027-bny-analyst-program-office-coo-london-249617"
+   },
+   "checked": "2026-11-02"
   },
   {
    "id": "bny-cfo-man",
@@ -6079,7 +5677,7 @@
   {
    "id": "bny-risk-man",
    "emp": "BNY",
-   "title": "2027 BNY Analyst Program – Risk and Compliance (Manchester)",
+   "title": "2027 BNY Analyst Program – Risk and Compliance (Manchester & London)",
    "url": "https://www.gradcracker.com/hub/1489/bny/graduate-job/83566/2027-bny-analyst-program-risk-and-compliance",
    "src": "Gradcracker",
    "disciplines": [
@@ -6091,7 +5689,8 @@
    ],
    "area": "Insurance & risk",
    "cities": [
-    "Manchester"
+    "Manchester",
+    "London"
    ],
    "start": "2027",
    "dl": "2026-11-04",
@@ -6108,8 +5707,11 @@
    "reqText": "2:1; business, economics, finance, maths, statistics or data degrees preferred",
    "qual": "None",
    "notes": "Must graduate Dec 2026 or summer 2027 and not need visa sponsorship now or later.",
-   "links": {},
-   "checked": "2026-11-01"
+   "links": {
+    "Manchester": "https://www.gradcracker.com/hub/1489/bny/graduate-job/83566/2027-bny-analyst-program-risk-and-compliance",
+    "London": "https://targetjobs.co.uk/jobs/2027-bny-analyst-program-risk-and-compliance-london-249629"
+   },
+   "checked": "2026-11-02"
   },
   {
    "id": "hymans-actuarial",
@@ -6394,7 +5996,7 @@
   {
    "id": "accenture-tech-analyst-bham",
    "emp": "Accenture",
-   "title": "Technology Analyst Graduate Programme 2027–2028 – Birmingham & Manchester",
+   "title": "Technology Analyst Graduate Programme 2027–2028 – Birmingham, Manchester & Leeds",
    "url": "https://www.gradcracker.com/hub/269/accenture/graduate-job/85121/birmingham-technology-analyst-graduate-programme-2027-2028",
    "src": "Gradcracker",
    "disciplines": [
@@ -6403,7 +6005,8 @@
    "area": "Technology",
    "cities": [
     "Birmingham",
-    "Manchester"
+    "Manchester",
+    "Leeds"
    ],
    "start": "Sep 2027",
    "dl": null,
@@ -6422,9 +6025,10 @@
    "notes": "Hybrid, at least 3 office days a week. No UK work permit sponsorship.",
    "links": {
     "Birmingham": "https://www.gradcracker.com/hub/269/accenture/graduate-job/85121/birmingham-technology-analyst-graduate-programme-2027-2028",
-    "Manchester": "https://www.gradcracker.com/hub/269/accenture/graduate-job/85126/manchester-technology-analyst-graduate-programme-2027-2028"
+    "Manchester": "https://www.gradcracker.com/hub/269/accenture/graduate-job/85126/manchester-technology-analyst-graduate-programme-2027-2028",
+    "Leeds": "https://targetjobs.co.uk/jobs/leeds-technology-analyst-graduate-programme-2027-2028-249449"
    },
-   "checked": "2026-11-01"
+   "checked": "2026-11-02"
   },
   {
    "id": "accenture-consulting-man",
@@ -8043,7 +7647,7 @@
    "qual": "CII qualifications",
    "notes": "Regional schemes: London/South East, East & Midlands, South West, North East; training at Stratford-upon-Avon head office; company car on regional schemes; no visa sponsorship; 3-year scheme. Same advert also covers the South West scheme already in the tracker (nfu-mutual-sales-sw).",
    "links": {},
-   "checked": "2026-11-01"
+   "checked": "2026-11-02"
   },
   {
    "alevels": null,
@@ -10003,6 +9607,171 @@
    "notes": "Two-year rotational scheme in University Professional Services: three 4-month placements in year one (e.g. marketing, finance, student services, HR, academic departments), then one 12-month placement; based at Edgbaston.",
    "links": {},
    "checked": "2026-11-01"
+  },
+  {
+   "id": "fca-people-2027",
+   "emp": "FCA (Financial Conduct Authority)",
+   "title": "2027 People Graduate Programme",
+   "url": "https://targetjobs.co.uk/jobs/2027-people-graduate-programme-255495",
+   "src": "TargetJobs",
+   "disciplines": [
+    "any"
+   ],
+   "area": "HR & people",
+   "cities": [
+    "London",
+    "Leeds",
+    "Edinburgh"
+   ],
+   "start": "2027",
+   "dl": "2026-11-29",
+   "dlNote": "May close early if high volume",
+   "status": "open",
+   "salary": "£37,000",
+   "degreeMin": "2:1",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:1 any subject; final year or graduated",
+   "qual": "None",
+   "notes": "One application across FCA early careers programmes per six months; must hold UK work permission for whole programme. Min 50% office time (London, Leeds, Edinburgh).",
+   "links": {},
+   "checked": "2026-11-02"
+  },
+  {
+   "id": "dhl-hr-specialist-2027",
+   "emp": "DHL Supply Chain",
+   "title": "HR Specialist Graduate Programme",
+   "url": "https://targetjobs.co.uk/jobs/hr-specialist-graduate-programme-248763",
+   "src": "TargetJobs",
+   "disciplines": [
+    "business",
+    "psychology",
+    "social-sciences",
+    "law"
+   ],
+   "area": "HR & people",
+   "cities": [
+    "UK-wide"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-11-30",
+   "dlNote": "",
+   "status": "open",
+   "salary": "£30,500 + £500 joining payment",
+   "degreeMin": "2:1",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:1; HR, business, organisational/occupational psychology, sociology, social sciences or law preferred (other degrees considered)",
+   "qual": "None",
+   "notes": "3-year programme, nationwide placements – must relocate within commuting distance; full UK licence or able to travel independently between sites. Unrestricted UK right to work required.",
+   "links": {},
+   "checked": "2026-11-02"
+  },
+  {
+   "id": "barnett-waddingham-investment-analyst-leeds",
+   "emp": "Barnett Waddingham (Howden)",
+   "title": "2027 Graduate - Investment Analyst (Leeds)",
+   "url": "https://jobs.workable.com/view/0c113983-6889-4329-9c5e-6a14cf7995fb",
+   "src": "Workable job board",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Asset & wealth management",
+   "cities": [
+    "Leeds"
+   ],
+   "start": "Sep 2027",
+   "dl": null,
+   "dlNote": "No closing date stated – apply early",
+   "status": "open",
+   "salary": "£32,000–£34,000",
+   "degreeMin": "2:1",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": {
+    "subject": "Maths",
+    "grade": "A"
+   },
+   "gcseMaths": null,
+   "gcseEnglish": 6,
+   "licence": false,
+   "reqText": "2:1; A in A-level Maths (or Higher Maths); GCSE English Language grade 6",
+   "qual": "None",
+   "notes": "Only one trainee programme application for the 2027 intake; unrestricted UK right to work required.",
+   "links": {},
+   "checked": "2026-11-02"
+  },
+  {
+   "id": "elliott-wood-structural-2027",
+   "emp": "Elliott Wood",
+   "title": "Graduate Programme 2027 - Structural Engineer",
+   "url": "https://targetjobs.co.uk/jobs/graduate-programme-2027-structural-engineer-251339",
+   "src": "TargetJobs",
+   "disciplines": [
+    "engineering",
+    "built-environment"
+   ],
+   "area": "Engineering",
+   "cities": [
+    "London",
+    "Nottingham"
+   ],
+   "start": "Sep 2027",
+   "dl": null,
+   "dlNote": "No closing date stated – apply early",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": "2:1",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:1 in a relevant engineering or built environment degree",
+   "qual": "Support towards professional qualification",
+   "notes": "Offices in London (Fitzrovia, Wimbledon) and Nottingham; must have right to work full-time in the UK.",
+   "links": {},
+   "checked": "2026-11-02"
+  },
+  {
+   "id": "knight-frank-markets-transactions-london",
+   "emp": "Knight Frank",
+   "title": "Markets & Transactions Graduate 2027 - London",
+   "url": "https://higherin.com/jobs/44968/knight-frank/markets-transactions-graduate-2027-london",
+   "src": "Higherin",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Property & construction",
+   "cities": [
+    "London"
+   ],
+   "start": "Autumn 2027",
+   "dl": "2026-11-13",
+   "dlNote": "May close early",
+   "status": "open",
+   "salary": "£31,000 + £1,500 sign-on bonus",
+   "degreeMin": "2:1",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": 4,
+   "gcseEnglish": 4,
+   "licence": false,
+   "reqText": "2:1 any subject; three A-levels or equivalent (no grades stated); GCSE Maths & English Language grade 4/C",
+   "qual": "RICS APC",
+   "notes": "Baker Street HQ; unrestricted UK right to work required.",
+   "links": {},
+   "checked": "2026-11-02"
   }
  ]
 }
