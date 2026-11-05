@@ -1,6 +1,6 @@
 {
  "app": "GradTrack 2027",
- "updated": "2026-11-04",
+ "updated": "2026-11-05",
  "roles": [
   {
    "id": "nationwide-treasury",
@@ -937,54 +937,6 @@
    "rank": null,
    "why": "",
    "loc": "Birmingham, Nottingham, London, Leeds, Manchester, Bristol, Edinburgh, Glasgow, East Anglia"
-  },
-  {
-   "id": "kpmg-audit",
-   "emp": "KPMG",
-   "title": "2027 Audit Graduate Programme",
-   "url": "https://targetjobs.co.uk/jobs/kpmg-2027-audit-graduate-programme-london-243547",
-   "src": "TargetJobs / Bright Network",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Audit & accounting",
-   "cities": [
-    "London",
-    "Manchester",
-    "Leeds",
-    "Cambridge",
-    "Nottingham",
-    "Reading",
-    "Edinburgh",
-    "Aberdeen"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-11-04",
-   "dlNote": "Birmingham, Newcastle and Glasgow postings closed 21 Oct 2026; others close 28 Oct",
-   "status": "open",
-   "salary": "Not stated",
-   "degreeMin": null,
-   "ucasMin": 120,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "120 UCAS points from your top three A-levels (as listed on KPMG's 2027 audit postings)",
-   "qual": "ACA (CA in Scotland)",
-   "notes": "",
-   "links": {
-    "London": "https://targetjobs.co.uk/jobs/kpmg-2027-audit-graduate-programme-london-243547",
-    "Cambridge": "https://targetjobs.co.uk/jobs/kpmg-2027-audit-graduate-programme-cambridge-243561",
-    "Nottingham": "https://targetjobs.co.uk/jobs/kpmg-2027-audit-graduate-programme-nottingham-243553",
-    "Reading": "https://targetjobs.co.uk/jobs/kpmg-2027-audit-graduate-programme-reading-243555",
-    "Edinburgh": "https://targetjobs.co.uk/jobs/kpmg-2027-audit-graduate-programme-edinburgh-243565",
-    "Aberdeen": "https://targetjobs.co.uk/jobs/kpmg-2027-audit-graduate-programme-aberdeen-243557"
-   },
-   "checked": "2026-11-01",
-   "rank": null,
-   "why": "",
-   "loc": "London, Cambridge, Nottingham, Reading, Edinburgh, Aberdeen"
   },
   {
    "id": "barclays-tech-dev",
@@ -5157,185 +5109,6 @@
    "checked": "2026-11-04"
   },
   {
-   "id": "bny-client-service-man",
-   "emp": "BNY",
-   "title": "2027 BNY Analyst Program – Client Service (Manchester)",
-   "url": "https://www.gradcracker.com/hub/1489/bny/graduate-job/83563/2027-bny-analyst-program-client-service",
-   "src": "Gradcracker",
-   "disciplines": [
-    "business",
-    "economics",
-    "accounting-finance",
-    "maths-physics",
-    "computing"
-   ],
-   "area": "Banking & markets",
-   "cities": [
-    "Manchester"
-   ],
-   "start": "2027",
-   "dl": "2026-11-04",
-   "dlNote": "Ongoing – apply early",
-   "status": "open",
-   "salary": "Competitive",
-   "degreeMin": "2:1",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:1; business, economics, finance, maths, statistics or data degrees preferred",
-   "qual": "None",
-   "notes": "Must graduate Dec 2026 or summer 2027 and not need visa sponsorship now or later.",
-   "links": {},
-   "checked": "2026-11-04"
-  },
-  {
-   "id": "bny-coo-man",
-   "emp": "BNY",
-   "title": "2027 BNY Analyst Program – Office of the COO (Manchester & London)",
-   "url": "https://www.gradcracker.com/hub/1489/bny/graduate-job/83572/2027-bny-analyst-program-office-of-the-coo",
-   "src": "Gradcracker",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Banking & markets",
-   "cities": [
-    "Manchester",
-    "London"
-   ],
-   "start": "2027",
-   "dl": "2026-11-04",
-   "dlNote": "Ongoing – apply early",
-   "status": "open",
-   "salary": "Competitive",
-   "degreeMin": "2:1",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:1, any subject (business, tech, economics, finance, maths preferred)",
-   "qual": "None",
-   "notes": "Must graduate Dec 2026 or summer 2027 and not need visa sponsorship now or later.",
-   "links": {
-    "Manchester": "https://www.gradcracker.com/hub/1489/bny/graduate-job/83572/2027-bny-analyst-program-office-of-the-coo",
-    "London": "https://targetjobs.co.uk/jobs/2027-bny-analyst-program-office-coo-london-249617"
-   },
-   "checked": "2026-11-02"
-  },
-  {
-   "id": "bny-cfo-man",
-   "emp": "BNY",
-   "title": "2027 BNY Analyst Program – Office of the CFO (Manchester)",
-   "url": "https://www.gradcracker.com/hub/1489/bny/graduate-job/83571/2027-bny-analyst-program-office-of-the-cfo",
-   "src": "Gradcracker",
-   "disciplines": [
-    "business",
-    "economics",
-    "accounting-finance",
-    "maths-physics",
-    "computing"
-   ],
-   "area": "Corporate finance",
-   "cities": [
-    "Manchester"
-   ],
-   "start": "2027",
-   "dl": "2026-11-04",
-   "dlNote": "Ongoing – apply early",
-   "status": "open",
-   "salary": "Competitive",
-   "degreeMin": "2:1",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:1; business, economics, finance, maths, statistics or data degrees preferred",
-   "qual": "None",
-   "notes": "Must graduate Dec 2026 or summer 2027 and not need visa sponsorship now or later.",
-   "links": {},
-   "checked": "2026-11-04"
-  },
-  {
-   "id": "bny-audit-man",
-   "emp": "BNY",
-   "title": "2027 BNY Analyst Program – Audit (Manchester)",
-   "url": "https://www.gradcracker.com/hub/1489/bny/graduate-job/83568/2027-bny-analyst-program-audit",
-   "src": "Gradcracker",
-   "disciplines": [
-    "business",
-    "economics",
-    "accounting-finance",
-    "maths-physics",
-    "computing"
-   ],
-   "area": "Audit & accounting",
-   "cities": [
-    "Manchester"
-   ],
-   "start": "2027",
-   "dl": "2026-11-04",
-   "dlNote": "Ongoing – apply early",
-   "status": "open",
-   "salary": "Competitive",
-   "degreeMin": "2:1",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:1; business, economics, finance, maths, statistics or data degrees preferred",
-   "qual": "None",
-   "notes": "Must graduate Dec 2026 or summer 2027 and not need visa sponsorship now or later.",
-   "links": {},
-   "checked": "2026-11-04"
-  },
-  {
-   "id": "bny-risk-man",
-   "emp": "BNY",
-   "title": "2027 BNY Analyst Program – Risk and Compliance (Manchester & London)",
-   "url": "https://www.gradcracker.com/hub/1489/bny/graduate-job/83566/2027-bny-analyst-program-risk-and-compliance",
-   "src": "Gradcracker",
-   "disciplines": [
-    "business",
-    "economics",
-    "accounting-finance",
-    "maths-physics",
-    "computing"
-   ],
-   "area": "Insurance & risk",
-   "cities": [
-    "Manchester",
-    "London"
-   ],
-   "start": "2027",
-   "dl": "2026-11-04",
-   "dlNote": "Ongoing – apply early",
-   "status": "open",
-   "salary": "Competitive",
-   "degreeMin": "2:1",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:1; business, economics, finance, maths, statistics or data degrees preferred",
-   "qual": "None",
-   "notes": "Must graduate Dec 2026 or summer 2027 and not need visa sponsorship now or later.",
-   "links": {
-    "Manchester": "https://www.gradcracker.com/hub/1489/bny/graduate-job/83566/2027-bny-analyst-program-risk-and-compliance",
-    "London": "https://targetjobs.co.uk/jobs/2027-bny-analyst-program-risk-and-compliance-london-249629"
-   },
-   "checked": "2026-11-04"
-  },
-  {
    "id": "hymans-actuarial",
    "emp": "Hymans Robertson",
    "title": "Actuarial Consulting & Analytics Graduate Programme 2027",
@@ -5901,37 +5674,6 @@
    "checked": "2026-10-11"
   },
   {
-   "id": "pinsent-masons-london-tc-2028",
-   "emp": "Pinsent Masons",
-   "title": "Training Contract – London (September 2028)",
-   "url": "https://www.pinsentmasons.com/en-gb/careers/early-talent/england/training-contract",
-   "src": "Pinsent Masons careers",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Law",
-   "cities": [
-    "London"
-   ],
-   "start": "Sep 2028",
-   "dl": "2026-11-04",
-   "dlNote": "Closes 12pm",
-   "status": "open",
-   "salary": "£54,000 (year 1)",
-   "degreeMin": "2:1",
-   "ucasMin": 128,
-   "alevels": "ABB",
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:1 (achieved or predicted), any subject; ABB or 128 UCAS points in one sitting, no resits",
-   "qual": "PGDL and/or LLM SQE fees + maintenance grant",
-   "notes": "Birmingham, Manchester and Leeds training contracts (Sep 2029) are filled only through the 2027 vacation placements. Only London trainees can be visa-sponsored.",
-   "links": {},
-   "checked": "2026-11-04"
-  },
-  {
    "id": "osborne-clarke-tc-2029-london",
    "emp": "Osborne Clarke",
    "title": "Training Contract 2029 – London",
@@ -6405,76 +6147,6 @@
    "checked": "2026-11-01"
   },
   {
-   "id": "bny-client-coverage-man",
-   "emp": "BNY",
-   "title": "2027 BNY Analyst Program – Client Coverage (Manchester)",
-   "url": "https://www.gradcracker.com/hub/1489/bny/graduate-job/83558/2027-bny-analyst-program-client-coverage",
-   "src": "Gradcracker",
-   "disciplines": [
-    "business",
-    "economics",
-    "computing",
-    "maths-physics",
-    "accounting-finance"
-   ],
-   "area": "Banking & markets",
-   "cities": [
-    "Manchester",
-    "London"
-   ],
-   "start": "2027",
-   "dl": "2026-11-04",
-   "dlNote": "Manchester ongoing; London (targetjobs) apply by 4 Nov 2026",
-   "status": "open",
-   "salary": "Competitive",
-   "degreeMin": "2:1",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:1; business, economics, IT, maths, statistics or project management preferred",
-   "qual": "None",
-   "notes": "24-month rotational programme. Must graduate Dec 2026 or summer 2027 and not need visa sponsorship now or later.",
-   "links": {
-    "Manchester": "https://www.gradcracker.com/hub/1489/bny/graduate-job/83558/2027-bny-analyst-program-client-coverage",
-    "London": "https://targetjobs.co.uk/jobs/2027-bny-analyst-program-client-coverage-london-249603"
-   },
-   "checked": "2026-11-04"
-  },
-  {
-   "id": "bny-data-science-man",
-   "emp": "BNY",
-   "title": "2027 BNY Analyst Program – Engineering (Data Science) (Manchester)",
-   "url": "https://www.gradcracker.com/hub/1489/bny/graduate-job/83567/2027-bny-analyst-program-engineering-data-science",
-   "src": "Gradcracker",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Data & analytics",
-   "cities": [
-    "Manchester"
-   ],
-   "start": "2027",
-   "dl": "2026-11-04",
-   "dlNote": "Ongoing – apply early",
-   "status": "open",
-   "salary": "Competitive",
-   "degreeMin": "2:1",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:1, any subject (business or technology preferred)",
-   "qual": "None",
-   "notes": "24-month rotational programme. Must graduate Dec 2026 or summer 2027 and not need visa sponsorship now or later.",
-   "links": {},
-   "checked": "2026-11-01"
-  },
-  {
    "id": "atkinsrealis-data-intelligence",
    "emp": "AtkinsRéalis",
    "title": "Data Intelligence Graduate Scheme 2027",
@@ -6853,68 +6525,6 @@
    "reqText": "2:1+ in a highly numerate degree (or 2:2 plus a highly numerate postgraduate degree); mixed degrees need 50%+ numerate content",
    "qual": "None",
    "notes": "3.5-year scheme; ~12-month postings across departments (2026 intake incl. London, North West, West Midlands, Yorkshire); must be eligible to work in UK."
-  },
-  {
-   "alevelSubject": null,
-   "licence": false,
-   "links": {},
-   "checked": "2026-11-04",
-   "id": "n12-bny-investments-london",
-   "emp": "BNY",
-   "title": "2027 BNY Analyst Program – Investments (London)",
-   "url": "https://targetjobs.co.uk/jobs/2027-bny-analyst-program-investments-london-249649",
-   "src": "TargetJobs",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Asset & wealth management",
-   "cities": [
-    "London"
-   ],
-   "start": "2027 (start date not stated; for Summer 2027 graduates)",
-   "dl": "2026-11-04",
-   "dlNote": "",
-   "status": "open",
-   "salary": "Not stated",
-   "degreeMin": "2:1",
-   "ucasMin": null,
-   "alevels": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "reqText": "On track for 2:1+; 3/4-year undergraduate degree; business/technology degrees preferred; graduating Dec 2026 or Summer 2027",
-   "qual": "None",
-   "notes": "24-month rotational programme, in person; no visa sponsorship now or in future."
-  },
-  {
-   "alevelSubject": null,
-   "licence": false,
-   "links": {},
-   "checked": "2026-11-04",
-   "id": "n12-bny-credit-lending-london",
-   "emp": "BNY",
-   "title": "2027 BNY Analyst Program – Credit & Lending (London)",
-   "url": "https://targetjobs.co.uk/jobs/2027-bny-analyst-program-credit-lending-london-249607",
-   "src": "TargetJobs",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Banking & markets",
-   "cities": [
-    "London"
-   ],
-   "start": "2027 (start date not stated; for Summer 2027 graduates)",
-   "dl": "2026-11-04",
-   "dlNote": "",
-   "status": "open",
-   "salary": "Not stated",
-   "degreeMin": "2:1",
-   "ucasMin": null,
-   "alevels": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "reqText": "Minimum 2:1; 3/4-year undergraduate degree; business/technology degrees preferred; graduating Summer 2027",
-   "qual": "None",
-   "notes": "24-month rotational programme in BNY's Credit & Lending practice; no visa sponsorship now or in future."
   },
   {
    "alevelSubject": null,
@@ -7988,37 +7598,6 @@
    "checked": "2026-10-22"
   },
   {
-   "id": "a22-bny-engineering-developer-man",
-   "emp": "BNY",
-   "title": "2027 BNY Analyst Program - Engineering (Developer) (Manchester)",
-   "url": "https://targetjobs.co.uk/jobs/2027-bny-analyst-program-engineering-developer-manchester-249643",
-   "src": "TargetJobs",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Technology",
-   "cities": [
-    "Manchester"
-   ],
-   "start": "2027 (not stated; for 2027 graduates)",
-   "dl": "2026-11-04",
-   "dlNote": "",
-   "status": "open",
-   "salary": "Not stated",
-   "degreeMin": "2:1",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "On track for 2:1; graduating 2027; business and/or technology majors preferred; UCAS/A-level/GCSE not stated",
-   "qual": "None",
-   "notes": "24-month rotational analyst programme, in person. No visa sponsorship now or in future.",
-   "links": {},
-   "checked": "2026-11-01"
-  },
-  {
    "id": "a22-bny-delivery-man",
    "emp": "BNY",
    "title": "2027 BNY Analyst Program - Delivery",
@@ -8798,45 +8377,6 @@
    "notes": "Two-year programme; ~3 days/week in office, live within commute; one pathway application only; indefinite UK right to work needed, no visa sponsorship",
    "links": {},
    "checked": "2026-10-29"
-  },
-  {
-   "id": "o30-kpmg-tax-graduate-birmingham-leeds-manchester",
-   "emp": "KPMG",
-   "title": "KPMG 2027 Tax Graduate Programme",
-   "url": "https://targetjobs.co.uk/jobs/kpmg-2027-tax-graduate-programme-manchester-243577",
-   "src": "TargetJobs (city listings + national listing); KPMG careers site could not be opened",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Tax",
-   "cities": [
-    "Birmingham",
-    "Leeds",
-    "Manchester",
-    "London"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-11-04",
-   "dlNote": "City listings (Birmingham/Leeds/Manchester) close 4 Nov 2026; TargetJobs national listing shows 19 Nov 2026. KPMG recruits on a rolling basis – may close early",
-   "status": "open",
-   "salary": "Not stated",
-   "degreeMin": null,
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "Not stated on the posting (refers to KPMG careers portal)",
-   "qual": "ACA (CA/ICAS in Scotland)",
-   "notes": "Hybrid working. Separate TargetJobs listings per city.",
-   "checked": "2026-11-01",
-   "links": {
-    "Birmingham": "https://targetjobs.co.uk/jobs/kpmg-2027-tax-graduate-programme-birmingham-243525",
-    "Leeds": "https://targetjobs.co.uk/jobs/kpmg-2027-tax-graduate-programme-leeds-243573",
-    "Manchester": "https://targetjobs.co.uk/jobs/kpmg-2027-tax-graduate-programme-manchester-243577",
-    "London": "https://targetjobs.co.uk/jobs/kpmg-2027-tax-graduate-programme-250595"
-   }
   },
   {
    "id": "o30d-marshall-wace-software-infrastructure-graduate-london",
@@ -9654,6 +9194,216 @@
    "notes": "2-year Explorer Programme (three 8-month rotations) at Canary Wharf, Aug 2027–Aug 2029; no visa sponsorship. Ref JR-0000129206.",
    "checked": "2026-11-04",
    "links": {}
+  },
+  {
+   "id": "n05-aon-commercial-risk-reinsurance-broking",
+   "emp": "Aon",
+   "title": "Aon Graduate Programme 2027 - Commercial Risk and Reinsurance Broking",
+   "url": "https://targetjobs.co.uk/jobs/aon-graduate-programme-2027-commercial-risk-and-reinsurance-broking-251209",
+   "src": "TargetJobs (Aon verified employer listing; Aon job board posting 107780 not fetchable)",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Insurance & risk",
+   "cities": [
+    "London",
+    "Liverpool",
+    "Glasgow"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-12-07",
+   "dlNote": "may close earlier if enough applications are received",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": "2:1",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:1 (or equivalent) in any degree subject; UCAS, A-levels and GCSEs not stated",
+   "qual": "CII Level 4 Diploma in Insurance (Go Further Apprenticeship, paid study leave)",
+   "notes": "Commercial Risk roles in London, Glasgow or Liverpool; Reinsurance roles London only. First 6 months office-based, then at least 3-4 days a week face to face.",
+   "links": {},
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "n05-aon-commercial-risk-consulting-london",
+   "emp": "Aon",
+   "title": "Aon Graduate Programme 2027 - Commercial Risk Consulting",
+   "url": "https://targetjobs.co.uk/jobs/aon-graduate-programme-2027-commercial-risk-consulting-255033",
+   "src": "TargetJobs (Aon verified employer listing)",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Insurance & risk",
+   "cities": [
+    "London"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-12-07",
+   "dlNote": "may close earlier",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": "2:1",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:1 (or equivalent) in any degree subject; UCAS, A-levels and GCSEs not stated",
+   "qual": "CII Level 4 Diploma in Insurance (paid study leave)",
+   "notes": "In person: first 6 months office-based, then at least 3-4 days a week face to face. Must show right to work in the UK throughout the role.",
+   "links": {},
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "n05-aon-catastrophe-modelling-london",
+   "emp": "Aon",
+   "title": "Aon Graduate Programme 2027 - Catastrophe Modelling",
+   "url": "https://targetjobs.co.uk/jobs/aon-graduate-programme-2027-catastrophe-modelling-251193",
+   "src": "TargetJobs (Aon verified employer listing)",
+   "disciplines": [
+    "maths-physics",
+    "accounting-finance",
+    "economics",
+    "sciences",
+    "computing",
+    "engineering",
+    "social-sciences"
+   ],
+   "area": "Insurance & risk",
+   "cities": [
+    "London"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-12-07",
+   "dlNote": "may close earlier",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": "2:1",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:1 (or equivalent) in maths/statistics, finance/economics, sciences/technology or similar quantitative field; geography (esp. with GIS) encouraged; Python/R useful, not essential; UCAS, A-levels, GCSEs not stated",
+   "qual": "CII Level 4 Diploma in Insurance (Go Further Apprenticeship, paid study leave)",
+   "notes": "Part of Aon Reinsurance. Assessment centres at the London office, usually from mid-January. Master's/PhD graduates welcome.",
+   "links": {},
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "n05-aon-data-solutions-wealth-birmingham",
+   "emp": "Aon",
+   "title": "Aon Graduate Programme 2027 - Data Solutions (Wealth Solutions) - Birmingham",
+   "url": "https://targetjobs.co.uk/jobs/aon-graduate-programme-2027-data-solutions-wealth-solutions-birmingham-251181",
+   "src": "TargetJobs (Aon verified employer listing)",
+   "disciplines": [
+    "accounting-finance",
+    "economics",
+    "maths-physics",
+    "engineering",
+    "computing",
+    "sciences"
+   ],
+   "area": "Data & analytics",
+   "cities": [
+    "Birmingham"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-12-07",
+   "dlNote": "may close earlier",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": "2:1",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:1 (or equivalent) in a numeric or data-related subject (not suitable for Data Science graduates); excellent Excel; UCAS, A-levels, GCSEs not stated",
+   "qual": "None",
+   "notes": "Works in Aon's Wealth Solutions (pensions) business; SQL/Python taught on the programme. Assessment centre in the Birmingham office. A separate Glasgow posting exists.",
+   "links": {},
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "n05b-accenture-software-engineering-birmingham-manchester",
+   "emp": "Accenture",
+   "title": "Software Engineering Graduate Programme 2027 - 2028 (Birmingham / Manchester)",
+   "url": "https://targetjobs.co.uk/jobs/birmingham-software-engineering-graduate-programme-2027-2028-249457",
+   "src": "TargetJobs (verified employer listing)",
+   "disciplines": [
+    "computing",
+    "maths-physics",
+    "sciences",
+    "engineering"
+   ],
+   "area": "Technology",
+   "cities": [
+    "Birmingham",
+    "Manchester"
+   ],
+   "start": "Sep 2027 (start dates Sep 2027 – Aug 2028, first come first served)",
+   "dl": "2026-11-28",
+   "dlNote": "No fixed deadline per Accenture – may close early once filled",
+   "status": "open",
+   "salary": "£36,400",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "Degree in Computer Science, IT or tech-related subject (Maths, Science, Engineering or Master's considered with strong coding); confident coder in at least one major language; degree class not stated",
+   "qual": "None",
+   "notes": "One application per year (one role, one location); in office at least 3 days a week and must live within commuting distance; £7,200 signing bonus (subject to terms).",
+   "links": {
+    "Birmingham": "https://targetjobs.co.uk/jobs/birmingham-software-engineering-graduate-programme-2027-2028-249457",
+    "Manchester": "https://targetjobs.co.uk/jobs/manchester-software-engineering-graduate-programme-2027-2028-249475"
+   },
+   "checked": "2026-11-05"
+  },
+  {
+   "id": "n05c-kpmg-audit-north",
+   "emp": "KPMG",
+   "title": "KPMG 2027 Audit Graduate Programme - North",
+   "url": "https://targetjobs.co.uk/jobs/kpmg-2027-audit-graduate-programme-north-250599",
+   "src": "TargetJobs (KPMG listing); Prospects (KPMG Graduate Programmes 2027)",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Audit & accounting",
+   "cities": [
+    "Leeds",
+    "Manchester",
+    "Newcastle"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-11-19",
+   "dlNote": "Separate Leeds posting closes 11 Nov 2026",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "Not stated (listing refers to KPMG Careers Portal for entry requirements); Prospects lists any degree subject",
+   "qual": "ACA",
+   "notes": "Hybrid working, with travel to clients and busy seasonal periods. The listing may cover more locations ('View all locations').",
+   "links": {
+    "Leeds": "https://targetjobs.co.uk/jobs/kpmg-2027-audit-graduate-programme-leeds-243567"
+   },
+   "checked": "2026-11-05"
   }
  ]
 }
