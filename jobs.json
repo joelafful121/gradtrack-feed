@@ -1,6 +1,6 @@
 {
  "app": "GradTrack 2027",
- "updated": "2026-11-05",
+ "updated": "2026-11-06",
  "roles": [
   {
    "id": "nationwide-treasury",
@@ -280,41 +280,6 @@
    "loc": "1 Churchill Place, Canary Wharf",
    "why": "Investment banking at a UK bulge-bracket bank.",
    "rank": 35
-  },
-  {
-   "id": "hmt-policy",
-   "emp": "HM Treasury",
-   "title": "Graduate Policy Programme 2027",
-   "url": "https://www.brightnetwork.co.uk/graduate-jobs/hm-treasury/graduate-policy-programme-2027",
-   "src": "Bright Network",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Public sector",
-   "cities": [
-    "London",
-    "Darlington"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-11-05",
-   "dlNote": "",
-   "status": "open",
-   "salary": "£39,130 (London)",
-   "degreeMin": "2:2",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:2, any subject",
-   "qual": "None",
-   "notes": "Policy, not accounting. Nationality rules and security clearance apply. Pick London.",
-   "links": {},
-   "checked": "2026-11-01",
-   "loc": "London (or Darlington)",
-   "why": "Prestigious public-sector start – more policy than finance.",
-   "rank": 39
   },
   {
    "id": "ms-food",
@@ -1098,40 +1063,6 @@
    "loc": "Brighton, Luton, Plymouth"
   },
   {
-   "id": "fast-stream",
-   "emp": "Civil Service Fast Stream",
-   "title": "Civil Service Fast Stream 2027 (18 schemes)",
-   "url": "https://www.civil-service-careers.gov.uk/fast-stream/fs-all-schemes",
-   "src": "Civil Service Careers",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Public sector",
-   "cities": [
-    "UK-wide"
-   ],
-   "start": "6 Sep or 4 Oct 2027",
-   "dl": "2026-11-05",
-   "dlNote": "",
-   "status": "open",
-   "salary": "£31,554 starting (potential £45,000-£55,000 after programme)",
-   "degreeMin": "2:2",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "Most schemes accept any degree subject; specialist schemes (e.g. economics, statistics, science & engineering) ask for a related degree",
-   "qual": "None",
-   "notes": "Closes at midday on 5 Nov 2026. Apply to up to 3 schemes. You can't choose your department or city – postings can be anywhere in the UK. Nationality rules apply.",
-   "links": {},
-   "checked": "2026-11-04",
-   "rank": null,
-   "why": "",
-   "loc": "UK-wide"
-  },
-  {
    "id": "softwire-se",
    "emp": "Softwire",
    "title": "Graduate Consultant Software Engineer 2027",
@@ -1815,37 +1746,6 @@
    "notes": "",
    "links": {},
    "checked": "2026-11-04"
-  },
-  {
-   "id": "cowi-bridge-bristol",
-   "emp": "COWI",
-   "title": "Graduate Engineer (Bridge & Structures) 2027",
-   "url": "https://www.brightnetwork.co.uk/graduate-jobs/cowi/graduate-engineer-bridge-structures-bristol-2027-anbi",
-   "src": "Bright Network",
-   "disciplines": [
-    "engineering"
-   ],
-   "area": "Engineering",
-   "cities": [
-    "Bristol"
-   ],
-   "start": "Not stated",
-   "dl": "2026-11-05",
-   "dlNote": "",
-   "status": "open",
-   "salary": "Not stated",
-   "degreeMin": null,
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "Civil or structural engineering (or closely related)",
-   "qual": "None",
-   "notes": "Two professional institution memberships paid. Hybrid.",
-   "links": {},
-   "checked": "2026-11-01"
   },
   {
    "id": "cowi-civil-york",
@@ -5109,45 +5009,6 @@
    "checked": "2026-11-04"
   },
   {
-   "id": "hymans-actuarial",
-   "emp": "Hymans Robertson",
-   "title": "Actuarial Consulting & Analytics Graduate Programme 2027",
-   "url": "https://www.gradcracker.com/hub/817/hymans-robertson/graduate-job/84761/actuarial-consulting-and-analytics-graduate-programme",
-   "src": "Gradcracker",
-   "disciplines": [
-    "maths-physics",
-    "economics",
-    "accounting-finance",
-    "computing",
-    "engineering",
-    "sciences"
-   ],
-   "area": "Insurance & risk",
-   "cities": [
-    "Birmingham",
-    "London",
-    "Edinburgh",
-    "Glasgow"
-   ],
-   "start": "Not stated",
-   "dl": "2026-11-05",
-   "dlNote": "Rolling – apply early",
-   "status": "open",
-   "salary": "£32,500–£34,500 (by location)",
-   "degreeMin": null,
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "Any degree; analytics, statistics, data science, economics, finance or maths preferred",
-   "qual": "IFoA exams with study support",
-   "notes": "Hybrid working.",
-   "links": {},
-   "checked": "2026-10-11"
-  },
-  {
    "id": "deloitte-assurance-man",
    "emp": "Deloitte",
    "title": "Assurance Graduate Scheme 2027 – Manchester",
@@ -5958,195 +5819,6 @@
    "checked": "2026-10-30"
   },
   {
-   "id": "fs-hr",
-   "emp": "Civil Service Fast Stream",
-   "title": "HR Fast Stream 2027",
-   "url": "https://www.civil-service-careers.gov.uk/fast-stream/fs-all-schemes/fs-human-resources-scheme/",
-   "src": "Civil Service Careers",
-   "disciplines": [
-    "any"
-   ],
-   "area": "HR & people",
-   "cities": [
-    "UK-wide"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-11-05",
-   "dlNote": "Closes midday",
-   "status": "open",
-   "salary": "Around £31,500+ (about £49k–£60k after the scheme)",
-   "degreeMin": "2:2",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:2 or higher in any subject",
-   "qual": "Postgraduate Diploma in HR Management (CIPD Level 7)",
-   "notes": "Part of the Fast Stream (closes midday 5 Nov 2026; apply to up to 3 schemes). You can't choose your department or city – 2026 postings included London, the North West, West Midlands and Yorkshire.",
-   "links": {},
-   "checked": "2026-11-04"
-  },
-  {
-   "id": "fs-finance",
-   "emp": "Civil Service Fast Stream",
-   "title": "Finance Fast Stream 2027",
-   "url": "https://www.civil-service-careers.gov.uk/fast-stream/fs-all-schemes/fs-finance-scheme",
-   "src": "Civil Service Careers",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Corporate finance",
-   "cities": [
-    "UK-wide"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-11-05",
-   "dlNote": "",
-   "status": "open",
-   "salary": "Around £31,500+ (about £45k–£55k after the scheme)",
-   "degreeMin": "2:1",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:1 or higher in any subject",
-   "qual": "Professional accountancy qualification, fully funded",
-   "notes": "Part of the Fast Stream (closes midday 5 Nov 2026; apply to up to 3 schemes). You can't choose your department or city – 2026 postings included London, the North West, West Midlands and Yorkshire.",
-   "links": {},
-   "checked": "2026-11-01"
-  },
-  {
-   "id": "fs-digital",
-   "emp": "Civil Service Fast Stream",
-   "title": "Digital Fast Stream 2027",
-   "url": "https://www.civil-service-careers.gov.uk/fast-stream/fs-all-schemes/fs-digital-scheme",
-   "src": "Civil Service Careers",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Technology",
-   "cities": [
-    "UK-wide"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-11-05",
-   "dlNote": "",
-   "status": "open",
-   "salary": "Around £31,500+ (about £45k–£55k after the scheme)",
-   "degreeMin": "2:2",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:2 or higher in any subject",
-   "qual": "None",
-   "notes": "Technical roles need SC security clearance. Part of the Fast Stream (closes midday 5 Nov 2026; apply to up to 3 schemes). You can't choose your department or city – 2026 postings included London, the North West, West Midlands and Yorkshire.",
-   "links": {},
-   "checked": "2026-11-04"
-  },
-  {
-   "id": "fs-commercial",
-   "emp": "Civil Service Fast Stream",
-   "title": "Commercial Fast Stream 2027",
-   "url": "https://www.civil-service-careers.gov.uk/fast-stream/fs-all-schemes/fs-commercial-scheme/",
-   "src": "Civil Service Careers",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Operations & supply chain",
-   "cities": [
-    "UK-wide"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-11-05",
-   "dlNote": "",
-   "status": "open",
-   "salary": "Around £31,500+",
-   "degreeMin": "2:2",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:2 or higher in any subject",
-   "qual": "CIPS Practitioner and Advanced Practitioner, fully funded",
-   "notes": "Part of the Fast Stream (closes midday 5 Nov 2026; apply to up to 3 schemes). You can't choose your department or city – 2026 postings included London, the North West, West Midlands and Yorkshire.",
-   "links": {},
-   "checked": "2026-11-04"
-  },
-  {
-   "id": "fs-project-delivery",
-   "emp": "Civil Service Fast Stream",
-   "title": "Project Delivery Fast Stream 2027",
-   "url": "https://www.civil-service-careers.gov.uk/fast-stream/fs-all-schemes/fs-project-delivery-scheme/",
-   "src": "Civil Service Careers",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Operations & supply chain",
-   "cities": [
-    "UK-wide"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-11-05",
-   "dlNote": "",
-   "status": "open",
-   "salary": "Around £31,500+ (about £45k–£55k after the scheme)",
-   "degreeMin": "2:2",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:2 or higher in any subject",
-   "qual": "Project qualifications such as APM PMQ and PRINCE2",
-   "notes": "Part of the Fast Stream (closes midday 5 Nov 2026; apply to up to 3 schemes). You can't choose your department or city – 2026 postings included London, the North West, West Midlands and Yorkshire.",
-   "links": {},
-   "checked": "2026-11-01"
-  },
-  {
-   "id": "fs-science-engineering",
-   "emp": "Civil Service Fast Stream",
-   "title": "Science and Engineering Fast Stream 2027",
-   "url": "https://www.civil-service-careers.gov.uk/fast-stream/fs-all-schemes/fs-science-engineering-scheme/",
-   "src": "Civil Service Careers",
-   "disciplines": [
-    "sciences",
-    "engineering",
-    "maths-physics",
-    "computing"
-   ],
-   "area": "Science & healthcare",
-   "cities": [
-    "UK-wide"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-11-05",
-   "dlNote": "",
-   "status": "open",
-   "salary": "Around £31,500+",
-   "degreeMin": "2:1",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:1 undergraduate degree (any subject) plus a postgraduate degree in science or engineering, or chartered status",
-   "qual": "None",
-   "notes": "Needs a science or engineering postgraduate degree before you start. Part of the Fast Stream (closes midday 5 Nov 2026; apply to up to 3 schemes). You can't choose your department or city – 2026 postings included London, the North West, West Midlands and Yorkshire.",
-   "links": {},
-   "checked": "2026-11-01"
-  },
-  {
    "id": "atkinsrealis-data-intelligence",
    "emp": "AtkinsRéalis",
    "title": "Data Intelligence Graduate Scheme 2027",
@@ -6390,40 +6062,6 @@
    "checked": "2026-11-04"
   },
   {
-   "id": "fs-gsr",
-   "emp": "Civil Service Fast Stream",
-   "title": "Government Social Research Fast Stream 2027",
-   "url": "https://www.civil-service-careers.gov.uk/fast-stream/fs-all-schemes/fs-government-social-research",
-   "src": "Civil Service Careers",
-   "disciplines": [
-    "psychology",
-    "social-sciences",
-    "economics",
-    "humanities"
-   ],
-   "area": "Public sector",
-   "cities": [
-    "UK-wide"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-11-05",
-   "dlNote": "",
-   "status": "open",
-   "salary": "Around £31,500+ (about £45k–£55k after the scheme)",
-   "degreeMin": "2:2",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:1 (or a 2:2 plus a postgraduate degree) in a subject with substantial social research methods – about a third of modules, including quantitative methods; psychology, sociology, social policy, politics, criminology and geography degrees often qualify",
-   "qual": "None",
-   "notes": "Check your degree's methods modules against the list on the scheme page. Part of the Fast Stream (closes midday 5 Nov 2026; apply to up to 3 schemes). You can't choose your department – 2026 postings were in London, the West Midlands and Wales.",
-   "links": {},
-   "checked": "2026-11-01"
-  },
-  {
    "alevelSubject": null,
    "licence": false,
    "links": {},
@@ -6453,78 +6091,6 @@
    "reqText": "Not stated on posting (no degree class, subject, UCAS or GCSE requirements listed)",
    "qual": "None",
    "notes": "Hybrid, min 3 days/week at London Blackfriars or Kingston office; apply to ONE function only; 3-year programme, £5,000 relocation loan."
-  },
-  {
-   "alevelSubject": null,
-   "licence": false,
-   "links": {},
-   "checked": "2026-11-01",
-   "id": "n12-fast-stream-gss",
-   "emp": "Civil Service Fast Stream",
-   "title": "Government Statistical Service Fast Stream 2027",
-   "url": "https://www.civil-service-careers.gov.uk/fast-stream/fs-all-schemes/fs-government-statistical-service-scheme/",
-   "src": "Civil Service Careers (official scheme page)",
-   "disciplines": [
-    "maths-physics",
-    "computing",
-    "economics",
-    "sciences",
-    "psychology",
-    "social-sciences"
-   ],
-   "area": "Data & analytics",
-   "cities": [
-    "UK-wide"
-   ],
-   "start": "Sep/Oct 2027 (6 Sep or 4 Oct 2027)",
-   "dl": "2026-11-05",
-   "dlNote": "Closes midday 5 Nov 2026",
-   "status": "open",
-   "salary": "£31,554",
-   "degreeMin": "2:1",
-   "ucasMin": null,
-   "alevels": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "reqText": "2:1 in a numerate subject with taught statistics (e.g. statistics, data science, maths, economics, sciences, psychology, geography) or a stats-heavy MSc/PhD",
-   "qual": "None",
-   "notes": "Postings by department (2026 intake incl. London, North West, West Midlands, Yorkshire); must be eligible to work in UK; you cannot choose your department."
-  },
-  {
-   "alevelSubject": null,
-   "licence": false,
-   "links": {},
-   "checked": "2026-11-04",
-   "id": "n12-fast-stream-gors",
-   "emp": "Civil Service Fast Stream",
-   "title": "Government Operational Research Service Fast Stream 2027",
-   "url": "https://www.civil-service-careers.gov.uk/fast-stream/fs-all-schemes/fs-government-operational-research-service-scheme",
-   "src": "Civil Service Careers (official scheme page)",
-   "disciplines": [
-    "maths-physics",
-    "engineering",
-    "computing",
-    "economics",
-    "accounting-finance",
-    "sciences"
-   ],
-   "area": "Data & analytics",
-   "cities": [
-    "UK-wide"
-   ],
-   "start": "Sep/Oct 2027 (6 Sep or 4 Oct 2027)",
-   "dl": "2026-11-05",
-   "dlNote": "Closes midday 5 Nov 2026",
-   "status": "open",
-   "salary": "£31,554",
-   "degreeMin": "2:1",
-   "ucasMin": null,
-   "alevels": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "reqText": "2:1+ in a highly numerate degree (or 2:2 plus a highly numerate postgraduate degree); mixed degrees need 50%+ numerate content",
-   "qual": "None",
-   "notes": "3.5-year scheme; ~12-month postings across departments (2026 intake incl. London, North West, West Midlands, Yorkshire); must be eligible to work in UK."
   },
   {
    "alevelSubject": null,
@@ -9404,6 +8970,68 @@
     "Leeds": "https://targetjobs.co.uk/jobs/kpmg-2027-audit-graduate-programme-leeds-243567"
    },
    "checked": "2026-11-05"
+  },
+  {
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "ucasMin": null,
+   "alevels": null,
+   "links": {},
+   "checked": "2026-11-06",
+   "id": "lloyds-risk-graduate-leeds",
+   "emp": "Lloyds Banking Group",
+   "title": "Risk Graduate Scheme - Leeds",
+   "url": "https://targetjobs.co.uk/jobs/risk-graduate-scheme-leeds-239619",
+   "src": "TargetJobs (Lloyds Banking Group verified employer listing)",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Insurance & risk",
+   "cities": [
+    "Leeds"
+   ],
+   "start": "Not stated",
+   "dl": "2026-11-08",
+   "dlNote": "Leeds closes 8 Nov; London, Birmingham, Bristol and Edinburgh already closed; may close early",
+   "status": "open",
+   "salary": "£42,000",
+   "degreeMin": null,
+   "reqText": "No minimum degree grade or subject stated; UCAS, A-levels and GCSEs not stated",
+   "qual": "Optional: FRM, Global Credit Certificate, Chartered Banker Diploma or ICA Diploma in GRC",
+   "notes": "Whole scheme based in one location; hybrid, at least 2 office days a week. No visa sponsorship."
+  },
+  {
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "ucasMin": null,
+   "alevels": null,
+   "links": {},
+   "checked": "2026-11-06",
+   "id": "barclays-risk-analyst-graduate-london",
+   "emp": "Barclays",
+   "title": "2027 Risk Analyst Graduate Programme - London",
+   "url": "https://targetjobs.co.uk/jobs/2027-risk-analyst-graduate-programme-london-245271",
+   "src": "TargetJobs (Barclays verified employer listing)",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Insurance & risk",
+   "cities": [
+    "London"
+   ],
+   "start": "Aug 2027",
+   "dl": "2026-11-21",
+   "dlNote": "TargetJobs lists 21 Nov 2026; the ad text still says 25 Sep 2026 – may close early",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": null,
+   "reqText": "\"Strong degree\" (or expected before June 2027); no subject or grade stated; UCAS, A-levels and GCSEs not stated",
+   "qual": "None stated",
+   "notes": "2-year Explorer Programme, three 8-month rotations, Canary Wharf. Skilled worker visa sponsorship available if eligible."
   }
  ]
 }
