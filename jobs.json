@@ -1,6 +1,6 @@
 {
  "app": "GradTrack 2027",
- "updated": "2026-11-15",
+ "updated": "2026-11-16",
  "roles": [
   {
    "id": "fca-reg",
@@ -41,40 +41,6 @@
    "loc": "London, 50%+ in office",
    "why": "Regulator career with good pay – but you may prefer to wait for FCA Accountancy & Finance.",
    "rank": 16
-  },
-  {
-   "id": "fidelity-er",
-   "emp": "Fidelity International",
-   "title": "Equity Research Graduate Programme 2027",
-   "url": "https://targetjobs.co.uk/jobs/equity-research-graduate-programme-2027-london-240539",
-   "src": "TargetJobs",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Asset & wealth management",
-   "cities": [
-    "London"
-   ],
-   "start": "2027 (not stated)",
-   "dl": "2026-11-15",
-   "dlNote": "",
-   "status": "open",
-   "salary": "Not stated",
-   "degreeMin": null,
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "Any degree, graduating 2027",
-   "qual": "Not stated",
-   "notes": "Assessment centres run Nov–Dec.",
-   "links": {},
-   "checked": "2026-11-15",
-   "loc": "London EC4M",
-   "why": "Rare buy-side research entry point that values financial-statement skills.",
-   "rank": 18
   },
   {
    "id": "sc-spm",
@@ -600,7 +566,8 @@
    ],
    "area": "Audit & accounting",
    "cities": [
-    "Manchester"
+    "Manchester",
+    "Leeds"
    ],
    "start": "Sep 2027",
    "dl": "2026-11-28",
@@ -617,7 +584,10 @@
    "reqText": "2:1, any subject; no UCAS or A-level bar stated",
    "qual": "ACA (ICAEW)",
    "notes": "Deloitte allows one early-careers application a year.",
-   "links": {},
+   "links": {
+    "Manchester": "https://targetjobs.co.uk/jobs/audit-assurance-full-time-graduate-manchester-249035",
+    "Leeds": "https://higherin.com/jobs/45230/deloitte/audit-assurance-full-time-graduate"
+   },
    "checked": "2026-10-30",
    "rank": null,
    "why": "",
@@ -712,90 +682,6 @@
    "rank": null,
    "why": "",
    "loc": "London, Liverpool, Manchester, Leeds"
-  },
-  {
-   "id": "bdo-audit-scotland",
-   "emp": "BDO",
-   "title": "Audit Graduate Programme – Scotland 2027",
-   "url": "https://www.brightnetwork.co.uk/graduate-jobs/bdo/audit-graduate-programme-scotland-2027-amvt",
-   "src": "Bright Network",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Audit & accounting",
-   "cities": [
-    "Edinburgh",
-    "Glasgow"
-   ],
-   "start": "20 Sep 2027",
-   "dl": "2026-11-15",
-   "dlNote": "",
-   "status": "open",
-   "salary": "£29,000",
-   "degreeMin": "2:2",
-   "ucasMin": null,
-   "alevels": "CCC",
-   "alevelSubject": null,
-   "gcseMaths": 4,
-   "gcseEnglish": 4,
-   "licence": false,
-   "reqText": "2:2, any subject; three A-levels at A*–C (or four Highers at A–B); GCSE Maths & English grade 4",
-   "qual": "CA (ICAS)",
-   "notes": "",
-   "links": {},
-   "checked": "2026-11-15",
-   "rank": null,
-   "why": "",
-   "loc": "Edinburgh, Glasgow"
-  },
-  {
-   "id": "bdo-tax",
-   "emp": "BDO",
-   "title": "Tax Graduate Programme 2027",
-   "url": "https://www.brightnetwork.co.uk/graduate-jobs/bdo/tax-graduate-programme-midlands-2027-amw9",
-   "src": "Bright Network / Gradcracker",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Tax",
-   "cities": [
-    "Birmingham",
-    "Nottingham",
-    "London",
-    "Leeds",
-    "Manchester",
-    "Bristol",
-    "Edinburgh",
-    "Glasgow",
-    "East Anglia"
-   ],
-   "start": "20 Sep 2027",
-   "dl": "2026-11-15",
-   "dlNote": "",
-   "status": "open",
-   "salary": "£29,000 (Midlands)",
-   "degreeMin": "2:2",
-   "ucasMin": null,
-   "alevels": "CCC",
-   "alevelSubject": null,
-   "gcseMaths": 4,
-   "gcseEnglish": 4,
-   "licence": false,
-   "reqText": "2:2, any subject; three A-levels at A*–C (or four Highers at A–B); GCSE Maths & English grade 4",
-   "qual": "ACA/CTA or AAT/CTA",
-   "notes": "Same programme runs in several regions – apply to the one where you want to work.",
-   "links": {
-    "Birmingham": "https://www.brightnetwork.co.uk/graduate-jobs/bdo/tax-graduate-programme-midlands-2027-amw9",
-    "East Anglia": "https://www.brightnetwork.co.uk/graduate-jobs/bdo/tax-graduate-programme-east-anglia-2027-amw8",
-    "London": "https://www.gradcracker.com/hub/846/bdo/graduate-job/84084/2027-tax-graduate-programme-london",
-    "Leeds / Manchester": "https://www.gradcracker.com/hub/846/bdo/graduate-job/84091/2027-tax-graduate-programme-north-east-and-west",
-    "Bristol": "https://www.gradcracker.com/hub/846/bdo/graduate-job/84094/2027-tax-graduate-programme-south-west",
-    "Edinburgh / Glasgow": "https://www.gradcracker.com/hub/846/bdo/graduate-job/84095/2027-tax-graduate-programme-scotland"
-   },
-   "checked": "2026-11-15",
-   "rank": null,
-   "why": "",
-   "loc": "Birmingham, Nottingham, London, Leeds, Manchester, Bristol, Edinburgh, Glasgow, East Anglia"
   },
   {
    "id": "barclays-tech-dev",
@@ -1445,41 +1331,6 @@
    "checked": "2026-10-23"
   },
   {
-   "id": "gleeds-qs-oxford",
-   "emp": "Gleeds",
-   "title": "Graduate Quantity Surveyor 2027",
-   "url": "https://www.brightnetwork.co.uk/graduate-jobs/gleeds/graduate-quantity-surveyor-oxford-2027-aoh1",
-   "src": "Bright Network",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Property & construction",
-   "cities": [
-    "Oxford",
-    "Cambridge"
-   ],
-   "start": "Not stated",
-   "dl": "2026-11-15",
-   "dlNote": "",
-   "status": "open",
-   "salary": "Not stated",
-   "degreeMin": null,
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "QS, surveying, construction management, maths or physics (other subjects welcome)",
-   "qual": "RICS/CIOB/APM accreditation costs paid",
-   "notes": "Needs UK right to work.",
-   "links": {
-    "Oxford": "https://www.brightnetwork.co.uk/graduate-jobs/gleeds/graduate-quantity-surveyor-oxford-2027-aoh1",
-    "Cambridge": "https://www.brightnetwork.co.uk/graduate-jobs/gleeds/graduate-quantity-surveyor-cambridge-2027-aofi"
-   },
-   "checked": "2026-10-25"
-  },
-  {
    "id": "willmott-dixon-mgmt",
    "emp": "Willmott Dixon",
    "title": "Graduate Management Trainee 2027",
@@ -1818,37 +1669,6 @@
    "notes": "At least 3 days a week at Asda House, Leeds. No visa sponsorship – you need the right to work in the UK.",
    "links": {},
    "checked": "2026-11-01"
-  },
-  {
-   "id": "hsbc-engineering-sheffield",
-   "emp": "HSBC",
-   "title": "Engineering Graduate 2027",
-   "url": "https://www.brightnetwork.co.uk/graduate-jobs/hsbc/graduate-engineering-2027",
-   "src": "Bright Network",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Technology",
-   "cities": [
-    "Sheffield"
-   ],
-   "start": "Jul 2027",
-   "dl": "2026-11-15",
-   "dlNote": "May close early",
-   "status": "open",
-   "salary": "Not stated",
-   "degreeMin": "2:1",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:1, any degree subject",
-   "qual": "Industry certifications funded",
-   "notes": "Must be able to work in the UK without sponsorship for the whole programme.",
-   "links": {},
-   "checked": "2026-11-15"
   },
   {
    "id": "appian-associate-consultant",
@@ -2390,38 +2210,6 @@
    "notes": "",
    "links": {},
    "checked": "2026-10-11"
-  },
-  {
-   "id": "bdo-advisory-scotland",
-   "emp": "BDO",
-   "title": "Advisory Graduate Programme – Scotland 2027",
-   "url": "https://www.brightnetwork.co.uk/graduate-jobs/bdo/advisory-graduate-programme-scotland-2027-amw3",
-   "src": "Bright Network",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Corporate finance",
-   "cities": [
-    "Edinburgh",
-    "Glasgow"
-   ],
-   "start": "20 Sep 2027",
-   "dl": "2026-11-15",
-   "dlNote": "",
-   "status": "open",
-   "salary": "£29,000",
-   "degreeMin": "2:2",
-   "ucasMin": null,
-   "alevels": "CCC",
-   "alevelSubject": null,
-   "gcseMaths": 4,
-   "gcseEnglish": 4,
-   "licence": false,
-   "reqText": "2:2, any subject; three A-levels at A*–C (or four Highers at A–B); GCSE Maths & English grade 4",
-   "qual": "ACA or ICAS",
-   "notes": "No sponsorship or relocation – live within commuting distance.",
-   "links": {},
-   "checked": "2026-11-15"
   },
   {
    "id": "beazley-actuarial",
@@ -2997,106 +2785,6 @@
    "checked": "2026-11-07"
   },
   {
-   "id": "greencore-finance",
-   "emp": "Greencore",
-   "title": "Finance Graduate Programme 2027",
-   "url": "https://www.gradcracker.com/hub/654/greencore/graduate-job/82735/finance-graduate-programme",
-   "src": "Gradcracker",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Corporate finance",
-   "cities": [
-    "London",
-    "Lincolnshire",
-    "South West",
-    "Northampton",
-    "Worksop"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-11-15",
-   "dlNote": "",
-   "status": "open",
-   "salary": "£31,000 (+£3,600 London weighting)",
-   "degreeMin": "2:2",
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "2:2, any degree subject",
-   "qual": "CIMA",
-   "notes": "Needs UK right to work for 3+ years from Sep 2027. Assessment centre in Newark, 18 Feb 2027.",
-   "links": {},
-   "checked": "2026-11-14"
-  },
-  {
-   "id": "bdo-audit-south-east",
-   "emp": "BDO",
-   "title": "2027 Audit Graduate Programme – South East",
-   "url": "https://www.gradcracker.com/hub/846/bdo/graduate-job/84043/2027-audit-graduate-programme-south-east",
-   "src": "Gradcracker",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Audit & accounting",
-   "cities": [
-    "Guildford",
-    "Gatwick",
-    "Reading",
-    "Southampton"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-11-15",
-   "dlNote": "",
-   "status": "open",
-   "salary": "£30,000–£32,000",
-   "degreeMin": "2:2",
-   "ucasMin": null,
-   "alevels": "CCC",
-   "alevelSubject": null,
-   "gcseMaths": 4,
-   "gcseEnglish": 4,
-   "licence": false,
-   "reqText": "2:2, any subject; three A-levels at A*–C (or four Highers at A–B); GCSE Maths & English grade 4",
-   "qual": "ACA",
-   "notes": "Live within commuting distance – no relocation or visa sponsorship.",
-   "links": {},
-   "checked": "2026-11-15"
-  },
-  {
-   "id": "bdo-audit-tech-london",
-   "emp": "BDO",
-   "title": "2027 Audit Technology Graduate Programme",
-   "url": "https://www.gradcracker.com/hub/846/bdo/graduate-job/84050/2027-audit-technology-graduate-programme",
-   "src": "Gradcracker",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Audit & accounting",
-   "cities": [
-    "London"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-11-15",
-   "dlNote": "",
-   "status": "open",
-   "salary": "£33,000",
-   "degreeMin": "2:2",
-   "ucasMin": null,
-   "alevels": "CCC",
-   "alevelSubject": null,
-   "gcseMaths": 4,
-   "gcseEnglish": 4,
-   "licence": false,
-   "reqText": "2:2, any subject; three A-levels at A*–C (or four Highers at A–B); GCSE Maths & English grade 4",
-   "qual": "CFAB, Power BI, CISA – qualify as an accountant",
-   "notes": "Live within commuting distance – no relocation or visa sponsorship.",
-   "links": {},
-   "checked": "2026-11-15"
-  },
-  {
    "id": "mars-leadership",
    "emp": "Mars",
    "title": "Mars Leadership Experience 2027 – Graduate Programme",
@@ -3562,84 +3250,6 @@
     "Birmingham": "https://www.gradcracker.com/hub/301/deloitte/graduate-job/85198/graduate-tax-transformation-and-technology"
    },
    "checked": "2026-11-15"
-  },
-  {
-   "id": "bdo-audit-midlands-north",
-   "emp": "BDO",
-   "title": "2027 Audit Graduate Programme – Midlands & North",
-   "url": "https://www.gradcracker.com/hub/846/bdo/graduate-job/84046/2027-audit-graduate-programme-north-east-and-west",
-   "src": "Gradcracker",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Audit & accounting",
-   "cities": [
-    "Birmingham",
-    "Nottingham",
-    "Manchester",
-    "Liverpool",
-    "Leeds"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-11-15",
-   "dlNote": "",
-   "status": "open",
-   "salary": "£29,000",
-   "degreeMin": "2:2",
-   "ucasMin": null,
-   "alevels": "CCC",
-   "alevelSubject": null,
-   "gcseMaths": 4,
-   "gcseEnglish": 4,
-   "licence": false,
-   "reqText": "2:2 (or predicted), any degree; three A-levels at C or above",
-   "qual": "ACA",
-   "notes": "No visa sponsorship or relocation support – you must live within commuting distance of the office.",
-   "links": {
-    "Birmingham": "https://www.gradcracker.com/hub/846/bdo/graduate-job/84049/2027-audit-graduate-programme-midlands",
-    "Nottingham": "https://www.gradcracker.com/hub/846/bdo/graduate-job/84049/2027-audit-graduate-programme-midlands",
-    "Manchester": "https://www.gradcracker.com/hub/846/bdo/graduate-job/84046/2027-audit-graduate-programme-north-east-and-west",
-    "Liverpool": "https://www.gradcracker.com/hub/846/bdo/graduate-job/84046/2027-audit-graduate-programme-north-east-and-west",
-    "Leeds": "https://www.gradcracker.com/hub/846/bdo/graduate-job/84046/2027-audit-graduate-programme-north-east-and-west"
-   },
-   "checked": "2026-11-15"
-  },
-  {
-   "id": "bdo-advisory-midlands-north",
-   "emp": "BDO",
-   "title": "2027 Advisory Graduate Programme – Midlands & North",
-   "url": "https://www.gradcracker.com/hub/846/bdo/graduate-job/84064/2027-advisory-graduate-programme-midlands",
-   "src": "Gradcracker",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Corporate finance",
-   "cities": [
-    "Birmingham",
-    "Leeds",
-    "Manchester"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-11-15",
-   "dlNote": "",
-   "status": "open",
-   "salary": "£29,000",
-   "degreeMin": "2:2",
-   "ucasMin": null,
-   "alevels": "CCC",
-   "alevelSubject": null,
-   "gcseMaths": 4,
-   "gcseEnglish": 4,
-   "licence": false,
-   "reqText": "2:2 (or predicted), any degree; three A-levels at C or above",
-   "qual": "ACA",
-   "notes": "No visa sponsorship or relocation support – you must live within commuting distance of the office.",
-   "links": {
-    "Birmingham": "https://www.gradcracker.com/hub/846/bdo/graduate-job/84064/2027-advisory-graduate-programme-midlands",
-    "Leeds": "https://www.gradcracker.com/hub/846/bdo/graduate-job/84065/2027-advisory-graduate-programme-north-east-and-west",
-    "Manchester": "https://www.gradcracker.com/hub/846/bdo/graduate-job/84065/2027-advisory-graduate-programme-north-east-and-west"
-   },
-   "checked": "2026-11-14"
   },
   {
    "id": "ey-valuation",
@@ -5253,38 +4863,6 @@
    "links": {},
    "checked": "2026-10-23",
    "loc": "Epsom, Glasgow, Leeds, St Albans"
-  },
-  {
-   "id": "sky-business-graduate-programme-london",
-   "emp": "Sky",
-   "title": "Business Graduate Programme",
-   "url": "https://www.gradcracker.com/hub/392/sky/graduate-job/86556/business-graduate-programme",
-   "src": "Gradcracker (employer listing; Sky careers page lists its sister Business programmes)",
-   "disciplines": [
-    "any"
-   ],
-   "area": "Marketing & media",
-   "cities": [
-    "London"
-   ],
-   "start": "Sep 2027",
-   "dl": "2026-11-15",
-   "dlNote": "may close early due to volume, but not before 1 Nov 2026",
-   "status": "open",
-   "salary": "£36,000",
-   "degreeMin": null,
-   "ucasMin": null,
-   "alevels": null,
-   "alevelSubject": null,
-   "gcseMaths": null,
-   "gcseEnglish": null,
-   "licence": false,
-   "reqText": "Bachelor's degree (final year, postgraduate or graduated), any subject; degree class Not stated; UCAS, A-levels and GCSEs Not stated",
-   "qual": "None",
-   "notes": "Two-year, four-rotation programme in Sky's Consumer Group (marketing/insight + commercial/trading in year 1). Based at Osterley, West London. One Sky programme application per year; no visa sponsorship; criminal record check.",
-   "links": {},
-   "checked": "2026-10-23",
-   "loc": "Osterley (West London)"
   },
   {
    "id": "aon-client-management-graduate-leeds",
@@ -7155,7 +6733,8 @@
    ],
    "area": "Audit & accounting",
    "cities": [
-    "Manchester"
+    "Manchester",
+    "London"
    ],
    "start": "Sep 2027",
    "dl": "2026-12-15",
@@ -7172,7 +6751,10 @@
    "reqText": "2:1 any subject; 112 UCAS from top three A-levels; GCSE Maths & English Language grade 4/C",
    "qual": "ACA",
    "notes": "Separate vacancy from the Forvis Mazars Manchester Banking, Public Sector and Data Transformation audit teams.",
-   "links": {},
+   "links": {
+    "Manchester": "https://www.prospects.ac.uk/graduate-jobs/audit-mid-market-graduate-manchester-september-2027-2707385",
+    "London": "https://higherin.com/jobs/46227/forvis-mazars/audit-mid-market-graduate-london-september-2027"
+   },
    "checked": "2026-11-15"
   },
   {
@@ -7267,6 +6849,268 @@
    "notes": "2-year fixed-term Band 4 posts with NHS organisations across England; applicants pick a preferred location. Visa holders can apply.",
    "links": {},
    "checked": "2026-11-15"
+  },
+  {
+   "id": "deloitte-technology-strategy-consulting-manchester",
+   "emp": "Deloitte",
+   "title": "Technology Strategy Consulting Graduate - Technology Strategy & Transformation 2027 - Manchester",
+   "url": "https://higherin.com/jobs/46864/deloitte/technology-strategy-consulting-graduate-technology-strategy-transformation-2027-manchester",
+   "src": "Higherin (Deloitte listing)",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Consulting",
+   "cities": [
+    "Manchester"
+   ],
+   "start": "Autumn 2027",
+   "dl": null,
+   "dlNote": "Ongoing – no fixed deadline; may close early",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": "2:1",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "Minimum 2:1 in any degree discipline (achieved or predicted), graduating by Sep 2027",
+   "qual": "None",
+   "notes": "One application per year across Deloitte Early Careers; no Skilled Worker visa sponsorship (salary below threshold); hybrid.",
+   "links": {},
+   "checked": "2026-11-16"
+  },
+  {
+   "id": "kpmg-accounting-advisory-assurance-london",
+   "emp": "KPMG",
+   "title": "Accounting Advisory and Assurance Graduate Programme - London (2027)",
+   "url": "https://higherin.com/jobs/44726/kpmg/accounting-advisory-and-assurance-graduate-programme-london",
+   "src": "Higherin (KPMG listing)",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Audit & accounting",
+   "cities": [
+    "London"
+   ],
+   "start": "2027 intake (start date not stated)",
+   "dl": null,
+   "dlNote": "Ongoing – may close early",
+   "status": "open",
+   "salary": "Competitive (not stated)",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "Not stated on listing (refers to KPMG careers portal)",
+   "qual": "ACA (or ICAS CA in Scotland)",
+   "notes": "Teams: Accounting Advisory Services, Sustainability Assurance, Controls Assurance, Transactions Assurance; hybrid.",
+   "links": {},
+   "checked": "2026-11-16"
+  },
+  {
+   "id": "kpmg-technology-audit-london",
+   "emp": "KPMG",
+   "title": "Technology Audit Graduate Programme - London (2027)",
+   "url": "https://higherin.com/jobs/44679/kpmg/technology-audit-graduate-programme-london",
+   "src": "Higherin (KPMG listing)",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Audit & accounting",
+   "cities": [
+    "London"
+   ],
+   "start": "2027 intake (start date not stated)",
+   "dl": null,
+   "dlNote": "Ongoing – may close early",
+   "status": "open",
+   "salary": "Competitive (not stated)",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "Not stated – any degree background welcome",
+   "qual": "CFAB (ICAEW Certificate in Accounting, Finance and Business)",
+   "notes": "Hybrid with travel to clients and busy seasonal periods.",
+   "links": {},
+   "checked": "2026-11-16"
+  },
+  {
+   "id": "kpmg-japan-practice-tax-london",
+   "emp": "KPMG",
+   "title": "Japan Practice in Tax Graduate Programme - London (2027)",
+   "url": "https://higherin.com/jobs/44684/kpmg/japan-practice-in-tax-graduate-programme-london",
+   "src": "Higherin (KPMG listing)",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Tax",
+   "cities": [
+    "London"
+   ],
+   "start": "2027 intake (start date not stated)",
+   "dl": null,
+   "dlNote": "Ongoing – may close early",
+   "status": "open",
+   "salary": "Competitive (not stated)",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "Japanese language skills and appreciation of Japanese corporate culture; academic requirements not stated",
+   "qual": "ACA",
+   "notes": "Requires Japanese language skills; personal tax work for international assignees of Japanese clients.",
+   "links": {},
+   "checked": "2026-11-16"
+  },
+  {
+   "id": "ey-tax-london",
+   "emp": "EY",
+   "title": "Tax Graduate Programme - September 2027 intake",
+   "url": "https://flexa.careers/in/jobs/ey-tax-graduate-programme-september-2027-intake-6ab58c05052a4952dc33f2b6",
+   "src": "Flexa (EY UK listing; EY careers site redirects to student homepage)",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Tax",
+   "cities": [
+    "London",
+    "Manchester",
+    "Leeds",
+    "Birmingham",
+    "Edinburgh",
+    "Reading"
+   ],
+   "start": "September 2027",
+   "dl": null,
+   "dlNote": "No closing date listed – EY closes programmes when filled; check location is still open",
+   "status": "open",
+   "salary": "Competitive (not stated)",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "Not stated on listing",
+   "qual": "ACA (ICAEW) or ICAS CA; optional CTA or joint ATT/CTA",
+   "notes": "Three-year programme; 1–2 office days a week stated on listing.",
+   "links": {},
+   "checked": "2026-11-16"
+  },
+  {
+   "id": "ey-audit-manchester",
+   "emp": "EY",
+   "title": "Audit Graduate Programme - September 2027 intake",
+   "url": "https://flexa.careers/jobs/ey-audit-graduate-programme-september-2027-intake-6ab58c05052a4952dc33f2aa",
+   "src": "Flexa (EY UK listing)",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Audit & accounting",
+   "cities": [
+    "Manchester",
+    "Glasgow",
+    "Aberdeen",
+    "Edinburgh",
+    "Bristol",
+    "Cambridge"
+   ],
+   "start": "September 2027",
+   "dl": null,
+   "dlNote": "No closing date listed – EY closes programmes when filled; check location is still open",
+   "status": "open",
+   "salary": "Competitive (not stated)",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "Not stated on listing",
+   "qual": "ACA (ICAEW) or ICAS CA",
+   "notes": "Three-year programme; separate listings per office.",
+   "links": {},
+   "checked": "2026-11-16"
+  },
+  {
+   "id": "lloyds-people-science-leeds",
+   "emp": "Lloyds Banking Group",
+   "title": "People Science Graduate Scheme (Leeds)",
+   "url": "https://www.lloydsbankinggrouptalent.com/our-opportunities/graduates/people-science-graduate-scheme/",
+   "src": "Lloyds Banking Group careers site (scheme page)",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Psychology & behavioural science",
+   "cities": [
+    "Leeds",
+    "Edinburgh"
+   ],
+   "start": "2027 (start date not stated)",
+   "dl": "2026-11-22",
+   "dlNote": "Leeds & Edinburgh close 22 Nov (Bristol closed 25 Oct); may close early",
+   "status": "open",
+   "salary": "£42,000",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "No minimum degree classification; role-relevant knowledge/technical skills assessed in application",
+   "qual": "Optional certifications/professional qualifications",
+   "notes": "No visa sponsorship; apply to one location; min 2 office days a week.",
+   "links": {
+    "Leeds": "https://lbg.wd3.myworkdayjobs.com/Graduate_careers/job/Leeds/People-Science-Graduate-Scheme--Leeds-_163333-1",
+    "Edinburgh": "https://lbg.wd3.myworkdayjobs.com/Graduate_careers/job/Edinburgh/People-Science-Graduate-Scheme--Edinburgh-_163336-1"
+   },
+   "checked": "2026-11-16"
+  },
+  {
+   "id": "ey-pas-integrated-workforce-mobility-london",
+   "emp": "EY",
+   "title": "People Advisory Services - Integrated Workforce Mobility Graduate Programme - September 2027 intake",
+   "url": "https://targetjobs.co.uk/jobs/people-advisory-services-integrated-workforce-mobility-graduate-programme-september-2027-intake-248219",
+   "src": "TargetJobs (EY listing); also listed on Prospects and Gradcracker",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Tax",
+   "cities": [
+    "London"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-11-28",
+   "dlNote": "",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "Not stated on listing (degree class, subjects, UCAS, A-levels and GCSEs not given)",
+   "qual": "ATT (Association of Taxation Technicians)",
+   "notes": "Part of EY's People Advisory Services: advises on managing and rewarding globally mobile staff (tax, payroll, immigration risk). In-person, London.",
+   "links": {},
+   "checked": "2026-11-16"
   }
  ]
 }
