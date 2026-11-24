@@ -107,7 +107,7 @@ DENY_TITLE = re.compile(r"""\b(care assistant|carer|care worker|support worker|h
   associate or assistant)""".replace("\n", "").replace("  ", ""), re.I)
 # titles that usually mean an experienced hire (skipped when the title says graduate/trainee)
 EXP_TITLE = re.compile(r"executive assistant|personal assistant|\bea\b|(?<![\d,.k] )\bpa\b|\bdean\b|(?<!to )financial controller|contracts manager|"
-                       r"\bcounsel\b|\bhlta\b|higher level teaching|supervising associate|-\s*bank\b|\(bank\)|\bqualified\b", re.I)
+                       r"part[- ]?qualified|\bqbe\b|\bcounsel\b|\bhlta\b|higher level teaching|supervising associate|-\s*bank\b|\(bank\)|\bqualified\b", re.I)
 GRAD_TITLE = re.compile(r"graduate|trainee|grad\b|2027", re.I)
 
 
@@ -136,6 +136,28 @@ def needs_experience(text):
     for m in EXP_STRICT.finditer(text or ""):
         win = text[max(0, m.start() - 90):m.end() + 90]
         if EXP_PRE_SKIP.search(text[max(0, m.start() - 35):m.start()]) or EXP_SOFT.search(win):
+            continue
+        return True
+    return needs_qualification(text)
+
+
+# professional exams / vocational certificates already passed (graduates won't have them)
+QUAL_REQUIRED = re.compile(r"""part[- ]?qualified|qualified\s+by\s+experience|\bqbe\b|newly[- ]qualified|fully[- ]qualified
+|(?:acca|cima|aat|aca|icaew|cii|cipd|cilex|cips|ciob|rics|ctA|att)\s+(?:level\s*\d\s+)?(?:qualified|finalist|part[- ]qualified|member)
+|(?:hold|holding|have|has|possess|completed|passed|achieved)\s+(?:a\s+|an\s+|the\s+)?(?:minimum\s+of\s+)?(?:\w+\s+){0,3}(?:acca|cima|aat|cii|cipd|cilex|cips|nvq\s+level\s*[2-7]|level\s*[3-7]\s+(?:nvq|diploma|certificate|qualification))\b
+|(?:acca|cima|aat|cii|cipd|cips|nvq\s+level\s*[2-7])\s+(?:\w+\s+){0,4}(?:is\s+)?(?:essential|required|a\s+must|mandatory)
+|(?:\d+|several|some|all)\s+(?:acca|cima|aca)\s+(?:exams|papers|modules)\s+(?:passed|completed)
+|(?:acca|cima|aat)\s+(?:exams|papers|modules)\s+(?:passed|completed)
+|studying\s+(?:towards\s+)?(?:acca|cima|aat|aca)\s+(?:with|and\s+have)\s+(?:\w+\s+){0,3}(?:exams|papers|passed)""", re.I | re.X)
+QUAL_SOFT = re.compile(r"desirable|preferred|advantage|a plus|beneficial|not essential|not required|ideally|nice to have|or willing|or working towards|"
+                       r"or studying|we will support|we'll support|fully funded|funded|support you|study support|sponsor|work towards|"
+                       r"working towards|on completion|be willing|be prepared|or be |new graduates|graduates and||once qualified|become a|to become|lead(?:s|ing)? to|will gain|you'll gain|you will achieve", re.I)
+
+
+def needs_qualification(text):
+    for m in QUAL_REQUIRED.finditer(text or ""):
+        win = text[max(0, m.start() - 80):m.end() + 80]
+        if QUAL_SOFT.search(win):
             continue
         return True
     return False
