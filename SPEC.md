@@ -71,7 +71,7 @@ Each entry uses the same fields as a scheme, with optional fields left out when 
 
 What the builder keeps: roles in the five cities' metro areas; titles with graduate / junior / trainee / entry-level /
 assistant-type wording (or ads that say no experience is needed); no trades, care, retail-floor, hospitality, driving,
-part-time, freelance, PhD/postdoc or qualified-professional roles; nothing asking for 2+ years' experience or PQE;
+part-time, freelance, PhD/postdoc or qualified-professional roles; nothing asking for any prior work experience (years, months, "proven/previous/relevant experience", "experience essential") or PQE – ads must be open to new graduates;
 no hourly pay under £14 (except teaching/learning-support/research assistants); ads that duplicate a hand-checked
 scheme in `jobs.json` are dropped.
 

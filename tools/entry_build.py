@@ -105,6 +105,40 @@ DENY_TITLE = re.compile(r"""\b(care assistant|carer|care worker|support worker|h
   live host|streamer|sales associate|research associate|research fellow|postdoctoral|multifunctional|visual merchandiser|
   stylist|model\b|actor|dancer|singer|musician|photographer|videographer \(freelance|tiktok live|experienced|assistant or associate|
   associate or assistant)""".replace("\n", "").replace("  ", ""), re.I)
+# titles that usually mean an experienced hire (skipped when the title says graduate/trainee)
+EXP_TITLE = re.compile(r"executive assistant|personal assistant|\bea\b|(?<![\d,.k] )\bpa\b|\bdean\b|(?<!to )financial controller|contracts manager|"
+                       r"\bcounsel\b|\bhlta\b|higher level teaching|supervising associate|-\s*bank\b|\(bank\)|\bqualified\b", re.I)
+GRAD_TITLE = re.compile(r"graduate|trainee|grad\b|2027", re.I)
+
+
+def exp_title(title):
+    return bool(EXP_TITLE.search(title or "")) and not GRAD_TITLE.search(title or "")
+# ads must be open to graduates with no prior work experience
+EXP_STRICT = re.compile(r"""(?:proven|previous|prior|demonstrable|demonstrated|significant|extensive|substantial|solid|strong|relevant|recent|commercial|industry|professional|post[- ]qualification)\s+(?:[\w/-]+\s+){0,4}experience\b(?!d)
+|(?:hands[- ]on|direct|practical|working)\s+experience\b\s+(?:\w+\s+){0,8}(?:is\s+)?(?:essential|required|a\s+must|necessary|mandatory)
+|experience\b\s+(?:[\w/,-]+\s+){0,8}(?:is|are)\s+(?:an?\s+)?(?:essential|required|a\s+must|necessary|mandatory)
+|(?:must|should|will\s+need\s+to|need\s+to)\s+have\s+(?:\w+\s+){0,3}experience\b
+|you'?ll\s+need:?\s+(?:\w+\s+){0,3}experience\b
+|experience\s+(?:in|of|within|working\s+in)\s+(?:a|an)\s+similar\s+(?:role|position)
+|\b(?:[1-9]\d?|six|nine|twelve|eighteen)\s*\+?\s*months?['’]?\s*(?:of\s+)?(?:[\w-]+\s+){0,3}experience\b
+|\b(?:one|two|three|four|five|[1-9])\s*(?:\+|or\s+more)?\s*years?['’]?\s*(?:of\s+)?(?:[\w-]+\s+){0,4}experience\b
+|\b(?:a|at\s+least\s+a|around\s+a|minimum\s+of\s+a)\s+year['’]?s?\s+(?:of\s+)?(?:[\w-]+\s+){0,3}experience\b""", re.I | re.X)
+EXP_SOFT = re.compile(r"desirable|preferred|preferable|advantage|a plus|beneficial|not essential|not required|not necessary|but not|ideally|nice to have|"
+                      r"would be useful|would be helpful|helpful|don'?t need|do not need|no (?:extensive )?previous|no prior|isn'?t required|is not required|"
+                      r"not a requirement|no experience|or equivalent experience from a degree|or a degree|recent degree or|bonus|or similar academic|"
+                      r"academic|internship|through (?:your )?(?:studies|degree|university)|from (?:your )?(?:studies|university|degree)|part[- ]time|"
+                      r"placements?,|volunteering|0\s*[-–]\s*\d", re.I)
+EXP_PRE_SKIP = re.compile(r"\bno\b|without|gain|gaining|build|building|develop|get|getting|give you|giving you|provide|offer|combining|"
+                          r"opportunity to|chance to|will receive|benefit from|exposure|not need|apply your", re.I)
+
+
+def needs_experience(text):
+    for m in EXP_STRICT.finditer(text or ""):
+        win = text[max(0, m.start() - 90):m.end() + 90]
+        if EXP_PRE_SKIP.search(text[max(0, m.start() - 35):m.start()]) or EXP_SOFT.search(win):
+            continue
+        return True
+    return False
 TRADE_ENG = re.compile(r"(water|hygiene|escalator|\blift\b|earthing|\bgas\b|heating|boiler|field service|service engineer|field engineer|maintenance|"
                        r"installation|installer|repair|hvac|fire|alarm|security systems|cctv|telecom|cable|fibre|solar|ev charg|plumb|"
                        r"refrigeration|air con|pest|drainage|lightning|asbestos|legionella|calibration|monitoring technician|vehicle|"
@@ -501,7 +535,7 @@ def build_role(i, stats):
     city = map_city(city_raw)
     if not city:
         stats["city"] += 1; return None
-    if DENY_TITLE.search(title):
+    if DENY_TITLE.search(title) or exp_title(title):
         stats["deny"] += 1; return None
     if re.search(r"solicitor|lawyer|barrister|chartered|qualified|accredited|\bnqt\b|\bect\b", title, re.I) and not re.search(r"trainee|graduate|apprentice|training contract|paralegal", title, re.I):
         stats["deny"] += 1; return None
@@ -519,7 +553,9 @@ def build_role(i, stats):
     is_entry_title = bool(ENTRY_WORD.search(title)) or i.get("linkedinLevel") == "Entry level"
     if i.get("linkedinLevel") in ("Mid-Senior level", "Director", "Executive"):
         stats["experience"] += 1; return None
-    if yrs is not None and yrs >= 2:
+    if yrs is not None and yrs >= 1:
+        stats["experience"] += 1; return None
+    if needs_experience(text):
         stats["experience"] += 1; return None
     if PQE_RE.search(text) and not re.search(r"trainee|paralegal|assistant", title, re.I):
         stats["experience"] += 1; return None
@@ -641,6 +677,10 @@ def main(paths):
             continue
         lim = MAX_AGE_SCHEME if r.get("type") == "scheme" else MAX_AGE_JOB
         if age <= lim and not (r.get("dl") and r["dl"] < TODAY.isoformat()):
+            # re-apply the title rules and the no-experience rule to ads kept from earlier runs
+            if DENY_TITLE.search(r.get("title", "")) or exp_title(r.get("title", "")) or "year's experience" in r.get("notes", ""):
+                stats["experience"] += 1
+                continue
             roles[r["id"]] = r
     for p in paths:
         d = json.load(open(p))
