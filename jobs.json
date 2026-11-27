@@ -1,6 +1,6 @@
 {
  "app": "GradTrack 2027",
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "roles": [
   {
    "id": "fca-reg",
@@ -756,7 +756,7 @@
    "qual": "None",
    "notes": "Needs UK right to work without sponsorship. Possible £2,000 relocation support.",
    "links": {},
-   "checked": "2026-11-26",
+   "checked": "2026-11-27",
    "rank": null,
    "why": "",
    "loc": "Crawley"
@@ -3303,7 +3303,7 @@
    "alevelSubject": null,
    "licence": false,
    "links": {},
-   "checked": "2026-11-26",
+   "checked": "2026-11-27",
    "id": "n12-unilever-uflp-marketing",
    "emp": "Unilever",
    "title": "Marketing Unilever Future Leaders Programme 2027",
@@ -3902,7 +3902,7 @@
    "reqText": "Bachelor's or master's degree (class not stated); permanent UK work authorisation (Graduate visa must be valid 18+ months from start); minimum B2 English",
    "qual": "None",
    "notes": "January or September 2027 intakes – choose September; also Bristol, Edinburgh, Glasgow; must be open to relocation within the UK and work weekends/shifts.",
-   "checked": "2026-11-24",
+   "checked": "2026-11-27",
    "links": {}
   },
   {
@@ -4759,7 +4759,7 @@
    "qual": "None",
    "notes": "Strategy consultancy; intakes in Jan/Feb 2027 and Sep 2027 (state earliest start month); UK right to work must be confirmed.",
    "links": {},
-   "checked": "2026-11-24"
+   "checked": "2026-11-27"
   },
   {
    "id": "n01b-university-of-birmingham-gmts-birmingham",
@@ -4962,7 +4962,7 @@
     "Manchester": "https://targetjobs.co.uk/jobs/audit-banking-graduate-manchester-september-2027-252647",
     "Leeds": "https://targetjobs.co.uk/jobs/audit-banking-graduate-leeds-september-2027-252649"
    },
-   "checked": "2026-11-26"
+   "checked": "2026-11-27"
   },
   {
    "id": "forvis-mazars-audit-public-sector-manchester",
@@ -5258,7 +5258,7 @@
    "qual": "CII Level 4 Diploma in Insurance (Go Further Apprenticeship, paid study leave)",
    "notes": "Commercial Risk roles in London, Glasgow or Liverpool; Reinsurance roles London only. First 6 months office-based, then at least 3-4 days a week face to face.",
    "links": {},
-   "checked": "2026-11-23"
+   "checked": "2026-11-27"
   },
   {
    "id": "n05-aon-commercial-risk-consulting-london",
@@ -5734,7 +5734,7 @@
   {
    "id": "n15a-forvis-mazars-audit-mid-market-manchester",
    "emp": "Forvis Mazars",
-   "title": "Audit - Mid Market - Graduate - Manchester - September 2027",
+   "title": "Audit - Mid Market - Graduate - Manchester / Leeds - September 2027",
    "url": "https://www.prospects.ac.uk/graduate-jobs/audit-mid-market-graduate-manchester-september-2027-2707385",
    "src": "Prospects",
    "disciplines": [
@@ -5742,7 +5742,8 @@
    ],
    "area": "Audit & accounting",
    "cities": [
-    "Manchester"
+    "Manchester",
+    "Leeds"
    ],
    "start": "Sep 2027",
    "dl": "2026-11-28",
@@ -5760,9 +5761,10 @@
    "qual": "ACA",
    "notes": "Separate vacancy from the Forvis Mazars Manchester Banking, Public Sector and Data Transformation audit teams.",
    "links": {
-    "Manchester": "https://www.prospects.ac.uk/graduate-jobs/audit-mid-market-graduate-manchester-september-2027-2707385"
+    "Manchester": "https://www.prospects.ac.uk/graduate-jobs/audit-mid-market-graduate-manchester-september-2027-2707385",
+    "Leeds": "https://targetjobs.co.uk/jobs/audit-mid-market-graduate-leeds-september-2027-253081"
    },
-   "checked": "2026-11-26"
+   "checked": "2026-11-27"
   },
   {
    "id": "n15a-forvis-mazars-audit-industry-services-manchester",
@@ -6717,13 +6719,14 @@
    "cities": [
     "Birmingham",
     "Leeds",
-    "Manchester"
+    "Manchester",
+    "London"
    ],
    "start": "Autumn 2027",
    "dl": null,
    "dlNote": "No closing date stated – Apply now live; may close when filled",
    "status": "open",
-   "salary": "£34,250 (+ £5,000 milestone bonus)",
+   "salary": "£34,250 regions; £40,000 London (+ £5,000 milestone bonus)",
    "degreeMin": null,
    "ucasMin": null,
    "alevels": null,
@@ -6734,8 +6737,13 @@
    "reqText": "Not stated – 'flexible approach to academic entry requirements' (no degree class, UCAS, A-level or GCSE minimum given)",
    "qual": "Fully funded professional qualification (typically ACA, ICAS, CFAB, AAT, ACCA, CIMA or DTS)",
    "notes": "Job ID TRN27_230; business development responsibilities before qualifying.",
-   "checked": "2026-11-26",
-   "links": {}
+   "checked": "2026-11-27",
+   "links": {
+    "Birmingham": "https://www.grantthornton.co.uk/careers/early-careers-job-search/corporate-finance-advisory-graduate-programme-autumn-2027---regions-birmingham-leeds--manchester_trn27_230/",
+    "Leeds": "https://www.grantthornton.co.uk/careers/early-careers-job-search/corporate-finance-advisory-graduate-programme-autumn-2027---regions-birmingham-leeds--manchester_trn27_230/",
+    "Manchester": "https://www.grantthornton.co.uk/careers/early-careers-job-search/corporate-finance-advisory-graduate-programme-autumn-2027---regions-birmingham-leeds--manchester_trn27_230/",
+    "London": "https://www.grantthornton.co.uk/careers/early-careers-job-search/corporate-finance-advisory-graduate-programme-autumn-2027---london_trn27_193/"
+   }
   },
   {
    "id": "n22a-grant-thornton-transaction-advisory-regions",
@@ -7889,6 +7897,425 @@
    "notes": "Closes 28 Nov 2026. Audits charities and social-sector organisations; in person.",
    "links": {},
    "checked": "2026-11-26"
+  },
+  {
+   "id": "d27a-fca-people-graduate-programme-london-leeds",
+   "emp": "FCA",
+   "title": "People Graduate Programme 2027",
+   "url": "https://higherin.com/jobs/46632/financial-conduct-authority-fca/people-graduate-programme-2027-london",
+   "src": "Higherin (separate London and Leeds listings); also on TargetJobs and Bright Network. FCA's own page not fetched",
+   "disciplines": [
+    "any"
+   ],
+   "area": "HR & people",
+   "cities": [
+    "London",
+    "Leeds"
+   ],
+   "start": "2027",
+   "dl": "2026-11-29",
+   "dlNote": "midnight Sunday 29 Nov 2026; may close early if volume is high",
+   "status": "open",
+   "salary": "£37,000 (London); £33,600 (Leeds)",
+   "degreeMin": "2:1",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "Minimum 2:1 (obtained or on track) in any subject from any university; graduated or in final year; UCAS/A-levels/GCSEs not stated",
+   "qual": "None",
+   "notes": "Two-year programme. Must have right to work in the UK for the whole programme. At least 50% of time in the office. The TargetJobs listing shows it closed 23/11 but the advert text says 29 Nov, so apply immediately.",
+   "links": {
+    "London": "https://higherin.com/jobs/46632/financial-conduct-authority-fca/people-graduate-programme-2027-london",
+    "Leeds": "https://higherin.com/jobs/46633/financial-conduct-authority-fca/people-graduate-programme-2027-leeds"
+   },
+   "checked": "2026-11-27"
+  },
+  {
+   "id": "d27b-kpmg-tax-graduate-2027-uk",
+   "emp": "KPMG",
+   "title": "KPMG 2027 Tax Graduate Programme",
+   "url": "https://targetjobs.co.uk/jobs/kpmg-2027-tax-graduate-programme-250595",
+   "src": "TargetJobs (only source checked; listing points to KPMG Careers Portal for entry requirements)",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Tax",
+   "cities": [
+    "Birmingham",
+    "Leeds",
+    "London",
+    "Manchester",
+    "Bristol",
+    "Edinburgh",
+    "Glasgow",
+    "Milton Keynes",
+    "Reading"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-12-17",
+   "dlNote": "",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "Not stated on listing (refers to KPMG Careers Portal programme page)",
+   "qual": "ACA (or CA in Scotland), fully funded",
+   "notes": "Hybrid working; separate city-specific KPMG tax listings (e.g. Leeds) closed 25 Nov.",
+   "links": {},
+   "checked": "2026-11-27"
+  },
+  {
+   "id": "d27b-grant-thornton-debt-capital-advisory-london",
+   "emp": "Grant Thornton UK",
+   "title": "Debt Capital Advisory Graduate Programme (Autumn 2027) - London",
+   "url": "https://www.grantthornton.co.uk/careers/early-careers-job-search/debt-capital-advisory-graduate-programme-autumn-2027---london_trn27_190/",
+   "src": "Grant Thornton careers site",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Corporate finance",
+   "cities": [
+    "London"
+   ],
+   "start": "Autumn 2027",
+   "dl": null,
+   "dlNote": "rolling – no closing date stated; Apply now button live",
+   "status": "open",
+   "salary": "£40,000",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "'Flexible approach to academic entry requirements' – no minimum grades stated",
+   "qual": "Professional qualification, typically ACA, ICAS, CFAB, AAT, ACCA, CIMA or DTS (fully funded)",
+   "notes": "Plus £5,000 milestone bonus (half on joining, half on qualifying).",
+   "links": {},
+   "checked": "2026-11-27"
+  },
+  {
+   "id": "d27b-natwest-wealth-product-client-solutions-london",
+   "emp": "NatWest Group (Coutts)",
+   "title": "Graduate Trainee - Wealth Product and Client Solutions (2027)",
+   "url": "https://www.brightnetwork.co.uk/graduate-jobs/natwest-group/graduate-trainee-wealth-product-and-client-solutions-2027-anfj",
+   "src": "Bright Network (location London from weekday.works aggregator listing)",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Asset & wealth management",
+   "cities": [
+    "London"
+   ],
+   "start": "2027",
+   "dl": null,
+   "dlNote": "rolling – open until cohort is filled",
+   "status": "open",
+   "salary": "£37,500 + £3,450 location allowance",
+   "degreeMin": "2:1",
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "2:1 degree (achieved or on course), any subject",
+   "qual": "None",
+   "notes": "Two-year rotational programme; exact start date not stated.",
+   "links": {},
+   "checked": "2026-11-27"
+  },
+  {
+   "id": "d27b-pwc-graduate-advisory-consulting",
+   "emp": "PwC",
+   "title": "Graduate Advisory and Consulting",
+   "url": "https://www.gradcracker.com/hub/478/pwc/graduate-job/83577/graduate-advisory-and-consulting",
+   "src": "Gradcracker",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Consulting",
+   "cities": [
+    "Birmingham",
+    "Leeds",
+    "London",
+    "Manchester",
+    "Belfast",
+    "Bristol",
+    "Cardiff",
+    "Edinburgh"
+   ],
+   "start": "Sep 2027",
+   "dl": null,
+   "dlNote": "ongoing – no fixed closing date",
+   "status": "open",
+   "salary": "Competitive + benefits",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "Bachelor's degree; no minimum grades stated",
+   "qual": "None",
+   "notes": "Gradcracker tags STEM, but listing also invites business, finance, economics and other degrees.",
+   "links": {},
+   "checked": "2026-11-27"
+  },
+  {
+   "id": "d27b-ey-actuarial-graduate-2027",
+   "emp": "EY",
+   "title": "Actuarial Graduate Programme - September 2027",
+   "url": "https://higherin.com/jobs/46510/ey/actuarial-graduate-programme-september-2027",
+   "src": "Higherin (deadline from TargetJobs listing)",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Insurance & risk",
+   "cities": [
+    "Birmingham",
+    "Leeds",
+    "London",
+    "Bristol",
+    "Edinburgh"
+   ],
+   "start": "Sep 2027",
+   "dl": "2026-11-28",
+   "dlNote": "TargetJobs lists 28 Nov 2026; Higherin says ongoing – may close early",
+   "status": "open",
+   "salary": "Competitive",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "Not stated",
+   "qual": "Institute and Faculty of Actuaries (IFoA) qualification",
+   "notes": "Two-year programme.",
+   "links": {},
+   "checked": "2026-11-27"
+  },
+  {
+   "id": "d27c-unilever-uflp-supply-chain",
+   "emp": "Unilever",
+   "title": "UK&I UFLP in Supply Chain (Unilever Future Leaders Programme) 2027",
+   "url": "https://careers.unilever.com/en/uk-and-ireland-early-career-UFLP-Supply-Chain",
+   "src": "Unilever careers site",
+   "disciplines": [
+    "computing",
+    "engineering",
+    "maths-physics",
+    "sciences",
+    "business"
+   ],
+   "area": "Operations & supply chain",
+   "cities": [
+    "London",
+    "Leeds",
+    "Port Sunlight",
+    "Kingston",
+    "Burton",
+    "Colworth",
+    "Crumlin"
+   ],
+   "start": "Sep 2027",
+   "dl": null,
+   "dlNote": "rolling – apply ASAP, may close early",
+   "status": "open",
+   "salary": "£35,000",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "STEM degree, other science-based BSc or supply-chain-related degree (e.g. Supply Chain Management, Logistics); no degree class stated",
+   "qual": "None",
+   "notes": "Hybrid, min 3 days/week at one of the listed offices (Port Sunlight is on the Wirral near Liverpool); travel 10–25%; only first application to one UFLP function is considered.",
+   "links": {},
+   "checked": "2026-11-27"
+  },
+  {
+   "id": "d27c-unilever-uflp-finance",
+   "emp": "Unilever",
+   "title": "UK&I UFLP in Finance (Unilever Future Leaders Programme) 2027",
+   "url": "https://careers.unilever.com/en/uk-and-ireland-early-career-UFLP-Finance",
+   "src": "Unilever careers site",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Audit & accounting",
+   "cities": [
+    "London",
+    "Kingston"
+   ],
+   "start": "Sep 2027",
+   "dl": null,
+   "dlNote": "rolling – apply ASAP",
+   "status": "open",
+   "salary": "£35,000",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "Degree; no specific subject ('You don't need a finance or economics degree'); class not stated",
+   "qual": "CIMA",
+   "notes": "Commercial/industry finance rotations; hybrid min 3 days/week at London Blackfriars or Kingston; one UFLP application only.",
+   "links": {},
+   "checked": "2026-11-27"
+  },
+  {
+   "id": "d27c-grant-thornton-brs-data-ai-analytics-london",
+   "emp": "Grant Thornton UK",
+   "title": "Business Risk Services - Data, AI & Analytics Graduate Programme (Autumn 2027) - London",
+   "url": "https://www.grantthornton.co.uk/careers/early-careers-job-search/business-risk-services---data-ai--analytics-graduate-programme-autumn-2027---london_trn27_243/",
+   "src": "Grant Thornton careers site",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Data & analytics",
+   "cities": [
+    "London"
+   ],
+   "start": "Autumn 2027",
+   "dl": null,
+   "dlNote": "no closing date stated – Apply now live",
+   "status": "open",
+   "salary": "Not stated",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "Not stated – firm says it takes a 'flexible approach to academic entry requirements'",
+   "qual": "ISACA AI Fundamentals Certificate then CISA (fully funded)",
+   "notes": "3-year advisory programme; £5,000 milestone bonus (half on joining, half on qualifying); job ID TRN27_243.",
+   "links": {},
+   "checked": "2026-11-27"
+  },
+  {
+   "id": "d27c-grant-thornton-brs-core-london",
+   "emp": "Grant Thornton UK",
+   "title": "Business Risk Services Core Graduate Programme (Autumn 2027)",
+   "url": "https://targetjobs.co.uk/jobs/business-risk-services-core-graduate-programme-autumn-2027-251639",
+   "src": "TargetJobs (Grant Thornton listing)",
+   "disciplines": [
+    "any"
+   ],
+   "area": "Consulting",
+   "cities": [
+    "London"
+   ],
+   "start": "Autumn 2027",
+   "dl": null,
+   "dlNote": "no closing date stated – Apply button live (updated 2026-10-14)",
+   "status": "open",
+   "salary": "£40,000",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "Not stated – 'flexible approach to academic entry requirements'",
+   "qual": "Professional qualification fully funded (typically ACA, ICAS, CFAB, AAT, ACCA, CIMA or DTS)",
+   "notes": "Risk assurance/advisory; plus £5,000 milestone bonus. Aggregator source – confirm deadline on Grant Thornton site.",
+   "links": {},
+   "checked": "2026-11-27"
+  },
+  {
+   "id": "d27c-kier-graduate-electrical-mechanical-design-engineer",
+   "emp": "Kier",
+   "title": "Graduate Electrical or Mechanical Design Engineer 2027 (Kier Design)",
+   "url": "https://www.brightnetwork.co.uk/graduate-jobs/kier-group/graduate-electrical-mechanical-design-engineer-2027-an8l",
+   "src": "Bright Network",
+   "disciplines": [
+    "engineering"
+   ],
+   "area": "Engineering",
+   "cities": [
+    "Liverpool",
+    "Manchester",
+    "London"
+   ],
+   "start": "Sep 2027",
+   "dl": null,
+   "dlNote": "no closing date – may close early; assessment centres from 30 Nov 2026",
+   "status": "open",
+   "salary": "£31,000",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": true,
+   "reqText": "Engineering Council accredited degree in electrical/building services or mechanical engineering or closely related; graduating 2027 or within last 3 years; full driving licence",
+   "qual": "None",
+   "notes": "2-year programme; no visa sponsorship; assessment centres London 30 Nov–1 Dec, Salford 8–9 Dec 2026, Birmingham 13–14 Jan 2027.",
+   "links": {},
+   "checked": "2026-11-27"
+  },
+  {
+   "id": "d27c-kier-graduate-civil-structural-geotechnical-design-engineer",
+   "emp": "Kier",
+   "title": "Graduate Civil / Structural / Geotechnical Design Engineer 2027 (Kier Design)",
+   "url": "https://www.brightnetwork.co.uk/graduate-jobs/kier-group/graduate-civilstructuralgeotechnical-design-engineer-2027-an8s",
+   "src": "Bright Network",
+   "disciplines": [
+    "engineering"
+   ],
+   "area": "Engineering",
+   "cities": [
+    "Liverpool",
+    "Leeds",
+    "Birmingham",
+    "London",
+    "Salford",
+    "Penrith",
+    "Norwich",
+    "Ipswich",
+    "Basingstoke",
+    "Rushden",
+    "Bristol",
+    "Exeter"
+   ],
+   "start": "Sep 2027",
+   "dl": null,
+   "dlNote": "no closing date – may close early; assessment centres from 30 Nov 2026",
+   "status": "open",
+   "salary": "£31,000",
+   "degreeMin": null,
+   "ucasMin": null,
+   "alevels": null,
+   "alevelSubject": null,
+   "gcseMaths": null,
+   "gcseEnglish": null,
+   "licence": false,
+   "reqText": "Engineering Council accredited degree in civil, structural or geotechnical engineering or closely related; graduating 2027 or within last 3 years; full driving licence or availability to travel",
+   "qual": "None",
+   "notes": "2-year programme; licence OR ability to travel as required; no visa sponsorship.",
+   "links": {},
+   "checked": "2026-11-27"
   }
  ]
 }
